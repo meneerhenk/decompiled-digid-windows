@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="CID30_Project_Site" xml:space="preserve"><value>Sitio di proyekto</value></data>
+  <data name="CID21_Lettergrootte" xml:space="preserve"><value>Tamaño di lèter</value></data>
+  <data name="FM05_Titel" xml:space="preserve"><value>Chekeo di ID pará</value></data>
+  <data name="CID26_Support" xml:space="preserve"><value>Sosten</value></data>
+  <data name="CID03_Stap1" xml:space="preserve"><value>Log in</value></data>
+  <data name="CID03_Stap2" xml:space="preserve"><value>Chekeo di ID</value></data>
+  <data name="CID03_Titel" xml:space="preserve"><value>Pasonan di e ID-check</value></data>
+  <data name="CID03_Intro" xml:space="preserve"><value>Pa agregá e chekeo di ID bo mester tuma e siguiente pasonan:</value></data>
+  <data name="CID01_LinkText" xml:space="preserve"><value>Kiko ta Chekeo di ID?</value></data>
+  <data name="FM01_Titel" xml:space="preserve"><value>Vershon nobo optenibel</value></data>
+  <data name="FM01_Knop2" xml:space="preserve"><value>Aktualisá</value></data>
+  <data name="FM01_Knop1" xml:space="preserve"><value>Mi ta aktualisá e app despues</value></data>
+  <data name="CID13_Knop" xml:space="preserve"><value>Kla</value></data>
+  <data name="CID07_Titel" xml:space="preserve"><value>Log in</value></data>
+  <data name="CID20_Instellingen" xml:space="preserve"><value>Settingnan</value></data>
+  <data name="CID21_Taal" xml:space="preserve"><value>Idioma</value></data>
+  <data name="CID30_Titel" xml:space="preserve"><value>Bibliotekanan di open-source</value></data>
+  <data name="CID30_Intro" xml:space="preserve"><value>Esaki ta e bibliotekanan open-source ku ta usa den e appnan aki.</value></data>
+  <data name="FM06_Titel" xml:space="preserve"><value>Sende NFC</value></data>
+  <data name="CID02_Titel" xml:space="preserve"><value>Chekeo di ID</value></data>
+  <data name="CID02_Info1" xml:space="preserve"><value>Mas i mas organisashon ta eksihí pa bo agregá un chekeo di ID na bo app di DigiD.</value></data>
+  <data name="CID02_Info2" xml:space="preserve"><value>Esaki ta duna mas seguridat di ku ta e persona korekto ta log in i por yega na e datonan personal.</value></data>
+  <data name="CID02_Info3" xml:space="preserve"><value>Durante e ID check bo ta skèn e chip riba bo dokumento di identifikashon. E app ta kontrolá si e dokumento di identifikashon ta bálido i si e ta di bo.</value></data>
+  <data name="CID02_Info4" xml:space="preserve"><value>Despues di skèn ku e CheckID app, lo agregá e ID check na bo DigiD app. E ID check ta válido pa un aña.</value></data>
+  <data name="CID02_Info5" xml:space="preserve"><value>E app ta kontrolá si e dokumento di identifikashon ta bálido i si e ta di bo.
+</value></data>
+  <data name="CID02_Info6" xml:space="preserve"><value>No ta warda datonan personal riba e aparato aki òf den e DigiD app.</value></data>
+  <data name="CID02_Info7" xml:space="preserve"><value>Lo no warda dato personal riba e aparato aki òf den e app di DigiD.</value></data>
+  <data name="CID01_Message" xml:space="preserve"><value>Ku e app aki bo por ehekutá e chekeo di ID pa e app di DigiD riba un otro aparato.
+
+Ku esaki DigiD ta kontrolá si bo prueba di identidat ta bálido i di bo. Esaki ta nesesario pa log in serka sierto organisashon.</value></data>
+  <data name="CID20_MenuHulpInfo" xml:space="preserve"><value>Asistensia &amp; Informashon</value></data>
+  <data name="FM02_Titel" xml:space="preserve"><value>Vershon nobo optenibel</value></data>
+  <data name="CID30_Licentie_Site" xml:space="preserve"><value>Sitio di lisensia</value></data>
+  <data name="CID01_Titel" xml:space="preserve"><value>App di Chekeo di ID</value></data>
+  <data name="CID26_SubTitle" xml:space="preserve"><value>Demas</value></data>
+  <data name="CID06_Titel" xml:space="preserve"><value>Log in</value></data>
+  <data name="CID27_Intro" xml:space="preserve"><value>Si bo yama nos ku un pregunta tokante bo app CheckID, nos por pidi bo pa e siguiente informashon:</value></data>
+  <data name="CID21_Dyslexia" xml:space="preserve"><value>Tipo di lèter disleksia</value></data>
+  <data name="FM08_Titel" xml:space="preserve"><value>No a logra hasi e chekeo di ID </value></data>
+  <data name="FM07_Titel" xml:space="preserve"><value>No a logra hasi e chekeo di ID </value></data>
+  <data name="CID05_Titel" xml:space="preserve"><value>Kódigo di konekshon</value></data>
+  <data name="FM08_Body" xml:space="preserve"><value>Kisas bo a skèn un dokumento robes aksidentalmente. Por ehèmpel un dokumento di un otro hende òf un prueba di identidat di eksterior. Kontrolá si bo tin e dokumento korekto, i kuminsá di nobo.</value></data>
+  <data name="CID05_Info4" xml:space="preserve"><value>3. Tek riba e boton oraño ‘Kódigo di konekshon'.</value></data>
+  <data name="CID05_Info3" xml:space="preserve"><value>2. Primi riba e kònòpi serka ‘Mester di Kódigo di konekshon?’.
+</value></data>
+  <data name="CID05_Info2" xml:space="preserve"><value>1. Habri e DigiD app. E app mester ta aktivá.</value></data>
+  <data name="CID05_Info1" xml:space="preserve"><value>Sigui e pasonan aki pa haña e kódigo di konekshon:</value></data>
+  <data name="CID21_Titel" xml:space="preserve"><value>Settingnan</value></data>
+  <data name="FM04_Body" xml:space="preserve"><value>Kontrolá bo konekshon di internet i purba di nobo.</value></data>
+  <data name="FM05_Body" xml:space="preserve"><value>A para e chekeo di ID for di e app di DigiD.</value></data>
+  <data name="FM06_Body" xml:space="preserve"><value>E lesadó di NFC mester ta sendé pa por kaba di lesa e chip riba bo prueba di identidat. </value></data>
+  <data name="FM06_Knop" xml:space="preserve"><value>Sende NFC</value></data>
+  <data name="CID21_DarkMode" xml:space="preserve"><value>Dark mode</value></data>
+  <data name="FM07_Body" xml:space="preserve"><value>No a logra skèn bo prueba di identidat. Bo ke purba di nobo?</value></data>
+  <data name="FM07_Knop" xml:space="preserve"><value>Purba di nobo</value></data>
+  <data name="FM02_Knop" xml:space="preserve"><value>Aktualisá</value></data>
+  <data name="FM03_Body" xml:space="preserve"><value>Lástimamente e app aki ta di lòk. Bolbe purba despues.</value></data>
+  <data name="FM04_Titel" xml:space="preserve"><value>No tin konekshon</value></data>
+  <data name="FM03_Titel" xml:space="preserve"><value>Di lòk</value></data>
+  <data name="CID26_Contact" xml:space="preserve"><value>Kontakto</value></data>
+  <data name="CID31_Intro" xml:space="preserve"><value>Nos ta presta hopi atenshon na e aksesibilidat i fasilidat di uso di e app di Check-ID. Nos empeño ta pa hasi e app di tal forma ku tur hende por usa esaki. P’esei nos ta sigui e eksigensianan pa aksesibilidat digital durante konstrukshon di e app. </value></data>
+  <data name="CID25_Intro" xml:space="preserve"><value>Bo tin un pregunta tokante e app aki? Tuma kontakto ku DigiD e ora ei.</value></data>
+  <data name="CID26_Title" xml:space="preserve"><value>Asistensia &amp; Informashon</value></data>
+  <data name="CID03_Stap1Body" xml:space="preserve"><value>Log in pa mustra ken bo ta.</value></data>
+  <data name="CID03_Stap2Body" xml:space="preserve"><value>Skèn e prueba di identidat.</value></data>
+  <data name="CID21_Statistieken" xml:space="preserve"><value>Statistiknan</value></data>
+  <data name="CID01_Knop" xml:space="preserve"><value>Start</value></data>
+  <data name="CID04_Titel" xml:space="preserve"><value>Log in</value></data>
+  <data name="CID20_Titel" xml:space="preserve"><value>Menú</value></data>
+  <data name="CID20_Debug" xml:space="preserve"><value>Debug e settingnan</value></data>
+  <data name="CID04_Body" xml:space="preserve"><value>Habri bo DigiD app riba e otro aparato i skohe ‘Kódigo di konekshon’.</value></data>
+  <data name="CID04_Link" xml:space="preserve"><value>Mi no por haña e kódigo di konekshon</value></data>
+  <data name="CID07_Body" xml:space="preserve"><value>Klek riba ‘Konfirmá’ riba e otro aparato.</value></data>
+  <data name="CID06_Body" xml:space="preserve"><value>Skèn e kódigo QR aki ku e app di DigiD riba e otro aparato.</value></data>
+  <data name="CID26_OpenSource" xml:space="preserve"><value>Bibliotekanan di open-source</value></data>
+  </root>

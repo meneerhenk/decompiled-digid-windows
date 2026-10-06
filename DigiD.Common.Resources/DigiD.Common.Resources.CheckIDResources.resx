@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="CID30_Project_Site" xml:space="preserve"><value>Project site</value></data>
+  <data name="CID21_Lettergrootte" xml:space="preserve"><value>Lettergrootte</value></data>
+  <data name="FM05_Titel" xml:space="preserve"><value>ID-check afgebroken</value></data>
+  <data name="CID26_Support" xml:space="preserve"><value>Ondersteuning</value></data>
+  <data name="CID03_Stap1" xml:space="preserve"><value>Inloggen</value></data>
+  <data name="CID03_Stap2" xml:space="preserve"><value>ID-check</value></data>
+  <data name="CID03_Titel" xml:space="preserve"><value>Stappen van de ID-check</value></data>
+  <data name="CID03_Intro" xml:space="preserve"><value>Om de ID-check toe te voegen, moet u de volgende stappen doorlopen:</value></data>
+  <data name="CID01_LinkText" xml:space="preserve"><value>Wat is ID-Check?</value></data>
+  <data name="FM01_Titel" xml:space="preserve"><value>Nieuwe versie beschikbaar</value></data>
+  <data name="FM01_Knop2" xml:space="preserve"><value>Bijwerken</value></data>
+  <data name="FM01_Knop1" xml:space="preserve"><value>Ik werk de app later bij</value></data>
+  <data name="CID13_Knop" xml:space="preserve"><value>Klaar</value></data>
+  <data name="CID07_Titel" xml:space="preserve"><value>Inloggen</value></data>
+  <data name="CID20_Instellingen" xml:space="preserve"><value>Instellingen</value></data>
+  <data name="CID21_Taal" xml:space="preserve"><value>Taal</value></data>
+  <data name="CID30_Titel" xml:space="preserve"><value>Open-source libraries</value></data>
+  <data name="CID30_Intro" xml:space="preserve"><value>Dit zijn de open-source bibliotheken die in deze app gebruikt worden.</value></data>
+  <data name="FM06_Titel" xml:space="preserve"><value>Zet NFC aan</value></data>
+  <data name="CID02_Titel" xml:space="preserve"><value>ID-check</value></data>
+  <data name="CID02_Info1" xml:space="preserve"><value>Bij steeds meer organisaties moet u een ID-check toevoegen aan uw DigiD app.</value></data>
+  <data name="CID02_Info2" xml:space="preserve"><value>Dit geeft organisaties meer zekerheid dat de juiste persoon inlogt en bij persoonlijke gegevens kan.</value></data>
+  <data name="CID02_Info3" xml:space="preserve"><value>Tijdens de lD-check scant u de chip op uw identiteitsbewijs. De app controleert of het identiteitsbewijs geldig is en of het van u is.</value></data>
+  <data name="CID02_Info4" xml:space="preserve"><value>Na het scannen met de ChecklD app wordt de ID-check aan uw DigiD app toegevoegd. De ID-check is een jaar geldig.</value></data>
+  <data name="CID02_Info5" xml:space="preserve"><value>De app controleert of het identiteitsbewijs geldig is en of het van u is.
+</value></data>
+  <data name="CID02_Info6" xml:space="preserve"><value>Er worden geen persoonlijke gegevens opgeslagen op dit apparaat of in de DigiD app.</value></data>
+  <data name="CID02_Info7" xml:space="preserve"><value>Er worden geen persoonlijke gegevens opgeslagen op dit apparaat of in de DigiD app.</value></data>
+  <data name="CID01_Message" xml:space="preserve"><value>Met deze app kun je de ID-check uitvoeren voor de DigiD app op een ander apparaat. DigiD controleert zo of het identiteitsbewijs geldig en van u is. De ID-check is één jaar geldig. </value></data>
+  <data name="CID20_MenuHulpInfo" xml:space="preserve"><value>Hulp &amp; Informatie</value></data>
+  <data name="FM02_Titel" xml:space="preserve"><value>Nieuwe versie beschikbaar</value></data>
+  <data name="CID30_Licentie_Site" xml:space="preserve"><value>Licence site</value></data>
+  <data name="CID01_Titel" xml:space="preserve"><value>CheckID app</value></data>
+  <data name="CID26_SubTitle" xml:space="preserve"><value>Overig</value></data>
+  <data name="CID06_Titel" xml:space="preserve"><value>Inloggen</value></data>
+  <data name="CID27_Intro" xml:space="preserve"><value>Als u ons belt met een vraag over uw CheckID app, kunnen wij u vragen om de volgende informatie:</value></data>
+  <data name="CID21_Dyslexia" xml:space="preserve"><value>Dyslexie-lettertype</value></data>
+  <data name="FM08_Titel" xml:space="preserve"><value>ID-check niet gelukt </value></data>
+  <data name="FM07_Titel" xml:space="preserve"><value>ID-check niet gelukt </value></data>
+  <data name="CID05_Titel" xml:space="preserve"><value>Koppelcode</value></data>
+  <data name="FM08_Body" xml:space="preserve"><value>Misschien heeft u per ongeluk een verkeerd document gescand. Bijvoorbeeld een document van iemand anders of een buitenlands identiteitsbewijs. Controleer of u het juiste document heeft, en begin opnieuw.</value></data>
+  <data name="CID05_Info4" xml:space="preserve"><value>3. Tik op de oranje knop ‘Koppelcode’. </value></data>
+  <data name="CID05_Info3" xml:space="preserve"><value>2. Voer uw pincode in.</value></data>
+  <data name="CID05_Info2" xml:space="preserve"><value>1. Open de DigiD app. De app moet geactiveerd zijn.</value></data>
+  <data name="CID05_Info1" xml:space="preserve"><value>Volg deze stappen om de koppelcode te vinden:</value></data>
+  <data name="CID21_Titel" xml:space="preserve"><value>Instellingen</value></data>
+  <data name="FM04_Body" xml:space="preserve"><value>Controleer uw internetverbinding en probeer het opnieuw.</value></data>
+  <data name="FM05_Body" xml:space="preserve"><value>De ID-check is afgebroken vanuit de DigiD app.</value></data>
+  <data name="FM06_Body" xml:space="preserve"><value>De NFC-lezer moet aan staan om de chip op uw identiteitsbewijs te kunnen uitlezen. </value></data>
+  <data name="FM06_Knop" xml:space="preserve"><value>NFC aanzetten</value></data>
+  <data name="CID21_DarkMode" xml:space="preserve"><value>Donkere modus</value></data>
+  <data name="FM07_Body" xml:space="preserve"><value>Het is niet gelukt om uw identiteitsbewijs te scannen. Wilt u het opnieuw proberen?</value></data>
+  <data name="FM07_Knop" xml:space="preserve"><value>Opnieuw proberen</value></data>
+  <data name="FM02_Knop" xml:space="preserve"><value>Bijwerken</value></data>
+  <data name="FM03_Body" xml:space="preserve"><value>Helaas is deze app vergrendeld. Probeer het later nog eens.</value></data>
+  <data name="FM04_Titel" xml:space="preserve"><value>Geen verbinding</value></data>
+  <data name="FM03_Titel" xml:space="preserve"><value>Vergrendeld</value></data>
+  <data name="CID26_Contact" xml:space="preserve"><value>Contact</value></data>
+  <data name="CID31_Intro" xml:space="preserve"><value>Wij besteden veel aandacht aan de toegankelijkheid en gebruiksvriendelijkheid van de Check-ID app. Het streven is de app zo te maken dat iedereen deze kan gebruiken. Daarom volgen wij de eisen voor digitale toegankelijkheid bij de bouw van de app. </value></data>
+  <data name="CID25_Intro" xml:space="preserve"><value>Heeft u een vraag over deze app? Neem dan contact op met DigiD.</value></data>
+  <data name="CID26_Title" xml:space="preserve"><value>Hulp &amp; Informatie</value></data>
+  <data name="CID03_Stap1Body" xml:space="preserve"><value>Log in om te laten zien wie u bent.</value></data>
+  <data name="CID03_Stap2Body" xml:space="preserve"><value>Scan het identiteitsbewijs.</value></data>
+  <data name="CID21_Statistieken" xml:space="preserve"><value>Statistieken</value></data>
+  <data name="CID01_Knop" xml:space="preserve"><value>Start</value></data>
+  <data name="CID04_Titel" xml:space="preserve"><value>Inloggen</value></data>
+  <data name="CID20_Titel" xml:space="preserve"><value>Menu</value></data>
+  <data name="CID20_Debug" xml:space="preserve"><value>Debug instellingen</value></data>
+  <data name="CID04_Body" xml:space="preserve"><value>Open uw DigiD app op het andere apparaat en kies ‘Koppelcode’. Vul die code hier in.</value></data>
+  <data name="CID04_Link" xml:space="preserve"><value>Ik kan de koppelcode niet vinden</value></data>
+  <data name="CID07_Body" xml:space="preserve"><value>Klik op 'Bevestigen' op het andere apparaat.</value></data>
+  <data name="CID06_Body" xml:space="preserve"><value>Scan deze QR-code met de DigiD app op het andere apparaat.</value></data>
+  <data name="CID26_OpenSource" xml:space="preserve"><value>Open-source bibliotheken</value></data>
+  </root>

@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>DigiD.Common.Models</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>12.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="Microsoft.Maui.Controls">
+      <HintPath>../../app/Microsoft.Maui.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json">
+      <HintPath>../../app/System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq">
+      <HintPath>../../app/System.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="DigiD.Common.Resources">
+      <HintPath>../../app/DigiD.Common.Resources.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections">
+      <HintPath>../../app/System.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Maui.Essentials">
+      <HintPath>../../app/Microsoft.Maui.Essentials.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

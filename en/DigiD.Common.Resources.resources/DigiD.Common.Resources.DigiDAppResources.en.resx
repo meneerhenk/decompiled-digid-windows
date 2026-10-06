@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="BiometricsPermissionNotGivenTitle" xml:space="preserve"><value>Permission required to turn on login with Face ID</value></data>
+  <data name="DG089_BiometricsEnabled" xml:space="preserve"><value>Login with {0} has been set up</value></data>
+  <data name="DG088_Title" xml:space="preserve"><value>Log in faster with {0}</value></data>
+  <data name="DG038_Message_DeactivateOtherDeviceWithoutTimeStamp" xml:space="preserve"><value>You are about to deactivate a DigiD app that has not been used before. This is &lt;b&gt;not&lt;/b&gt; the app you are currently using (&lt;b&gt;{0}&lt;/b&gt;, not previously used).</value></data>
+  <data name="DG052_Emailadres" xml:space="preserve"><value>Email address</value></data>
+  <data name="FM015_Melding_NoDate" xml:space="preserve"><value>Wrong activation code. Use the code from the letter that you received by post. This code always starts with an A.</value></data>
+  <data name="DG058_OffSwitch" xml:space="preserve"><value>Off (recommended)</value></data>
+  <data name="DG044_MenuMijnDigiD" xml:space="preserve"><value>My DigiD</value></data>
+  <data name="DG021_Failed" xml:space="preserve"><value>Login failed. You must first complete the ID check to log in to this service. You can try again at another time by choosing 'ID check' in the menu.</value></data>
+  <data name="DG030_Letter_Title" xml:space="preserve"><value>Enter PIN code from letter</value></data>
+  <data name="HLP06_LinkOverslaan" xml:space="preserve"><value>Confirm later</value></data>
+  <data name="FM109_Message" xml:space="preserve"><value>If you turn this on, you can take screenshots and share screens from the DigiD app. This may be necessary for assistive software.
+
+Turn this setting off when you no longer need it.</value></data>
+  <data name="DG086_Message" xml:space="preserve"><value>Have you already used the PIN code from the letter to activate the login function of your {0}?</value></data>
+  <data name="DG017_Text" xml:space="preserve"><value>Scan your identity document with your phone. DigiD verifies that the identity document is valid and yours. 
+
+The ID check is valid for one year.
+
+</value></data>
+  <data name="HLP06_NieuweCode" xml:space="preserve"><value>Send a new verification code</value></data>
+  <data name="DG037_InloggenKnop" xml:space="preserve"><value>More explanation</value></data>
+  <data name="DG046_DarkMode" xml:space="preserve"><value>Dark mode</value></data>
+  <data name="DG085_Step2_Title" xml:space="preserve"><value>Enter PIN</value></data>
+  <data name="HLP11_Body_ForgotPincode" xml:space="preserve"><value>Unfortunately, changing your PIN code is not possible if you have forgotten it.
+
+You will need to deactivate the app instead.
+
+If you then reactivate the app, you can choose a new PIN code.
+
+Resetting the app will not cause you to lose any data.</value></data>
+  <data name="DG052_2Stappen" xml:space="preserve"><value>Always log in with two-step verification</value></data>
+  <data name="DG086_ButtomSheet_Message" xml:space="preserve"><value>Have you picked up your new identity card or your new driver's license? Then you will receive a letter from DigiD with a PIN code within {0} working days. With this PIN code you can activate the login function of your identity document.
+
+Letter lost or not received?
+Did you not receive a letter with a PIN code, did you lose the letter or is the PIN code in the letter illegible? Then you can request a copy of the original letter within 6 weeks after your identity document has been issued. Please contact the DigiD helpdesk for this.</value></data>
+  <data name="DG085_Step1_Title" xml:space="preserve"><value>Scan {0}</value></data>
+  <data name="HLP12_WachtwoordSucces" xml:space="preserve"><value>Your password has been changed.</value></data>
+  <data name="DG086_ButtomSheet_LinkText" xml:space="preserve"><value>Contact the DigiD helpdesk</value></data>
+  <data name="DG001C_Intro" xml:space="preserve"><value>Completed successfully! Your PIN code has been set.</value></data>
+  <data name="DG059_OverdeApp" xml:space="preserve"><value>About the DigiD app</value></data>
+  <data name="DG086_ButtomSheet_Title" xml:space="preserve"><value>PIN code from letter</value></data>
+  <data name="BiometricsPermissionNotGivenMessage" xml:space="preserve"><value>Turn on the toggle for Face ID in the DigiD app settings.</value></data>
+  <data name="DG057_Knop_App" xml:space="preserve"><value>DigiD app</value></data>
+  <data name="DG057_Knop_WID" xml:space="preserve"><value>Identity document</value></data>
+  <data name="DG089_Message" xml:space="preserve"><value>Log in quickly and securely with {0}. Make sure that your device can only be accessed with your own {1}.</value></data>
+  <data name="BiometricsTouchId" xml:space="preserve"><value>Touch ID</value></data>
+  <data name="BiometricsPermissionNotGivenButton" xml:space="preserve"><value>To app settings</value></data>
+  <data name="DG086_LinkText" xml:space="preserve"><value>I’m not sure</value></data>
+  <data name="DG059_Titel" xml:space="preserve"><value>Help and information</value></data>
+  <data name="DG088_Button_Yes" xml:space="preserve"><value>Yes, set</value></data>
+  <data name="FaceID" xml:space="preserve"><value>FaceID</value></data>
+  <data name="HLP02_InfoNummerKloptNiet" xml:space="preserve"><value>Or are you unable to receive an SMS on this number?</value></data>
+  <data name="DG058_Explanation" xml:space="preserve"><value>By default, you cannot share a screen from the DigiD app or take a screenshot.
+
+We do this to protect your personal information.</value></data>
+  <data name="HLP12_StartSMS" xml:space="preserve"><value>You are now going to enable SMS verification for your DigiD.</value></data>
+  <data name="DG009_InfoBuitenland" xml:space="preserve"><value>Apply for a DigiD via the website.</value></data>
+  <data name="DG038_Message_DeactivateOtherDeviceWithTimeStamp" xml:space="preserve"><value>You are about to deactivate a DigiD app: &lt;b&gt;{0}&lt;/b&gt;. This was last used on &lt;b&gt;{1} at {2} hours&lt;/b&gt;. This is &lt;b&gt;not&lt;/b&gt; the app you are currently using. </value></data>
+  <data name="DG043_Uitleg" xml:space="preserve"><value>Your device does not have an NFC reader to perform the ID check with now. You can do this in another way. </value></data>
+  <data name="DG087_CheckBox_Text" xml:space="preserve"><value>I understand</value></data>
+  <data name="HLP11_Body_Login" xml:space="preserve"><value>Open the browser and go to the website you want to log in to. Here select ‘Log in with the DigiD app’. Enter your PIN code.
+
+Are you opening the website on your computer? Then open the DigiD app yourself and enter your PIN code. After that, first copy the verification code from the app and scan the QR code on the website with your smartphone or tablet.
+
+Are you logging in to an app from the government, healthcare, education or a pension fund? Open the app of the organisation where you want to log in at. This will automatically open the DigiD app.</value></data>
+  <data name="HLP12_EmailVerwSucces" xml:space="preserve"><value>The email address has been deleted.</value></data>
+  <data name="DG075_Titel" xml:space="preserve"><value>Driving licence number</value></data>
+  <data name="HLP04_InfoInvullen" xml:space="preserve"><value>For example, enter ‘00 February 1954’ if date of birth is unknown. Or ‘00 unknown 0000’ if your entire date of birth is unknown.</value></data>
+  <data name="HLP11_Title_BTL" xml:space="preserve"><value>I live outside the Netherlands. Can I use the app?</value></data>
+  <data name="DG063_Subtitel" xml:space="preserve"><value>About DigiD</value></data>
+  <data name="DG037_InloggenStap1" xml:space="preserve"><value>1. Go to a website to log in.</value></data>
+  <data name="DG037_InloggenStap2" xml:space="preserve"><value>2. Select to log in with the DigiD app.</value></data>
+  <data name="DG043_Intro" xml:space="preserve"><value>To log in to this organisation, you must first perform the ID check once. </value></data>
+  <data name="DG012_PostcodeCorrect" xml:space="preserve"><value>Valid postcode</value></data>
+  <data name="DG043_Titel" xml:space="preserve"><value>ID check</value></data>
+  <data name="DG043_Knop" xml:space="preserve"><value>More information</value></data>
+  <data name="DG044_MenuIDcheck" xml:space="preserve"><value>ID check</value></data>
+  <data name="DG067B_ButtonText" xml:space="preserve"><value>Activate</value></data>
+  <data name="DG038_Intro" xml:space="preserve"><value>You are going to log in at:</value></data>
+  <data name="HLP07_LinkFilmpje" xml:space="preserve"><value>Watch the video on the website</value></data>
+  <data name="DG038_Titel" xml:space="preserve"><value>Log in</value></data>
+  <data name="Fingerprint" xml:space="preserve"><value>Fingerprint</value></data>
+  <data name="DG046_Titel" xml:space="preserve"><value>Settings</value></data>
+  <data name="DG055_Intro3" xml:space="preserve"><value>You can log in to organisations that require an ID check until {0}. After that, you need to do the ID check again.</value></data>
+  <data name="DG055_Intro2" xml:space="preserve"><value>Your ID check will expire soon.</value></data>
+  <data name="DG046_Dyslexie" xml:space="preserve"><value>Dyslexia font</value></data>
+  <data name="DG003_AndereApp" xml:space="preserve"><value>Login with other device</value></data>
+  <data name="DG031_KnopBriefOntvangen" xml:space="preserve"><value>I have received the letter</value></data>
+  <data name="DG030_Message" xml:space="preserve"><value>Enter the PIN code of your {0}.</value></data>
+  <data name="DG038_EHA_Bericht" xml:space="preserve"><value>No pairing code required</value></data>
+  <data name="DG044_MenuBerichten" xml:space="preserve"><value>Messages</value></data>
+  <data name="FM109_Title" xml:space="preserve"><value>Turn on screen sharing?</value></data>
+  <data name="DG039_KnopUitleg" xml:space="preserve"><value>More information about logging in</value></data>
+  <data name="DG029_InfoSluiten" xml:space="preserve"><value>You can now close the app. Proceed with the activation once you have received the letter.</value></data>
+  <data name="HLP12_SMSSucces" xml:space="preserve"><value>SMS verification has been enabled.</value></data>
+  <data name="DG059_Privacy" xml:space="preserve"><value>Privacy statement</value></data>
+  <data name="Demo_Close" xml:space="preserve"><value>Close</value></data>
+  <data name="DG085_Step2_Text" xml:space="preserve"><value>Enter the PIN for your {0}.</value></data>
+  <data name="DG046_Taal" xml:space="preserve"><value>Language</value></data>
+  <data name="DG016_Intro" xml:space="preserve"><value>Choose a PIN code to open the app with.</value></data>
+  <data name="HLP12_EmailToevSucces" xml:space="preserve"><value>The email address has been added.</value></data>
+  <data name="DG085_Step3_Text" xml:space="preserve"><value>Enter a PIN of your choice.</value></data>
+  <data name="HLP07_AnderApparaat" xml:space="preserve"><value>Open the DigiD app when a verification code is requested.</value></data>
+  <data name="DG046_TouchID" xml:space="preserve"><value>Log in with Touch ID</value></data>
+  <data name="DG012_PostcodeVeld" xml:space="preserve"><value>Postalcode</value></data>
+  <data name="DG085_Step4_Text" xml:space="preserve"><value>Scan your {0} one more time. Then you're done.</value></data>
+  <data name="DG012_PostcodeHelp" xml:space="preserve"><value>Enter your postcode without spaces. For example 1234AA.</value></data>
+  <data name="DG001_Stap3Message_KAFailed" xml:space="preserve"><value>Your device is not suitable for performing the ID check.</value></data>
+  <data name="DG038_IDCheckExpireSoonWarningMessage" xml:space="preserve"><value>Your ID check is about to expire. You can do the ID check after logging in.</value></data>
+  <data name="FM109_TurnOn" xml:space="preserve"><value>Turn on</value></data>
+  <data name="DG065_Intro" xml:space="preserve"><value>We pay a lot of attention to the accessibility and user-friendliness of the DigiD app. The aim is to develop the app in a way that it can be used by anyone. That is why we adhere to the requirements for digital accessibility when developing the app. </value></data>
+  <data name="HLP02_Subtitel" xml:space="preserve"><value>Check your phone number</value></data>
+  <data name="DG045_Knop" xml:space="preserve"><value>To settings</value></data>
+  <data name="HLP02_Titel" xml:space="preserve"><value>No SMS received</value></data>
+  <data name="DG059_Contact" xml:space="preserve"><value>Contact</value></data>
+  <data name="DG039_Uitleg" xml:space="preserve"><value>You only need the verification code if you want to log in on another device, for example, your computer. </value></data>
+  <data name="DG059_Ondersteuning" xml:space="preserve"><value>Support</value></data>
+  <data name="DG054_Titel" xml:space="preserve"><value>Email address</value></data>
+  <data name="DG035C_PinConfirmText" xml:space="preserve"><value>Confirm your choice by entering your PIN code.</value></data>
+  <data name="HLP12_StartEmailVerw" xml:space="preserve"><value>You are now going to delete an email address from your DigiD.</value></data>
+  <data name="HLP12_StartEmailToev" xml:space="preserve"><value>You are now going to add an email address to your DigiD.</value></data>
+  <data name="HLP05_Button" xml:space="preserve"><value>Reset the app</value></data>
+  <data name="DG085_Step1_Text" xml:space="preserve"><value>This is how we check if your {0} is suitable.</value></data>
+  <data name="BiometricsFingerprint" xml:space="preserve"><value>Fingerprint</value></data>
+  <data name="HLP12_OpheffenSucces" xml:space="preserve"><value>Your DigiD has been deleted. You can no longer log in with the app.</value></data>
+  <data name="DG010_Helptekst" xml:space="preserve"><value>Your citizen service number (BSN) can be found on your Dutch identity document or healthcare card. It is sometimes also referred to as ‘personal identification number’.</value></data>
+  <data name="DG070_Info" xml:space="preserve"><value>Follow the instructions on the other device.</value></data>
+  <data name="DG017_Button1" xml:space="preserve"><value>Skip this</value></data>
+  <data name="DG017_Button2" xml:space="preserve"><value>Start ID-check</value></data>
+  <data name="Demo_ResetCard" xml:space="preserve"><value>Reset card</value></data>
+  <data name="DG070_Titel" xml:space="preserve"><value>Adding the ID check</value></data>
+  <data name="BiometricsSubtitle" xml:space="preserve"><value>Use your {0} to continue</value></data>
+  <data name="DG041_Uitleg" xml:space="preserve"><value>You add the ID check by scanning your Dutch passport, identity card or driving licence once. DigiD then checks if the identity document is valid and yours. The ID check is valid for one year.</value></data>
+  <data name="HLP10_3Titel" xml:space="preserve"><value>Follow the steps</value></data>
+  <data name="DG042_Uitleg" xml:space="preserve"><value>Your device does not have an NFC reader to perform the ID check with now. You can do this in another way, later. Check the menu of the app for more information.</value></data>
+  <data name="DG030_Letter_Message" xml:space="preserve"><value>Enter the {0} PIN code you received in the letter.</value></data>
+  <data name="HLP10_2Titel" xml:space="preserve"><value>Download the CheckID app</value></data>
+  <data name="HLP12_TelnummerSucces" xml:space="preserve"><value>Your phone number has been changed.</value></data>
+  <data name="DG087_Warning_Title" xml:space="preserve"><value>Note</value></data>
+  <data name="FM108_Title" xml:space="preserve"><value>Your account has been activated</value></data>
+  <data name="DG075_Info" xml:space="preserve"><value>Enter your driving licence number. 
+
+You will find this number on the front of your driving licence, in section 5.</value></data>
+  <data name="DG001_Stap3Titel_KAFailed" xml:space="preserve"><value>ID check not possible</value></data>
+  <data name="DG038_Timeout" xml:space="preserve"><value>Time remaining to log in:</value></data>
+  <data name="DG033_EmailVeld" xml:space="preserve"><value>Email address</value></data>
+  <data name="HLP07_InfoFilmpje" xml:space="preserve"><value>Our website contains a video with more detailed explanations on how to log in.</value></data>
+  <data name="HLP10_5Titel" xml:space="preserve"><value>This information</value></data>
+  <data name="DG044_Subtitel" xml:space="preserve"><value>Other</value></data>
+  <data name="DG074_Info" xml:space="preserve"><value>Enter the 6-digit code from your identity card. 
+
+You will find this code on the front of your identity card, next to your signature.</value></data>
+  <data name="DG008_Intro" xml:space="preserve"><value>Click ‘Confirm’ on the other device.</value></data>
+  <data name="DG008_Titel" xml:space="preserve"><value>Log in</value></data>
+  <data name="DG036_Geboortedatum" xml:space="preserve"><value>Date of birth</value></data>
+  <data name="HLP10_4Titel" xml:space="preserve"><value>ID check added</value></data>
+  <data name="DG036_Toevoeging" xml:space="preserve"><value>Suffix</value></data>
+  <data name="DG011_Months" xml:space="preserve"><value>unknown,January,February,March,April,May,June,Juli,August,September,October,November,December</value></data>
+  <data name="DG006_Helplink" xml:space="preserve"><value>I cannot find the verification code</value></data>
+  <data name="DG054B_Body" xml:space="preserve"><value>Your DigiD account contains an email address that has not yet been confirmed. Is this email address correct?</value></data>
+  <data name="HLP10_1Titel" xml:space="preserve"><value>Performing the ID check</value></data>
+  <data name="DG012_Intro" xml:space="preserve"><value>Enter the postcode, house number and possibly suffix of your home address.</value></data>
+  <data name="DG085_Step3_Title" xml:space="preserve"><value>Change PIN</value></data>
+  <data name="DG052_Pincode" xml:space="preserve"><value>Change PIN code</value></data>
+  <data name="DG033_Intro" xml:space="preserve"><value>Enter your email address so that we can send you messages. For example, if something changes in your DigiD.
+
+You will receive a verification code at this email address. </value></data>
+  <data name="DG038_SemanticDescription" xml:space="preserve"><value>You are going to log in at {0}</value></data>
+  <data name="DG012_Titel" xml:space="preserve"><value>Address</value></data>
+  <data name="HLP10_Email" xml:space="preserve"><value>
+
+
+This information is forwarded from the DigiD app. You can send this information to yourself or to someone who can help you perform the ID check with the CheckID app.
+——————
+The situation:
+Your device does not have an NFC reader. This is needed to perform the ID check. You can still perform the ID check if you have access to another smartphone with NFC reader, for example, that of a family member.
+
+Use the CheckID app for this:
+Download the CheckID app on the device with NFC reader. You can find the CheckID app in the Apple App Store or Google Play Store.
+
+What do you have to do:
+Open the CheckID app on the device with NFC reader and open the DigiD app on your device. Follow the steps in the CheckID app.
+
+What happens:
+After scanning your identity document with the CheckID app, the ID check will be added to your DigiD app. No personal data is stored on the other device.</value></data>
+  <data name="DG033_Titel" xml:space="preserve"><value>Email address</value></data>
+  <data name="DG001_Stap3Overgeslagen" xml:space="preserve"><value>You have skipped this.</value></data>
+  <data name="DG037_KoppelcodeKnop" xml:space="preserve"><value>Verification code</value></data>
+  <data name="MSG_001_Message" xml:space="preserve"><value>You can do the ID check via the menu in the app.</value></data>
+  <data name="HLP06_Intro" xml:space="preserve"><value>You did not receive an email after a few minutes? Check whether you have entered the email address correctly. Also check your spam folder. If everything is correct, but you have not received an email, you can request a new code.</value></data>
+  <data name="DG045_Melding" xml:space="preserve"><value>You have disabled messages. Go to settings on your device to enable notifications again.</value></data>
+  <data name="DG005_Intro" xml:space="preserve"><value>Enter the activation code from the letter.</value></data>
+  <data name="HLP10_3Body" xml:space="preserve"><value>Open the CheckID app on the device with NFC reader and open the DigiD app on your device. Follow the steps in the CheckID app. </value></data>
+  <data name="HLP10_2Body" xml:space="preserve"><value>Download the CheckID app on the device with NFC reader. You can find the CheckID app in the Apple App Store or Google Play Store. </value></data>
+  <data name="HLP10_5Knop" xml:space="preserve"><value>Forward this information</value></data>
+  <data name="HLP10_5Body" xml:space="preserve"><value>You can forward this information to either yourself or the person helping you. </value></data>
+  <data name="HLP10_4Body" xml:space="preserve"><value>After scanning your identity document with the CheckID app, the ID check will be added to your DigiD app. No personal data is stored on the other device. </value></data>
+  <data name="DG069_Titel" xml:space="preserve"><value>Adding the ID check</value></data>
+  <data name="DG001B_Intro" xml:space="preserve"><value>You have completed the first step. 3 more steps to go.</value></data>
+  <data name="HLP10_1Body" xml:space="preserve"><value>Your device does not have an NFC reader. This is needed to perform the ID check. You can still perform the ID check if you have access to another smartphone with NFC reader, for example, that of a family member.</value></data>
+  <data name="DG012_Huisnummer" xml:space="preserve"><value>House number</value></data>
+  <data name="DG005_Titel" xml:space="preserve"><value>Activation code</value></data>
+  <data name="HLP06_Titel" xml:space="preserve"><value>No email  </value></data>
+  <data name="BiometricsPromptTitle" xml:space="preserve"><value>Confirm it's you</value></data>
+  <data name="DG012_PostcodeIncorrect" xml:space="preserve"><value>Invalid postcode</value></data>
+  <data name="DG062_Intro" xml:space="preserve"><value>Do you have a question about DigiD or this app? Check out our website for more information or contact us:</value></data>
+  <data name="DG058_Title" xml:space="preserve"><value>Screen sharing</value></data>
+  <data name="DG031_Subtitel" xml:space="preserve"><value>You did not receive a letter?</value></data>
+  <data name="TouchID" xml:space="preserve"><value>TouchID</value></data>
+  <data name="HLP01_Titel" xml:space="preserve"><value>DigiD forgotten</value></data>
+  <data name="DG088_Message" xml:space="preserve"><value>Enable login with {0} for fast and secure access. Make sure that your device can only be accessed with your own {1}.</value></data>
+  <data name="HLP02_InfoGesprokenSms" xml:space="preserve"><value>You can also request a voice text message. You will receive a call from an unknown number.</value></data>
+  <data name="HLP01_RequestUserName" xml:space="preserve"><value>Recover username</value></data>
+  <data name="DG035C_Titel" xml:space="preserve"><value>Two-step verification</value></data>
+  <data name="DG010_BSNveld" xml:space="preserve"><value>Citizen service number (BSN)</value></data>
+  <data name="DG062_FAQ" xml:space="preserve"><value>Frequently asked questions</value></data>
+  <data name="DG087_Warning_Message" xml:space="preserve"><value>If you lose your self-selected {0} PIN code, you will need to apply for a new {0} be able to log in with it.</value></data>
+  <data name="DG074_Titel" xml:space="preserve"><value>Your identity card code</value></data>
+  <data name="DG066_Project_Site" xml:space="preserve"><value>Project site</value></data>
+  <data name="DG057_WID_Document" xml:space="preserve"><value>digid_afbeelding_pincode_wijzigen_id_eng</value></data>
+  <data name="HLP11_Title_Activate" xml:space="preserve"><value>How do I activate the app?</value></data>
+  <data name="DG040_Intro" xml:space="preserve"><value>Aim the camera at the QR code.</value></data>
+  <data name="HLP11_Body_IDcheck" xml:space="preserve"><value>More and more organisations require you to add an ID check to the DigiD app. This gives more certainty that data is being shared with the right person. Your medical file, for example.
+
+To perform the ID check, scan the chip on your identity document with the DigiD app. This is how we check your identity.
+
+You can use the following Dutch identity documents:
+   • Identity card
+   • Passport
+   • Drivers licence
+
+We process the following data during the ID check:
+   • Document number/driving licence number
+   • Date of birth
+   • Validity
+
+This data is not stored.</value></data>
+  <data name="DG040_Titel" xml:space="preserve"><value>Scan QR code</value></data>
+  <data name="DG032_Helplink" xml:space="preserve"><value>Reactivating the app</value></data>
+  <data name="DG030_Card_Title" xml:space="preserve"><value>Enter your {0} PIN</value></data>
+  <data name="HLP11_Body_Activate" xml:space="preserve"><value>You can activate the app via an ID check (this is a one-off scan of your identity document), via the SMS verification or with your username and password.
+
+The available options depend on your DigiD account and your type of mobile device.
+
+The DigiD app automatically shows the options you can use.</value></data>
+  <data name="DG053_Titel" xml:space="preserve"><value>Usage history</value></data>
+  <data name="HLP01_SubtitelWachtwoord" xml:space="preserve"><value>Forgot your password?</value></data>
+  <data name="DG030_Helplink" xml:space="preserve"><value>Forgot your PIN code</value></data>
+  <data name="DG016C_Intro" xml:space="preserve"><value>Choose a new PIN code.</value></data>
+  <data name="DG011_Intro" xml:space="preserve"><value>Enter your date of birth.</value></data>
+  <data name="DG029_InfoHerinnering" xml:space="preserve"><value>We can send you a message in {0} days to remind you of the activation. Would you like that?</value></data>
+  <data name="DG038_Message_DeactivateCurrentDevice" xml:space="preserve"><value>&lt;b&gt;Please note:&lt;/b&gt; You are about to deactivate your DigiD app. This is the app &lt;b&gt;{0}&lt;/b&gt;, that you are currently using.</value></data>
+  <data name="DG011_Veld2" xml:space="preserve"><value>Month</value></data>
+  <data name="DG011_Veld3" xml:space="preserve"><value>Year</value></data>
+  <data name="DG011_Veld1" xml:space="preserve"><value>Day</value></data>
+  <data name="DG011_Titel" xml:space="preserve"><value>Date of birth</value></data>
+  <data name="BiometricsDisableMessage" xml:space="preserve"><value>For your safety, logging in with {0} is disabled. There can be different reasons for this. Log in with your PIN code to turn it back on.</value></data>
+  <data name="DG067_Melding" xml:space="preserve"><value>Time remaining to confirm:</value></data>
+  <data name="HLP03_Info" xml:space="preserve"><value>You can find the verification code in your activated DigiD app like this:</value></data>
+  <data name="DG055_Titel2" xml:space="preserve"><value>ID check expires soon</value></data>
+  <data name="DG052_Website" xml:space="preserve"><value>To My DigiD</value></data>
+  <data name="DG016_Helptekst2" xml:space="preserve"><value>• an ascending or descending sequence (e.g. 1-2-3-4-5 or 8-7-6-5-4)</value></data>
+  <data name="DG016_Helptekst1" xml:space="preserve"><value>• 5 of the same digits</value></data>
+  <data name="FM103_Cancel" xml:space="preserve"><value>Log out</value></data>
+  <data name="HLP06_InfoOverslaan" xml:space="preserve"><value>Sometimes it can take a little longer for emails to arrive. You can skip the confirmation and confirm your email address later via My DigiD.</value></data>
+  <data name="DG035_Titel" xml:space="preserve"><value>Preferences</value></data>
+  <data name="HLP02_NieuweSms" xml:space="preserve"><value>Send a new SMS code</value></data>
+  <data name="HLP14_Title" xml:space="preserve"><value>No verification code needed</value></data>
+  <data name="DG044_MenuUitloggen" xml:space="preserve"><value>Log out</value></data>
+  <data name="DG087_Message" xml:space="preserve"><value>From now on, use your self-selected PIN code to log in with this identity document. Please remember your new PIN code well.</value></data>
+  <data name="DG001_Intro" xml:space="preserve"><value>Activate your app in {0} steps:</value></data>
+  <data name="HLP02_GesprokenSms" xml:space="preserve"><value>Send a voice SMS code</value></data>
+  <data name="DG063_Info2" xml:space="preserve"><value>You use your DigiD to identify yourself on the internet. Be it the government, education, health care or your pension fund: your DigiD allows you to log in wherever you go, easily and securely.</value></data>
+  <data name="DG063_Info1" xml:space="preserve"><value>The DigiD app is the easiest way to log in securely. You do not have to remember a password. All you need is a PIN code of your choice.</value></data>
+  <data name="DG036_Adres" xml:space="preserve"><value>Address</value></data>
+  <data name="DG001_Stap4" xml:space="preserve"><value>Extra options for your DigiD.</value></data>
+  <data name="DG001_Stap2" xml:space="preserve"><value>Choose a PIN code for the app.</value></data>
+  <data name="DG001_Stap3" xml:space="preserve"><value>Scan your identity document to be able to log in everywhere.</value></data>
+  <data name="DG001_Stap1" xml:space="preserve"><value>Log in to identify yourself.</value></data>
+  <data name="DG001_Titel" xml:space="preserve"><value>Steps to activate</value></data>
+  <data name="DG036_Titel" xml:space="preserve"><value>Your data</value></data>
+  <data name="DG063_Titel" xml:space="preserve"><value>About the DigiD app</value></data>
+  <data name="DG057_Intro_WID" xml:space="preserve"><value>You can change the PIN for your identity document here. The current PIN for your identity document is required.</value></data>
+  <data name="DG057_Intro_App" xml:space="preserve"><value>Here you can change the PIN code of your DigiD app.</value></data>
+  <data name="DG046_FaceID" xml:space="preserve"><value>Log in with Face ID</value></data>
+  <data name="DG066_Intro" xml:space="preserve"><value>These are the open-source libraries used in this app.</value></data>
+  <data name="HLP12_EmailWijzigSucces" xml:space="preserve"><value>The email address has been changed.</value></data>
+  <data name="HLP05_Intro" xml:space="preserve"><value>Unfortunately, it is not possible to change your PIN code if you have forgotten it.
+
+You will need to reset the app to choose a new PIN. You will not lose any data if you reset the app.</value></data>
+  <data name="DG044_MenuHulpInfo" xml:space="preserve"><value>Help &amp; Information</value></data>
+  <data name="HLP02_Link" xml:space="preserve"><value>Read how to activate your DigiD app in another way</value></data>
+  <data name="DG006_Intro" xml:space="preserve"><value>Open the DigiD app on the other device for a verification code. Enter the code here.</value></data>
+  <data name="BS002_Title" xml:space="preserve"><value>Activate via letter</value></data>
+  <data name="DG066_Licentie_Site" xml:space="preserve"><value>Licence site</value></data>
+  <data name="DG036_LinkButtonText2" xml:space="preserve"><value>This data is incorrect</value></data>
+  <data name="DG036_LinkButtonText1" xml:space="preserve"><value>This data is incorrect</value></data>
+  <data name="DG066_Titel" xml:space="preserve"><value>Open-source libraries</value></data>
+  <data name="DG006_Titel" xml:space="preserve"><value>Log in</value></data>
+  <data name="HLP05_Titel" xml:space="preserve"><value>Forgot your PIN code</value></data>
+  <data name="DG046_Statistieken" xml:space="preserve"><value>Statistics</value></data>
+  <data name="HLP01_InfoWachtwoord" xml:space="preserve"><value>You can reset your password via the website.</value></data>
+  <data name="DG052_Subtitel" xml:space="preserve"><value>Other information</value></data>
+  <data name="HLP12_StartEmailWijzig" xml:space="preserve"><value>You are now going to change the email address in your DigiD.</value></data>
+  <data name="FM103_Accept" xml:space="preserve"><value>I'm still here</value></data>
+  <data name="DG038_Knop" xml:space="preserve"><value>Log in</value></data>
+  <data name="HLP02_SubtitelGesprokenSms" xml:space="preserve"><value>Voice text message</value></data>
+  <data name="HLP12_StartTelnummer" xml:space="preserve"><value>You are now going to change the phone number in your DigiD.</value></data>
+  <data name="DG089_BiometricsDisabled" xml:space="preserve"><value>Logging in with {0} has been disabled</value></data>
+  <data name="DG003_Or" xml:space="preserve"><value>or</value></data>
+  <data name="DG038_IDCheckExpireWarningMessage" xml:space="preserve"><value>Your ID check is valid until{0}. You can do this after logging in.</value></data>
+  <data name="DG030_Card_Message" xml:space="preserve"><value>Enter the self-selected PIN code of your {0}.</value></data>
+  <data name="DG059_Subtitel" xml:space="preserve"><value>Other </value></data>
+  <data name="DG044_Debug" xml:space="preserve"><value>Debug settings</value></data>
+  <data name="DG044_Titel" xml:space="preserve"><value>Menu</value></data>
+  <data name="DG044_UpgradeToSubPerformed" xml:space="preserve"><value>has already been performed</value></data>
+  <data name="DG031_InfoNieuweBrief" xml:space="preserve"><value>If you have not received a letter after {0} working days, you can request a new letter once.</value></data>
+  <data name="DG016B_Intro" xml:space="preserve"><value>Repeat your PIN code.</value></data>
+  <data name="DG004_NoSMSReceived_Button" xml:space="preserve"><value>No SMS code received</value></data>
+  <data name="DG035_Info2Stappen" xml:space="preserve"><value>If you turn this on, you must always log in with the DigiD app, SMS verification or your identity document. You cannot log in with just your username and password anymore. This ensures that your data is better protected. </value></data>
+  <data name="DG086_Button1_Text" xml:space="preserve"><value>Yes, used</value></data>
+  <data name="DG016G_Intro" xml:space="preserve"><value>Now choose a new PIN code for your {0}.</value></data>
+  <data name="DG009_LinkBTL" xml:space="preserve"><value>Applying for a DigiD (abroad)</value></data>
+  <data name="DG025_Knop1" xml:space="preserve"><value>I will try again</value></data>
+  <data name="DG025_Intro" xml:space="preserve"><value>We could not scan your identity document. You may have accidentally scanned the wrong document. For example, a document from someone else or a foreign identity document. Make sure you are using the correct document.</value></data>
+  <data name="DG016G_Titel" xml:space="preserve"><value>Changing PIN code {0}</value></data>
+  <data name="BiometricsInvalidTitle" xml:space="preserve"><value>{0} temporarily disabled</value></data>
+  <data name="DG025_Titel" xml:space="preserve"><value>ID check</value></data>
+  <data name="HLP11_Title_IDcheck" xml:space="preserve"><value>What is the ID check?</value></data>
+  <data name="DG088_Button_No" xml:space="preserve"><value>No thanks</value></data>
+  <data name="DG001_Stap2Titel" xml:space="preserve"><value>Choose PIN code</value></data>
+  <data name="DG085_Title" xml:space="preserve"><value>Steps to activate</value></data>
+  <data name="DG086_Button2_Text" xml:space="preserve"><value>No, not yet used</value></data>
+  <data name="DG004_SMS_Expired" xml:space="preserve"><value>The entered SMS code has expired.</value></data>
+  <data name="DG031_Intro" xml:space="preserve"><value>You will receive a letter with an activation code within {0} working days. You need this code to activate the app.</value></data>
+  <data name="DG001_Stap3Titel" xml:space="preserve"><value>ID check (optional)</value></data>
+  <data name="DG067_Knop" xml:space="preserve"><value>Confirm</value></data>
+  <data name="HLP11_Body_BTL" xml:space="preserve"><value>If you live outside the Netherlands, you can only use the app if you already have a DigiD AND you have enabled SMS verification or can perform the ID check. For the ID check, you need a Dutch passport, driving licence or identity card.
+
+Do you not yet have a DigiD? You can apply for a DigiD via this app. After you have received your DigiD, you can activate the app.</value></data>
+  <data name="DG034_Intro_1" xml:space="preserve"><value>. Do not close the app.</value></data>
+  <data name="DG031_Toast" xml:space="preserve"><value>Your letter may still be on its way. You can request a new letter in {0} days.</value></data>
+  <data name="DG031_Titel" xml:space="preserve"><value>Wait for letter</value></data>
+  <data name="DG001_Stap4Titel" xml:space="preserve"><value>Set preferences</value></data>
+  <data name="DG032_Intro" xml:space="preserve"><value>You have already requested a new letter. You cannot do this again. If you have not received a letter after {0} working days, you will have to reactivate the app.</value></data>
+  <data name="HLP04_Intro" xml:space="preserve"><value>Is your exact date of birth unknown to the municipality? Enter zeros if the day or year is unknown. Choose ‘unknown’ if the month is unknown. </value></data>
+  <data name="DG033_Helplink" xml:space="preserve"><value>I do not want to provide an email address</value></data>
+  <data name="DG001J_Intro" xml:space="preserve"><value>You are almost done activating the app.</value></data>
+  <data name="DG007_Intro" xml:space="preserve"><value>Scan this QR code with the DigiD app on the other device.</value></data>
+  <data name="DG067B_Message" xml:space="preserve"><value>You are now going to activate the login function of your {0} so you can use it for logging in. </value></data>
+  <data name="DG032_Titel" xml:space="preserve"><value>Request letter</value></data>
+  <data name="DG067_Titel" xml:space="preserve"><value>Confirm your change</value></data>
+  <data name="DG007_Titel" xml:space="preserve"><value>Log in</value></data>
+  <data name="HLP04_Titel" xml:space="preserve"><value>Date of birth unknown</value></data>
+  <data name="HLP02_Telnummer_2" xml:space="preserve"><value>Is the number incorrect?</value></data>
+  <data name="HLP02_Telnummer_1" xml:space="preserve"><value>Is the number correct?</value></data>
+  <data name="DG037_Koppelcode" xml:space="preserve"><value>Need a verification code?</value></data>
+  <data name="DG046_OpnieuwInstellen" xml:space="preserve"><value>Resetting the app</value></data>
+  <data name="DG060_Intro" xml:space="preserve"><value>Here are all the questions. If you double tap on the question, the answer will be displayed and read aloud.
+If the answer is shown and you double-tap on the question again, the answer will no longer be visible.</value></data>
+  <data name="DG060_Titel" xml:space="preserve"><value>Frequently asked questions</value></data>
+  <data name="DG085_Step4_Title" xml:space="preserve"><value>Scan {0}</value></data>
+  <data name="HLP11_Body_NoDigiD" xml:space="preserve"><value>You can use the app if you do not yet have a DigiD. This allows you to apply for a DigiD via the app. You must live in the Netherlands though.
+
+Do you live outside the Netherlands? You can apply for a DigiD via this app.
+
+After you have received your DigiD, you can activate the app.</value></data>
+  <data name="DG046_Fingerprint" xml:space="preserve"><value>Log in with fingerprint</value></data>
+  <data name="HLP07_DitApparaat" xml:space="preserve"><value>The DigiD app will open automatically.</value></data>
+  <data name="DG001_Stap1Titel" xml:space="preserve"><value>Log in</value></data>
+  <data name="DG069_Info" xml:space="preserve"><value>You are going to add the ID check using the CheckID app.</value></data>
+  <data name="BiometricsInvalidMessage" xml:space="preserve"><value>For your security, logging in with {0} has been temporarily disabled. This can have several causes. Log in with your PIN code to enable login with {0} again.</value></data>
+  <data name="DG016_Helptekst" xml:space="preserve"><value>Your PIN may not consist of:</value></data>
+  <data name="BS002_Text" xml:space="preserve"><value>Unfortunately, you can now only activate the DigiD app via a letter. You will receive a letter with an activation code within {0} working days.</value></data>
+  <data name="HLP01_InfoGebruikersnaam" xml:space="preserve"><value>You can retrieve your username via the website.</value></data>
+  <data name="DG001E_Intro" xml:space="preserve"><value>You can now log in with the app.</value></data>
+  <data name="DG001E_Titel" xml:space="preserve"><value>App activated!</value></data>
+  <data name="HLP12_StartDeactiveren" xml:space="preserve"><value>You are about to deactivate your DigiD app.</value></data>
+  <data name="DG034_Helplink" xml:space="preserve"><value>No email received</value></data>
+  <data name="DG031_Helplink" xml:space="preserve"><value>Request a new letter</value></data>
+  <data name="DG035_InfoBerichten" xml:space="preserve"><value>We can send you messages via the app if something changes in your DigiD. For example, if your password has changed.</value></data>
+  <data name="FM103_Titel" xml:space="preserve"><value>Are you still there?</value></data>
+  <data name="DG019_Titel" xml:space="preserve"><value>ID check not possible</value></data>
+  <data name="DG021_Titel" xml:space="preserve"><value>ID check</value></data>
+  <data name="DG052_Titel" xml:space="preserve"><value>My DigiD</value></data>
+  <data name="DG073_Titel" xml:space="preserve"><value>PIN code {0}</value></data>
+  <data name="BiometricsFaceId" xml:space="preserve"><value>Face ID</value></data>
+  <data name="DG010_Intro" xml:space="preserve"><value>Enter your citizen service number (BSN).</value></data>
+  <data name="HLP07_SubAnderApparaat" xml:space="preserve"><value>Are you accessing the website on another device, such as your computer?</value></data>
+  <data name="DG010_Titel" xml:space="preserve"><value>Citizen service number (BSN)</value></data>
+  <data name="BS002_BtnText" xml:space="preserve"><value>Send me an activation letter</value></data>
+  <data name="DG019_Message" xml:space="preserve"><value>At some organisations, you can only log in
+with the DigiD app after you have added the ID check. This is a scan of your identity document.
+
+This device does not meet the security requirements for the ID check. Please try again with another phone.</value></data>
+  <data name="DG029_Subtitel" xml:space="preserve"><value>Do you want a reminder?</value></data>
+  <data name="DG086_Title" xml:space="preserve"><value>PIN code from letter</value></data>
+  <data name="DG009_Titel" xml:space="preserve"><value>Applying for a DigiD</value></data>
+  <data name="DG003_Login" xml:space="preserve"><value>Login</value></data>
+  <data name="DG073C_Info" xml:space="preserve"><value>Enter the current PIN code of your {0} first. Now choose a new PIN code.</value></data>
+  <data name="DG086_Contact_Link" xml:space="preserve"><value>https://www.digid.nl/en/contact</value></data>
+  <data name="DG034_Intro" xml:space="preserve"><value>DigiD will not use your email address until you have confirmed that this address is correct and belongs to you.
+
+Enter the verification code sent to </value></data>
+  <data name="DG030B_Intro" xml:space="preserve"><value>Enter the PIN code you are currently using.</value></data>
+  <data name="DG003_Titel" xml:space="preserve"><value>Log in with your DigiD</value></data>
+  <data name="BiometricsTurnedOff" xml:space="preserve"><value>Log in with {0} disabled</value></data>
+  <data name="DG034_Titel" xml:space="preserve"><value>Email address</value></data>
+  <data name="HLP12_StartOpheffen" xml:space="preserve"><value>You are now going to delete your DigiD.</value></data>
+  <data name="DG009_SubtitelNL" xml:space="preserve"><value>Do you live in the Netherlands?</value></data>
+  <data name="DG030B_Titel" xml:space="preserve"><value>Enter PIN code</value></data>
+  <data name="DG001E_KnopKlaar" xml:space="preserve"><value>Finished!</value></data>
+  <data name="DG064_Intro" xml:space="preserve"><value>If you call us with a question about your DigiD app, we may ask you for the following information:</value></data>
+  <data name="HLP03_Info3" xml:space="preserve"><value>The verification code consists of four letters.</value></data>
+  <data name="HLP03_Info2" xml:space="preserve"><value>2. Press the button at 'Need a verification code?'.</value></data>
+  <data name="HLP03_Info1" xml:space="preserve"><value>1. Open the DigiD app and enter your PIN code.</value></data>
+  <data name="HLP03_Titel" xml:space="preserve"><value>Verification code</value></data>
+  <data name="DG003_RequestAccountLink" xml:space="preserve"><value>https://digid.nl/en/aanvragen</value></data>
+  <data name="HLP01_InfoGebruikersnaam_ww" xml:space="preserve"><value>Then you need to apply for a new DigiD.</value></data>
+  <data name="DG021_Text" xml:space="preserve"><value>To log in to this organization, you must perform the ID check annually.
+
+Scan your identity document with your phone. DigiD checks if the identity document is valid and yours.</value></data>
+  <data name="DG012_Toevoeging" xml:space="preserve"><value>Suffix (not required)</value></data>
+  <data name="DG043A_Intro" xml:space="preserve"><value>To log in to this organization, you must first perform a one-time ID check.</value></data>
+  <data name="DG035_KeuzeBerichten" xml:space="preserve"><value>Receiving messages</value></data>
+  <data name="DG043A_Titel" xml:space="preserve"><value>ID check required</value></data>
+  <data name="DG057_Titel_WID" xml:space="preserve"><value>Changing PIN code identity document</value></data>
+  <data name="DG057_Titel_App" xml:space="preserve"><value>Changing PIN code app</value></data>
+  <data name="DG009_SubtitelBTL" xml:space="preserve"><value>Do you live outside the Netherlands?</value></data>
+  <data name="HLP11_Title_NoDigiD" xml:space="preserve"><value>I do not have a DigiD. Can I use the app?</value></data>
+  <data name="HLP01_SubtitelGebruikersnaam" xml:space="preserve"><value>Forgot your username?</value></data>
+  <data name="DG003_RequestDigiD" xml:space="preserve"><value>Apply for DigiD</value></data>
+  <data name="DG056_Intro" xml:space="preserve"><value>At some organisations, you can only log in with the DigiD app after you have scanned your identity document (ID check). The ID check is valid for one year.
+
+Your device does not have an NFC reader. You need this for the ID check. You can still do the ID check with another phone that has an NFC reader.</value></data>
+  <data name="DG016E_Intro" xml:space="preserve"><value>You must choose a new PIN code for your {0}.</value></data>
+  <data name="DG056_Titel" xml:space="preserve"><value>ID check</value></data>
+  <data name="DG016E_Titel" xml:space="preserve"><value>Choose PIN code for {0}</value></data>
+  <data name="DG046_Lettergrootte" xml:space="preserve"><value>Font size</value></data>
+  <data name="DG045_NoMessages" xml:space="preserve"><value>There are no messages</value></data>
+  <data name="FM016_Message" xml:space="preserve"><value>Do you want to do the ID check later? You can do this via menu in the app. You can now continue logging in.</value></data>
+  <data name="DG009_KnopAanvragen" xml:space="preserve"><value>Applying for a DigiD</value></data>
+  <data name="DG004_SMS_NotSend" xml:space="preserve"><value>SMS code has not been sent.</value></data>
+  <data name="DG041_Knop2" xml:space="preserve"><value>Start ID check</value></data>
+  <data name="DG041_Knop1" xml:space="preserve"><value>Scan later</value></data>
+  <data name="DG087_Title" xml:space="preserve"><value>PIN code of your {0} has been changed</value></data>
+  <data name="DG041_Intro" xml:space="preserve"><value>From {1}, you can only log in to {0} using the DigiD app with the ID check.</value></data>
+  <data name="DG044_UpgradeToSubNotPerformed" xml:space="preserve"><value>not yet performed</value></data>
+  <data name="DG039_Intro" xml:space="preserve"><value>Enter this verification code on the website you want to log in at and choose ‘Next’.</value></data>
+  <data name="BiometricsDisableTitle" xml:space="preserve"><value>{0} is disabled</value></data>
+  <data name="DG037_KoppelcodeTekst" xml:space="preserve"><value>If you want to log in on another device, you need a verification code.</value></data>
+  <data name="DG041_Titel" xml:space="preserve"><value>ID check</value></data>
+  <data name="DG039_Titel" xml:space="preserve"><value>Verification code</value></data>
+  <data name="DG011_Helplink" xml:space="preserve"><value>My date of birth is unknown</value></data>
+  <data name="HLP07_SubDitApparaat" xml:space="preserve"><value>Are you accessing the website on this device?</value></data>
+  <data name="DG053_Info" xml:space="preserve"><value>Here you can see the history usage of your DigiD. Is something not right? Contact the helpdesk.</value></data>
+  <data name="DG052_Info" xml:space="preserve"><value>You can view and change more data on the My DigiD website.</value></data>
+  <data name="DG067B_Title" xml:space="preserve"><value>Activate login function</value></data>
+  <data name="HLP01_Gebruikersnaam_ww" xml:space="preserve"><value>Forgot your username and password?</value></data>
+  <data name="DG030_Intro" xml:space="preserve"><value>Enter your 5-digit PIN code to continue.</value></data>
+  <data name="DG055_Knop" xml:space="preserve"><value>Start ID check again</value></data>
+  <data name="HLP11_Title_Login" xml:space="preserve"><value>How do I log in with the DigiD app?</value></data>
+  <data name="DG001E_KnopInloggen" xml:space="preserve"><value>Log in</value></data>
+  <data name="DG054_Body" xml:space="preserve"><value>DigiD uses the email address below to send you messages. Is this still correct?</value></data>
+  <data name="HLP07_Intro" xml:space="preserve"><value>Go to the website where you want to log in with DigiD. Select 'Log in with the DigiD app'.</value></data>
+  <data name="DG004_Intro" xml:space="preserve"><value>Enter the SMS code we sent to </value></data>
+  <data name="HLP01_LinkGebruikersnaam_ww" xml:space="preserve"><value>Apply for you DigiD here</value></data>
+  <data name="DG004_Titel" xml:space="preserve"><value>SMS code</value></data>
+  <data name="HLP07_Titel" xml:space="preserve"><value>Logging in with the app</value></data>
+  <data name="DG056_Knop" xml:space="preserve"><value>More information</value></data>
+  <data name="DG003_Wachtwoord" xml:space="preserve"><value>Password</value></data>
+  <data name="DG017_Titel" xml:space="preserve"><value>ID check</value></data>
+  <data name="HLP14_Message" xml:space="preserve"><value>If you log in to multiple organizations within a certain time using the DigiD app on another device, you only need to enter a link code and scan a QR code the first time.</value></data>
+  <data name="DG001G_Intro" xml:space="preserve"><value>You have completed the first step. 2 more steps to go.</value></data>
+  <data name="DG037_Inloggen" xml:space="preserve"><value>Log in</value></data>
+  <data name="DG003_Gebruikersnaam" xml:space="preserve"><value>Username</value></data>
+  <data name="DG043A_Uitleg" xml:space="preserve"><value>Because you are trying to log in on behalf of a deceased person, this is not possible. 
+
+Please contact the organization where you want to log in.</value></data>
+  <data name="DG001D_Intro" xml:space="preserve"><value>You are almost done. 1 more step to go.</value></data>
+  <data name="DG055_Intro" xml:space="preserve"><value>You can log in to organisations that require an ID check. Your ID check is valid for one year.</value></data>
+  <data name="DG055_Knop2" xml:space="preserve"><value>Start ID check</value></data>
+  <data name="HLP12_StartWachtwoord" xml:space="preserve"><value>You are now going to change the password of your DigiD.</value></data>
+  <data name="FM108_Text" xml:space="preserve"><value>You will now proceed to activate the app</value></data>
+  <data name="DG044_MenuInstellingen" xml:space="preserve"><value>Settings</value></data>
+  <data name="HLP02_InfoNummerKlopt" xml:space="preserve"><value>It may take a few minutes before you receive the SMS.</value></data>
+  <data name="DG055_Titel" xml:space="preserve"><value>ID check</value></data>
+  <data name="DG003_Helplink" xml:space="preserve"><value>Forgot login credentials?</value></data>
+  <data name="DG029_Intro" xml:space="preserve"><value>You will receive a letter with an activation code within {0} working days. You need this code to activate the app</value></data>
+  <data name="FM016_Title" xml:space="preserve"><value>Do the ID check later</value></data>
+  <data name="DG052_Gebruiksgeschiedenis" xml:space="preserve"><value>Usage history</value></data>
+  <data name="DG029_Titel" xml:space="preserve"><value>Wait for letter</value></data>
+  <data name="HLP12_StartActiverenApp" xml:space="preserve"><value>You are now going to activate another DigiD app.</value></data>
+  <data name="HLP11_Title_ForgotPincode" xml:space="preserve"><value>I forgot my PIN code. What do I do?</value></data>
+  <data name="HLP02_Telnummer" xml:space="preserve"><value>We have sent the SMS to: </value></data>
+  <data name="DG009_InfoAanvragen" xml:space="preserve"><value>This allows you to apply for a DigiD via this app. You will receive a letter within {0} workdays. With the code in this letter you can activate your DigiD app.
+
+After that, you can easily log in with the app. You will not receive a username and password. You only need to remember the PIN code of the app.
+
+If you wish to be able to log in in other ways, apply for a DigiD via the website.</value></data>
+  <data name="HLP01_LinkWebsite" xml:space="preserve"><value>Resetting password</value></data>
+  <data name="DG018_Intro" xml:space="preserve"><value>The ID check in the DigiD app is not possible with a passport or identity card without a citizen service number (BSN).
+Is there no BSN on your Dutch passport or identity card? And was your identity document issued by the Ministry of Foreign Affairs, a border municipality, the Schiphol desk or a Caribbean issuing authority? Then you cannot perform the ID check. You did not yet have a BSN when you applied for your identity document.
+
+What can you do?
+• The ID check is not always required to log in. If you wanted to activate the DigiD app using the ID check, you can skip this step. You can activate the app via SMS verification.
+• You can also apply for a new passport or identity card.
+
+Do you live in the Netherlands? Arrange this with your municipality.
+Do you live abroad? Visit the website of NetherlandsWorldwide.
+When you apply, indicate that you have a citizen service number (BSN) and that it should be included on your identity document. Once you have your new identity document, you can still add the ID check to the DigiD app.</value></data>
+  <data name="DG018_Titel" xml:space="preserve"><value>ID-check</value></data>
+  <data name="DG059_Beoordeel" xml:space="preserve"><value>Rate this app</value></data>
+  <data name="DG085_Message" xml:space="preserve"><value>Activate your {0} in 4 steps:</value></data>
+  <data name="HLP10_ShareTitle" xml:space="preserve"><value>Information about CheckID</value></data>
+  <data name="DG045_Titel" xml:space="preserve"><value>Messages</value></data>
+  <data name="DG021_Button" xml:space="preserve"><value>Start ID-check</value></data>
+  <data name="FM103_Body" xml:space="preserve"><value>If you are not actively using the app, you will automatically exit it. Are you logged in to a website with the app? Then you can simply continue there.</value></data>
+  <data name="DG059_OpenSource" xml:space="preserve"><value>Open-source libraries</value></data>
+  <data name="DG029_KeuzeHerinnering" xml:space="preserve"><value>Send me a reminder</value></data>
+  <data name="HLP12_DeactiverenSucces" xml:space="preserve"><value>Your selected DigiD app has been deactivated.</value></data>
+  </root>

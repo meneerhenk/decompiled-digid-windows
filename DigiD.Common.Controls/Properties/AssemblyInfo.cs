@@ -1,0 +1,50 @@
+using System.Diagnostics;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.Versioning;
+using DigiD.Common.Controls;
+using DigiD.Common.Controls.Settings;
+using Microsoft.Maui.Controls;
+using Microsoft.Maui.Controls.Xaml;
+
+[assembly: SupportedOSPlatform("Android28.0")]
+[assembly: AssemblyCompany("DigiD.Common.Controls")]
+[assembly: AssemblyConfiguration("Production")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyInformationalVersion("1.0.0+2ffcc7db25dfd64a2e6fd077f560f4fe758674c5")]
+[assembly: AssemblyProduct("DigiD.Common.Controls")]
+[assembly: AssemblyTitle("DigiD.Common.Controls")]
+[assembly: TargetPlatform("Windows10.0.22621.0")]
+[assembly: SupportedOSPlatform("Windows10.0.22000.0")]
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/dotnet/maui/global", "http://schemas.microsoft.com/dotnet/2021/maui")]
+[assembly: XmlnsPrefix("http://schemas.microsoft.com/dotnet/maui/global", "global")]
+[assembly: XamlResourceId("DigiD.Common.Controls.CustomBottomSheet.xaml", "CustomBottomSheet.xaml", typeof(CustomBottomSheet))]
+[assembly: XamlResourceId("DigiD.Common.Controls.CustomCheckBox.xaml", "CustomCheckBox.xaml", typeof(CustomCheckBox))]
+[assembly: XamlResourceId("DigiD.Common.Controls.CustomEntryField.xaml", "CustomEntryField.xaml", typeof(CustomEntryField))]
+[assembly: XamlResourceId("DigiD.Common.Controls.CustomErrorLabel.xaml", "CustomErrorLabel.xaml", typeof(CustomErrorLabel))]
+[assembly: XamlResourceId("DigiD.Common.Controls.CustomPicker.xaml", "CustomPicker.xaml", typeof(CustomPicker))]
+[assembly: XamlResourceId("DigiD.Common.Controls.CustomProgressBar.xaml", "CustomProgressBar.xaml", typeof(CustomProgressBar))]
+[assembly: XamlResourceId("DigiD.Common.Controls.CustomRadioButton.xaml", "CustomRadioButton.xaml", typeof(CustomRadioButton))]
+[assembly: XamlResourceId("DigiD.Common.Controls.HeaderView.xaml", "HeaderView.xaml", typeof(HeaderView))]
+[assembly: XamlResourceId("DigiD.Common.Controls.IconQrCode.xaml", "IconQrCode.xaml", typeof(IconQrCode))]
+[assembly: XamlResourceId("DigiD.Common.Controls.LinkLabel.xaml", "LinkLabel.xaml", typeof(LinkLabel))]
+[assembly: XamlResourceId("DigiD.Common.Controls.MenuItemContactView.xaml", "MenuItemContactView.xaml", typeof(MenuItemContactView))]
+[assembly: XamlResourceId("DigiD.Common.Controls.MenuItemSelectView.xaml", "MenuItemSelectView.xaml", typeof(MenuItemSelectView))]
+[assembly: XamlResourceId("DigiD.Common.Controls.MenuItemView.xaml", "MenuItemView.xaml", typeof(MenuItemView))]
+[assembly: XamlResourceId("DigiD.Common.Controls.NumberPad.xaml", "NumberPad.xaml", typeof(NumberPad))]
+[assembly: XamlResourceId("DigiD.Common.Controls.NumberPadButton.xaml", "NumberPadButton.xaml", typeof(NumberPadButton))]
+[assembly: XamlResourceId("DigiD.Common.Controls.PinTilesCodeEntryView.xaml", "PinTilesCodeEntryView.xaml", typeof(PinTilesCodeEntryView))]
+[assembly: XamlResourceId("DigiD.Common.Controls.SecurityNotification.xaml", "SecurityNotification.xaml", typeof(SecurityNotification))]
+[assembly: XamlResourceId("DigiD.Common.Controls.Settings.A11YHelpAndInfoView.xaml", "Settings/A11YHelpAndInfoView.xaml", typeof(A11YHelpAndInfoView))]
+[assembly: XamlResourceId("DigiD.Common.Controls.Settings.ContactView.xaml", "Settings/ContactView.xaml", typeof(ContactView))]
+[assembly: XamlResourceId("DigiD.Common.Controls.Settings.SettingSelectView.xaml", "Settings/SettingSelectView.xaml", typeof(SettingSelectView))]
+[assembly: XamlResourceId("DigiD.Common.Controls.Settings.SupportView.xaml", "Settings/SupportView.xaml", typeof(SupportView))]
+[assembly: XamlResourceId("DigiD.Common.Controls.StepsControl.xaml", "StepsControl.xaml", typeof(StepsControl))]
+[assembly: XamlResourceId("DigiD.Common.Controls.ToastView.xaml", "ToastView.xaml", typeof(ToastView))]
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/dotnet/maui/global", "Microsoft.Maui.Controls.Shapes", AssemblyName = "Microsoft.Maui.Controls")]
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/dotnet/maui/global", "Microsoft.Maui.Controls", AssemblyName = "Microsoft.Maui.Controls")]
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/dotnet/maui/global", "Microsoft.Maui", AssemblyName = "Microsoft.Maui")]
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/dotnet/maui/global", "Microsoft.Maui.Graphics", AssemblyName = "Microsoft.Maui.Graphics")]
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/dotnet/maui/global", "Microsoft.Maui.Controls.Xaml", AssemblyName = "Microsoft.Maui.Controls.Xaml")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[module: RefSafetyRules(11)]

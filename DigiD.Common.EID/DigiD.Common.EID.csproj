@@ -1,0 +1,84 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>DigiD.Common.EID</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>12.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="Microsoft.Maui.Controls">
+      <HintPath>../../app/Microsoft.Maui.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Maui.Graphics">
+      <HintPath>../../app/Microsoft.Maui.Graphics.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Maui">
+      <HintPath>../../app/Microsoft.Maui.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections">
+      <HintPath>../../app/System.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="DigiD.Common.Models">
+      <HintPath>../../app/DigiD.Common.Models.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices">
+      <HintPath>../../app/System.Runtime.InteropServices.dll</HintPath>
+    </Reference>
+    <Reference Include="DigiD.Common.NFC">
+      <HintPath>../../app/DigiD.Common.NFC.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Cryptography">
+      <HintPath>../../app/BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="BerTlv">
+      <HintPath>../../app/BerTlv.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json">
+      <HintPath>../../app/System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="DigiD.Common.Interfaces">
+      <HintPath>../../app/DigiD.Common.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography">
+      <HintPath>../../app/System.Security.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="DigiD.Common.Http">
+      <HintPath>../../app/DigiD.Common.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions">
+      <HintPath>../../app/Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Http">
+      <HintPath>../../app/Microsoft.Extensions.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TraceSource">
+      <HintPath>../../app/System.Diagnostics.TraceSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq">
+      <HintPath>../../app/System.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory">
+      <HintPath>../../app/System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="Greensoft.TlvLib">
+      <HintPath>../../app/Greensoft.TlvLib.dll</HintPath>
+    </Reference>
+    <Reference Include="CommunityToolkit.Maui.Core">
+      <HintPath>../../app/CommunityToolkit.Maui.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel">
+      <HintPath>../../app/System.ComponentModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions">
+      <HintPath>../../app/Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Console">
+      <HintPath>../../app/System.Console.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

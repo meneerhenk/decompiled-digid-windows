@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="CID30_Project_Site" xml:space="preserve"><value>Project site</value></data>
+  <data name="CID21_Lettergrootte" xml:space="preserve"><value>Font size</value></data>
+  <data name="FM05_Titel" xml:space="preserve"><value>ID check cancelled</value></data>
+  <data name="CID26_Support" xml:space="preserve"><value>Support</value></data>
+  <data name="CID03_Stap1" xml:space="preserve"><value>Log in</value></data>
+  <data name="CID03_Stap2" xml:space="preserve"><value>ID check</value></data>
+  <data name="CID03_Titel" xml:space="preserve"><value>Steps of the ID check</value></data>
+  <data name="CID03_Intro" xml:space="preserve"><value>To add the ID check, you need to follow these steps:</value></data>
+  <data name="CID01_LinkText" xml:space="preserve"><value>What is ID-check?</value></data>
+  <data name="FM01_Titel" xml:space="preserve"><value>New version available</value></data>
+  <data name="FM01_Knop2" xml:space="preserve"><value>Update</value></data>
+  <data name="FM01_Knop1" xml:space="preserve"><value>I want to update the app later</value></data>
+  <data name="CID13_Knop" xml:space="preserve"><value>Done</value></data>
+  <data name="CID07_Titel" xml:space="preserve"><value>Log in</value></data>
+  <data name="CID20_Instellingen" xml:space="preserve"><value>Settings</value></data>
+  <data name="CID21_Taal" xml:space="preserve"><value>Language</value></data>
+  <data name="CID30_Titel" xml:space="preserve"><value>Open-source libraries</value></data>
+  <data name="CID30_Intro" xml:space="preserve"><value>These are the open-source libraries used in this app.</value></data>
+  <data name="FM06_Titel" xml:space="preserve"><value>Enable NFC</value></data>
+  <data name="CID02_Titel" xml:space="preserve"><value>ID check</value></data>
+  <data name="CID02_Info1" xml:space="preserve"><value>More and more organisations require you to add an ID check to the DigiD app.</value></data>
+  <data name="CID02_Info2" xml:space="preserve"><value>This gives organisations more certainty that the right person is logging in and can access personal data.</value></data>
+  <data name="CID02_Info3" xml:space="preserve"><value>During the ID check, you scan the chip on your identity document. The app checks whether the document is valid and belongs to you.</value></data>
+  <data name="CID02_Info4" xml:space="preserve"><value>After scanning with the CheckID app, the ID check is added to your DigiD app. The ID check is valid for one year.</value></data>
+  <data name="CID02_Info5" xml:space="preserve"><value>The app checks if the identity document is valid and yours.</value></data>
+  <data name="CID02_Info6" xml:space="preserve"><value>No personal data is stored on this device or in the DigiD app.</value></data>
+  <data name="CID02_Info7" xml:space="preserve"><value>No personal data is stored on this device or in the DigiD app.</value></data>
+  <data name="CID01_Message" xml:space="preserve"><value>With the CheckID app you can perform the ID check for the DigiD app on another device. DigiD uses this to verify that your identity document is valid and belongs to you. The ID check is valid for one year.</value></data>
+  <data name="CID20_MenuHulpInfo" xml:space="preserve"><value>Help &amp; Information</value></data>
+  <data name="FM02_Titel" xml:space="preserve"><value>New version available</value></data>
+  <data name="CID30_Licentie_Site" xml:space="preserve"><value>Licence site</value></data>
+  <data name="CID01_Titel" xml:space="preserve"><value>CheckID app</value></data>
+  <data name="CID26_SubTitle" xml:space="preserve"><value>Other</value></data>
+  <data name="CID06_Titel" xml:space="preserve"><value>Log in</value></data>
+  <data name="CID27_Intro" xml:space="preserve"><value>If you call us with a question about your CheckID app, we may ask you for the following information:</value></data>
+  <data name="CID21_Dyslexia" xml:space="preserve"><value>Dyslexia font</value></data>
+  <data name="FM08_Titel" xml:space="preserve"><value>ID check failed </value></data>
+  <data name="FM07_Titel" xml:space="preserve"><value>ID check failed </value></data>
+  <data name="CID05_Titel" xml:space="preserve"><value>Verification code</value></data>
+  <data name="FM08_Body" xml:space="preserve"><value>Perhaps you accidentally scanned the wrong document. For example, a document from someone else or a foreign identity document. Check whether you have the correct document, and restart.</value></data>
+  <data name="CID05_Info4" xml:space="preserve"><value>3. Tap the orange 'Verification code' button.</value></data>
+  <data name="CID05_Info3" xml:space="preserve"><value>2. Enter your PIN.
+</value></data>
+  <data name="CID05_Info2" xml:space="preserve"><value>1. Open the DigiD app. The app must be activated.</value></data>
+  <data name="CID05_Info1" xml:space="preserve"><value>Follow these steps to find the verification code:</value></data>
+  <data name="CID21_Titel" xml:space="preserve"><value>Settings</value></data>
+  <data name="FM04_Body" xml:space="preserve"><value>Check your internet connection and try again.</value></data>
+  <data name="FM05_Body" xml:space="preserve"><value>The ID check has been cancelled by the DigiD app.</value></data>
+  <data name="FM06_Body" xml:space="preserve"><value>The NFC reader must be enabled to be able to scan the chip on your identity document. </value></data>
+  <data name="FM06_Knop" xml:space="preserve"><value>Enable NFC</value></data>
+  <data name="CID21_DarkMode" xml:space="preserve"><value>Dark mode</value></data>
+  <data name="FM07_Body" xml:space="preserve"><value>We were unable to scan your identity document. Do you want to try again?</value></data>
+  <data name="FM07_Knop" xml:space="preserve"><value>Try again</value></data>
+  <data name="FM02_Knop" xml:space="preserve"><value>Update</value></data>
+  <data name="FM03_Body" xml:space="preserve"><value>Unfortunately, this app is locked. Try again later.</value></data>
+  <data name="FM04_Titel" xml:space="preserve"><value>No connection</value></data>
+  <data name="FM03_Titel" xml:space="preserve"><value>Locked</value></data>
+  <data name="CID26_Contact" xml:space="preserve"><value>Contact</value></data>
+  <data name="CID31_Intro" xml:space="preserve"><value>We pay a lot of attention to the accessibility and user-friendliness of the Check-ID app. The aim is to develop the app in a way that it can be used by anyone. That is why we adhere to the requirements for digital accessibility when developing the app. </value></data>
+  <data name="CID25_Intro" xml:space="preserve"><value>If you have a question about this app, please contact DigiD.</value></data>
+  <data name="CID26_Title" xml:space="preserve"><value>Help &amp; Information</value></data>
+  <data name="CID03_Stap1Body" xml:space="preserve"><value>Log in to show who you are.</value></data>
+  <data name="CID03_Stap2Body" xml:space="preserve"><value>Scan the identity document.</value></data>
+  <data name="CID21_Statistieken" xml:space="preserve"><value>Statistics</value></data>
+  <data name="CID01_Knop" xml:space="preserve"><value>Start</value></data>
+  <data name="CID04_Titel" xml:space="preserve"><value>Log in</value></data>
+  <data name="CID20_Titel" xml:space="preserve"><value>Menu</value></data>
+  <data name="CID20_Debug" xml:space="preserve"><value>Debug settings</value></data>
+  <data name="CID04_Body" xml:space="preserve"><value>Open your DigiD app on the other device and select 'Verification code'. Enter that code here.</value></data>
+  <data name="CID04_Link" xml:space="preserve"><value>I cannot find the verification code</value></data>
+  <data name="CID07_Body" xml:space="preserve"><value>Click ‘Confirm’ on the other device.</value></data>
+  <data name="CID06_Body" xml:space="preserve"><value>Scan this QR code with the DigiD app on the other device.</value></data>
+  <data name="CID26_OpenSource" xml:space="preserve"><value>Open-source libraries</value></data>
+  </root>

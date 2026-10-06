@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="FM030_Body" xml:space="preserve"><value>U heeft al een DigiD aangevraagd maar nog niet geactiveerd. Een brief met activeringscode is naar uw huisadres gestuurd. Hiermee kunt u uw DigiD activeren.</value></data>
+  <data name="DG078_OtherDocument" xml:space="preserve"><value>Ander identiteitsbewijs</value></data>
+  <data name="FM068_Body" xml:space="preserve"><value>Als u doorgaat moet u de app opnieuw activeren voordat u ermee kunt inloggen. Weet u zeker dat u de app opnieuw wilt activeren?</value></data>
+  <data name="FM014_Melding" xml:space="preserve"><value>U heeft net al meerdere sms-codes aangevraagd. U kunt over {0} seconden een nieuwe sms-code aanvragen. Deze bestaat uit 6 cijfers.</value></data>
+  <data name="FM100_Body" xml:space="preserve"><value>Het is op dit moment erg druk bij DigiD. Te veel mensen willen tegelijk inloggen. Probeer het op een later moment nog eens.</value></data>
+  <data name="DG084_Tip1_Text_Bottom" xml:space="preserve"><value>Het scannen gebeurt met gebruik van de NFC-lezer. (Dus niet de camera). De NFC-lezer zit onderaan de achterkant van de telefoon. Houd uw pas daar tegenaan.</value></data>
+  <data name="x_WIDChangePINMessage" xml:space="preserve"><value>U gaat nu de pincode wijzigen van uw {0}. U heeft hiervoor uw huidige pincode nodig.</value></data>
+  <data name="FM105_Continue" xml:space="preserve"><value>U kunt doorgaan zonder ID-check.</value></data>
+  <data name="FM102_Body" xml:space="preserve"><value>Als u de app opnieuw activeert, is de activatiecode in de brief die naar u verstuurd is niet meer geldig. U moet dan een nieuwe brief aanvragen of de app op een andere manier activeren. Weet u zeker dat u de app opnieuw wilt activeren?</value></data>
+  <data name="DG080_Text_Part4" xml:space="preserve"><value>van uw telefoon,</value></data>
+  <data name="DG080_Text_Part5" xml:space="preserve"><value> probeer verschillende plekken uit.</value></data>
+  <data name="DG080_Text_Part1" xml:space="preserve"><value>Houd uw {0} tegen de</value></data>
+  <data name="DG080_Text_Part2" xml:space="preserve"><value> achterkant </value></data>
+  <data name="DG080_Text_Part3" xml:space="preserve"><value>van uw telefoon, ter hoogte van </value></data>
+  <data name="FM101_Body" xml:space="preserve"><value>U heeft in de instellingen van uw apparaat uitgezet dat de DigiD app de camera mag gebruiken. Ga naar de instellingen en geef toestemming om verder te kunnen.</value></data>
+  <data name="FM030_Titel" xml:space="preserve"><value>DigiD al aangevraagd vandaag</value></data>
+  <data name="FM055_Titel" xml:space="preserve"><value>Weet u het zeker?</value></data>
+  <data name="Alg_ResetPincodeInput" xml:space="preserve"><value>Pincode opnieuw kiezen</value></data>
+  <data name="DG080_Text_iOS_Overlay_Start" xml:space="preserve"><value>Houd uw {0} tegen de achterkant van uw iPhone, aan de bovenkant van het toestel.</value></data>
+  <data name="FM061_Body" xml:space="preserve"><value>U heeft een verkeerde koppelcode ingevuld. De koppelcode bestaat uit vier letters. Probeer het opnieuw.</value></data>
+  <data name="DG078_BottomSheet_ButtonText" xml:space="preserve"><value>Doorgaan zonder ID-check</value></data>
+  <data name="DG084_Tip1_Text_Middle" xml:space="preserve"><value>Het scannen gebeurt met gebruik van de NFC-lezer. (Dus niet de camera). De NFC-lezer zit in het midden van de achterkant van de telefoon. Houd uw pas daar tegenaan.</value></data>
+  <data name="FM062_Body" xml:space="preserve"><value>Scan de QR-code op de website waar u wilt inloggen.</value></data>
+  <data name="SupportView_OS" xml:space="preserve"><value>Besturingssysteem:</value></data>
+  <data name="x_WIDNotSupportedMessage" xml:space="preserve"><value>Uw {0} is niet geschikt om mee in te loggen bij DigiD.</value></data>
+  <data name="FM005_007_Body" xml:space="preserve"><value>Controleer uw internetverbinding. Zet uw internet even uit en weer aan. Of gebruik uw mobiele netwerk in plaats van wifi.</value></data>
+  <data name="FM027_Titel" xml:space="preserve"><value>Controle adres lukt niet</value></data>
+  <data name="FM081_Titel" xml:space="preserve"><value>Geen geschikt identiteitsbewijs</value></data>
+  <data name="Alg_On" xml:space="preserve"><value>Aan</value></data>
+  <data name="Alg_Ok" xml:space="preserve"><value>OK</value></data>
+  <data name="Alg_Of" xml:space="preserve"><value>van</value></data>
+  <data name="Alg_No" xml:space="preserve"><value>Nee</value></data>
+  <data name="Alg_Language_NL" xml:space="preserve"><value>Nederlands</value></data>
+  <data name="Alg_Language_EN" xml:space="preserve"><value>English (Engels)</value></data>
+  <data name="Alg_KeyboardLandscapeRight" xml:space="preserve"><value>Het toetsenbord staat aan de rechterkant van dit scherm.</value></data>
+  <data name="FM065_Body" xml:space="preserve"><value>Ga naar de instellingen van uw apparaat om uw NFC-lezer aan te zetten. Dit is nodig om uw identiteitsbewijs te kunnen scannen.</value></data>
+  <data name="FM065_Knop" xml:space="preserve"><value>NFC aanzetten</value></data>
+  <data name="FM028_Titel" xml:space="preserve"><value>Aanvraag niet mogelijk</value></data>
+  <data name="DG082_Text_Part4_Top" xml:space="preserve"><value>de bovenkant.</value></data>
+  <data name="FM066_Body" xml:space="preserve"><value>Als u ingelogd bent op een website met de app, dan blijft u daar ingelogd. Wilt u doorgaan?</value></data>
+  <data name="FM086_Titel" xml:space="preserve"><value>Pincode gewijzigd </value></data>
+  <data name="NfcLocation_Top" xml:space="preserve"><value>Bovenkant</value></data>
+  <data name="AccessibilityShowNfcLocationAnimation" xml:space="preserve"><value>Animatie die toont hoe ID of paspoort gescand kan worden</value></data>
+  <data name="Alg_Percentage" xml:space="preserve"><value> {0}%</value></data>
+  <data name="FM063_Body" xml:space="preserve"><value>De gescande QR-code is niet meer geldig. U moet opnieuw inloggen.</value></data>
+  <data name="FM096_Body" xml:space="preserve"><value>De ID-check is toegevoegd aan uw DigiD app.</value></data>
+  <data name="FM064_Body" xml:space="preserve"><value>U heeft deze app via Mijn DigiD gedeactiveerd. U moet de app eerst opnieuw activeren.</value></data>
+  <data name="FM034_Melding" xml:space="preserve"><value>Uw pincode is te makkelijk. Kies een andere pincode.</value></data>
+  <data name="FM062_Titel" xml:space="preserve"><value>QR-code niet herkend</value></data>
+  <data name="DG084_Title" xml:space="preserve"><value>Tips voor het scannen</value></data>
+  <data name="FM102_Titel" xml:space="preserve"><value>App opnieuw activeren</value></data>
+  <data name="Alg_ValidInput" xml:space="preserve"><value>Geldige invoer.</value></data>
+  <data name="x_WIDReActivationSuccessMessage" xml:space="preserve"><value>Het deblokkeren van inloggen met {0} is gelukt.</value></data>
+  <data name="DG080_Title_Again" xml:space="preserve"><value>Scan nog een keer uw {0}</value></data>
+  <data name="SupportView_NFCLocation" xml:space="preserve"><value>NFC Positie:</value></data>
+  <data name="FM011_Message" xml:space="preserve"><value>U heeft op dit moment de DigiD app geactiveerd op {0} apparaten. U kunt niet nog een apparaat activeren. Volgens onze gegevens heeft u de app op het volgende apparaat het langst niet gebruikt. Wilt u de DigiD app op dit apparaat deactiveren?</value></data>
+  <data name="SupportView_AppCode" xml:space="preserve"><value>Appcode:</value></data>
+  <data name="DG079_ButtonText" xml:space="preserve"><value>Start scannen</value></data>
+  <data name="DG082_Text_Part4_Middle" xml:space="preserve"><value>het midden.</value></data>
+  <data name="Alg_Previous" xml:space="preserve"><value>Vorige</value></data>
+  <data name="Alg_MinMaxValue" xml:space="preserve"><value>Minimaal {0} en {1} {2}</value></data>
+  <data name="FM084_Melding_IDCard" xml:space="preserve"><value>U heeft meerdere keren een verkeerde pincode ingevuld. U moet nu eerst de 6-cijferige CAN-code van uw identiteitskaart invullen.</value></data>
+  <data name="FM095_Body" xml:space="preserve"><value>U bent ingelogd bij: {0}.</value></data>
+  <data name="x_NoNFCMessage" xml:space="preserve"><value>Uw apparaat is niet geschikt om NFC te gebruiken.</value></data>
+  <data name="Alg_A11y_Title" xml:space="preserve"><value>Toegankelijkheid</value></data>
+  <data name="IDCard" xml:space="preserve"><value>Identiteitskaart</value></data>
+  <data name="DG080_WaitForRemoval_Title" xml:space="preserve"><value>Haal nu uw {0} van uw toestel</value></data>
+  <data name="FM033_Titel" xml:space="preserve"><value>U heeft al een DigiD</value></data>
+  <data name="x_ChangePinFailedMessage" xml:space="preserve"><value>Er is iets misgegaan. Uw pincode is niet gewijzigd.</value></data>
+  <data name="Alg_HidingPassword" xml:space="preserve"><value>Wachtwoord weer verborgen</value></data>
+  <data name="DG062_ContactTeletolk_Info" xml:space="preserve"><value>U kunt ons bellen via Teletolk op werkdagen van 8.30 tot 17.00 uur. 
+Een gratis tolk vertaalt het gesprek in gebarentaal of tekst. Alleen beschikbaar in het Nederlands.</value></data>
+  <data name="Alg_Skipped" xml:space="preserve"><value>U heeft dit overgeslagen.</value></data>
+  <data name="AccessibilityRemove" xml:space="preserve"><value>Verwijderen</value></data>
+  <data name="x_WIDRandomizeFailedMessage" xml:space="preserve"><value>Het is niet gelukt om in te loggen.</value></data>
+  <data name="FM002B_Body_iOS" xml:space="preserve"><value>U moet de DigiD app eerst bijwerken naar de nieuwste versie. Ga naar de App Store en zoek op DigiD.</value></data>
+  <data name="FM005_Titel" xml:space="preserve"><value>Geen internetverbinding</value></data>
+  <data name="x_WIDWrongCANMessage" xml:space="preserve"><value>De ingevoerde 6-cijferige code is onjuist. Probeer het nogmaals.</value></data>
+  <data name="FM029_Body" xml:space="preserve"><value>U heeft te vaak verkeerde gegevens ingevoerd. Over {0} minuten kunt u het weer proberen.</value></data>
+  <data name="x_WIDRetractConfirmMessage" xml:space="preserve"><value>U gaat nu inlogfunctie {0} intrekken voor inloggen met DigiD.</value></data>
+  <data name="FM011_LangstNietGebruikt" xml:space="preserve"><value>Als u de app activeert op dit apparaat, dan kunt u de app niet meer gebruiken op het volgende apparaat {0}</value></data>
+  <data name="Alg_LoginAbortedMessage" xml:space="preserve"><value>Het inloggen is om technische redenen gestopt.</value></data>
+  <data name="FM023_Titel" xml:space="preserve"><value>Aanvraag niet mogelijk</value></data>
+  <data name="FM050_Titel" xml:space="preserve"><value>Verkeerde code</value></data>
+  <data name="FM028_Body" xml:space="preserve"><value>Volgens onze gegevens woont u buiten Nederland. U kunt alleen een DigiD aanvragen via de website.</value></data>
+  <data name="FM025_Body" xml:space="preserve"><value>U kunt geen DigiD aanvragen voor deze persoon. Deze persoon staat geregistreerd als overleden.</value></data>
+  <data name="FM024_Titel" xml:space="preserve"><value>DigiD geblokkeerd</value></data>
+  <data name="FM011_Deactiveren" xml:space="preserve"><value>Of ga naar Mijn DigiD om zelf te kiezen op welk apparaat u een app wilt verwijderen (deactiveren). Start de activatie van deze app daarna opnieuw.</value></data>
+  <data name="FM026_Body" xml:space="preserve"><value>De ingevulde persoonlijke gegevens zijn niet juist. Controleer uw gegevens. 
+
+Woont u op een ander adres? Pas dan eerst uw adres aan bij de gemeente. En vraag daarna een DigiD aan.</value></data>
+  <data name="FM082_Titel" xml:space="preserve"><value>Inlogfunctie identiteitsdocument geblokkeerd</value></data>
+  <data name="DG079_Text2" xml:space="preserve"><value>• Pak uw rijbewijs.</value></data>
+  <data name="DG079_Text3" xml:space="preserve"><value>• Pak uw {0} er bij.</value></data>
+  <data name="DG079_Text1" xml:space="preserve"><value>Uw telefoon gaat uw {0} scannen.</value></data>
+  <data name="DG079_Text6" xml:space="preserve"><value>Er worden geen persoonsgegevens opgeslagen op uw telefoon.</value></data>
+  <data name="DG079_Text4" xml:space="preserve"><value>• Het paspoort kunt u dicht houden.</value></data>
+  <data name="DG079_Text5" xml:space="preserve"><value>• Haal de telefoon uit het hoesje.</value></data>
+  <data name="x_ActivationCancelledMessage" xml:space="preserve"><value>De activatie is geannuleerd. Om de DigiD app opnieuw te activeren gaat u naar mijn.digid.nl.</value></data>
+  <data name="x_AuthenticationMessage" xml:space="preserve"><value>Voer pincode in om in te loggen.</value></data>
+  <data name="Statistics_Title" xml:space="preserve"><value>Statistieken</value></data>
+  <data name="ContactView_Formulier_Body" xml:space="preserve"><value>U ontvangt binnen 2 werkdagen een reactie.</value></data>
+  <data name="FM024_Body" xml:space="preserve"><value>U kunt geen DigiD aanvragen. Neem contact op met de DigiD helpdesk.</value></data>
+  <data name="FM042_Melding2" xml:space="preserve"><value>Onjuiste pincode. Probeer het opnieuw. U heeft nog 1 poging.</value></data>
+  <data name="FM099_Body" xml:space="preserve"><value>Als u de ID-check overslaat, moet u maximaal {0} werkdagen wachten op een brief om uw app te activeren. Wilt u de app activeren met een brief?</value></data>
+  <data name="FM022_Body" xml:space="preserve"><value>De ingevulde gegevens zijn niet hetzelfde als het adres waarop u staat ingeschreven bij uw gemeente. Controleer uw gegevens. 
+
+Woont u op een ander adres? Pas dan eerst uw adres aan bij de gemeente. En vraag daarna een DigiD aan.</value></data>
+  <data name="FM066_Titel" xml:space="preserve"><value>Uitloggen uit de app</value></data>
+  <data name="DG080_Title" xml:space="preserve"><value>Scan nu uw {0}</value></data>
+  <data name="x_LoginCancelConfirmHeader" xml:space="preserve"><value>Inloggen afbreken</value></data>
+  <data name="FM027_Body" xml:space="preserve"><value>Uw adres kan niet gecontroleerd worden. Neem contact op met uw gemeente om uw adres te controleren of aan te passen.</value></data>
+  <data name="FM021_Melding" xml:space="preserve"><value>Dit is geen geldige geboortedatum. Vul uw geboortedatum goed in.</value></data>
+  <data name="FM075_Titel" xml:space="preserve"><value>Pincode wijzigen niet mogelijk</value></data>
+  <data name="FM105_Title" xml:space="preserve"><value>ID-check niet mogelijk</value></data>
+  <data name="AccessibilitySelected" xml:space="preserve"><value>Geselecteerd</value></data>
+  <data name="x_WIDNewPINMessage" xml:space="preserve"><value>Kies een nieuwe pincode voor uw {0}.</value></data>
+  <data name="Alg_Spinner" xml:space="preserve"><value>Even geduld a.u.b.</value></data>
+  <data name="FM043_Titel" xml:space="preserve"><value>Verkeerde pincode</value></data>
+  <data name="x_WIDNewPINHeader" xml:space="preserve"><value>Pincode {0} wijzigen</value></data>
+  <data name="DG082_Text_Part4_Bottom" xml:space="preserve"><value>de onderkant.</value></data>
+  <data name="DG079_Title_RDA" xml:space="preserve"><value>ID-check {0}</value></data>
+  <data name="DG079_Title_PCA" xml:space="preserve"><value>{0} scannen</value></data>
+  <data name="x_NewNotificationsHeader" xml:space="preserve"><value>Nieuwe berichten.</value></data>
+  <data name="x_ReactivationNeededMessage" xml:space="preserve"><value>Door een technische fout dient u de DigiD app opnieuw te activeren.</value></data>
+  <data name="DG084_Tip2_Header" xml:space="preserve"><value>Tip 2: Telefoon uit het hoesje</value></data>
+  <data name="x_WIDWrongPIN_CANMessage" xml:space="preserve"><value>De {0}code is onjuist. U heeft nog {1} poging{2}.</value></data>
+  <data name="FM023_Body" xml:space="preserve"><value>Op dit moment kunt u geen DigiD aanvragen. Probeer het later opnieuw.</value></data>
+  <data name="Statistics_Explanation" xml:space="preserve"><value>De app verzamelt statistieken over het gebruik van de app, bijvoorbeeld hoe lang u de app gebruikt of op welk tijdstip. Wij gebruiken deze gegevens om de app te verbeteren.
+
+Deze gegevens zijn niet naar u als persoon te herleiden.</value></data>
+  <data name="Alg_LoginUnknownMessage" xml:space="preserve"><value>U bent niet ingelogd (Timeout).</value></data>
+  <data name="x_ActivationAnnulerenAlertMessage" xml:space="preserve"><value>Weet u zeker dat u het activeren van uw DigiD app wilt afbreken?</value></data>
+  <data name="FM059_Body" xml:space="preserve"><value>Als u het inloggen in 2 stappen uitzet, zijn uw gegevens minder goed beschermd. Weet u zeker dat u dit wilt uitzetten?</value></data>
+  <data name="FM057_Titel" xml:space="preserve"><value>Nieuwe code verstuurd</value></data>
+  <data name="AccessibilityPassword" xml:space="preserve"><value>Wachtwoord</value></data>
+  <data name="Dyslexia_Title" xml:space="preserve"><value>Dyslexie-lettertype</value></data>
+  <data name="FM058_Body" xml:space="preserve"><value>DigiD gebruikt uw e-mailadres pas als deze bevestigd is.</value></data>
+  <data name="DG083_Complete_Button" xml:space="preserve"><value>Doorgaan</value></data>
+  <data name="FM054_Titel" xml:space="preserve"><value>Weet u het zeker?</value></data>
+  <data name="FM025_Titel" xml:space="preserve"><value>Aanvraag overleden persoon</value></data>
+  <data name="AccessibilityAnimationIsPausedState" xml:space="preserve"><value>Gepauzeerd</value></data>
+  <data name="x_ActivationAnnulerenAlertHeader" xml:space="preserve"><value>Activeren stoppen</value></data>
+  <data name="FM051_Button" xml:space="preserve"><value>Nieuwe brief aanvragen</value></data>
+  <data name="Alg_ChooseFromList" xml:space="preserve"><value>Kies uit lijst</value></data>
+  <data name="ContactView_Telefoon_Nummer" xml:space="preserve"><value>088 123 65 55</value></data>
+  <data name="Alg_Fingerprint" xml:space="preserve"><value>vingerafdruk</value></data>
+  <data name="SupportView_Version" xml:space="preserve"><value>App-versie:</value></data>
+  <data name="Alg_SecondsToConfirmStart" xml:space="preserve"><value>Nog {0} seconden om te bevestigen</value></data>
+  <data name="Alg_UnknownErrorOccurred" xml:space="preserve"><value>Er is een onbekende fout opgetreden. Probeer het later een keer.</value></data>
+  <data name="Passport" xml:space="preserve"><value>Paspoort</value></data>
+  <data name="Alg_AccessibilityWebPageMenuItem" xml:space="preserve"><value>Toegankelijkheid</value></data>
+  <data name="FM015_Melding" xml:space="preserve"><value>Verkeerde activeringscode. Gebruik de code uit de brief met datum {0} die u per post heeft ontvangen. Deze code begint altijd met een A.</value></data>
+  <data name="ContactView_Telefoon_Titel" xml:space="preserve"><value>Telefoon:</value></data>
+  <data name="FM105_Button" xml:space="preserve"><value>Doorgaan zonder ID-check</value></data>
+  <data name="FM057_Body" xml:space="preserve"><value>Het kan een paar minuten duren voordat u de e-mail ontvangt.</value></data>
+  <data name="x_WIDResumePINSuccessMessage" xml:space="preserve"><value>Uw pincode is succesvol hersteld.</value></data>
+  <data name="DG080_Button_Retry" xml:space="preserve"><value>Probeer het nog eens</value></data>
+  <data name="FM056_Body" xml:space="preserve"><value>Zonder e-mailadres kunnen wij u geen berichten sturen, bijvoorbeeld bij wijzigingen in uw DigiD. Weet u zeker dat u geen e-mailadres aan uw DigiD wilt toevoegen?</value></data>
+  <data name="Alg_Step" xml:space="preserve"><value>Stap </value></data>
+  <data name="Alg_Back" xml:space="preserve"><value>Terug</value></data>
+  <data name="Alg_Face" xml:space="preserve"><value>gezicht</value></data>
+  <data name="Alg_Menu" xml:space="preserve"><value>Menu</value></data>
+  <data name="Alg_List" xml:space="preserve"><value>Lijst</value></data>
+  <data name="Alg_Next" xml:space="preserve"><value>Volgende</value></data>
+  <data name="FM044_Melding" xml:space="preserve"><value>Dit is geen geldig e-mailadres. Controleer uw gegevens.</value></data>
+  <data name="Alg_Language" xml:space="preserve"><value>Taal</value></data>
+  <data name="FM011_Subtitel" xml:space="preserve"><value>App op ander apparaat deactiveren</value></data>
+  <data name="Alg_CheckConnection" xml:space="preserve"><value>Controleer uw internetverbinding</value></data>
+  <data name="Alg_SecurityNotification" xml:space="preserve"><value>Veiligheidsmelding</value></data>
+  <data name="FM086_Body" xml:space="preserve"><value>De pincode van uw {0} is succesvol gewijzigd.</value></data>
+  <data name="FM050_Body" xml:space="preserve"><value>U heeft te vaak een verkeerde code ingevuld. Uw e-mailadres kan niet bevestigd worden. Doe dit later via Mijn DigiD.</value></data>
+  <data name="FM104_Titel" xml:space="preserve"><value>DigiD app werkt tijdelijk niet</value></data>
+  <data name="x_WIDCheckStatus" xml:space="preserve"><value>Controleren kaart status.</value></data>
+  <data name="DG084_Tip4_Header" xml:space="preserve"><value>Tip 4: Schakel spaarstand uit</value></data>
+  <data name="DG084_Tip1_Text_Top" xml:space="preserve"><value>Het scannen gebeurt met gebruik van de NFC-lezer. (Dus niet de camera). De NFC-lezer zit bovenaan de achterkant van de telefoon. Houd uw pas daar tegenaan.</value></data>
+  <data name="ContactView_Telefoon_Body" xml:space="preserve"><value>Lokaal tarief, op werkdagen bereikbaar van 8.00 tot 22.00 uur. Op zaterdagen 
+van 9.00 uur tot 17.00 uur.</value></data>
+  <data name="FM002C_Titel" xml:space="preserve"><value>DigiD app werkt tijdelijk niet</value></data>
+  <data name="x_RDAStartScanning" xml:space="preserve"><value>Houd het {0} tegen de achterkant van de {1}.</value></data>
+  <data name="x_RDAReStartScanning_iOS" xml:space="preserve"><value>Het contact met het {0} is verbroken. Houd het midden van het {0} tegen de bovenkant van de {1}.</value></data>
+  <data name="FontSize_Automatic" xml:space="preserve"><value>Automatisch</value></data>
+  <data name="FM101_Titel" xml:space="preserve"><value>Geen toestemming camera</value></data>
+  <data name="FM085_Body" xml:space="preserve"><value>U heeft te vaak een verkeerde pincode ingevuld. U kunt uw {0} helaas niet meer gebruiken om in te loggen.</value></data>
+  <data name="x_WIDFailedMessage" xml:space="preserve"><value>Het inloggen met uw {0} is niet gelukt. Probeer het later opnieuw.</value></data>
+  <data name="Alg_Scanning" xml:space="preserve"><value>Bezig met scannen</value></data>
+  <data name="FM055_Body" xml:space="preserve"><value>Als u een nieuwe brief aanvraagt, is de code uit de eerdere brief niet meer te gebruiken. Ook als u later alsnog deze brief ontvangt.</value></data>
+  <data name="FM047_Titel" xml:space="preserve"><value>Code tijdelijk niet beschikbaar</value></data>
+  <data name="FM070_Titel" xml:space="preserve"><value>E-mailadres toegevoegd</value></data>
+  <data name="FM082_Body" xml:space="preserve"><value>U kunt niet meer inloggen met dit document. Het is op dit moment niet mogelijk om het document te deblokkeren.</value></data>
+  <data name="FM054_Body" xml:space="preserve"><value>Als u doorgaat moet u de app opnieuw activeren. </value></data>
+  <data name="WIDActivationSuccessMessage" xml:space="preserve"><value>Uw {0} is geactiveerd.</value></data>
+  <data name="Alg_Selected" xml:space="preserve"><value>, geselecteerd</value></data>
+  <data name="DG080_Button_Escape" xml:space="preserve"><value>Tips voor het scannen</value></data>
+  <data name="x_SingleDeviceAccountBlocked" xml:space="preserve"><value>U kunt tijdelijk niet inloggen omdat er te vaak een onjuist wachtwoord is ingevoerd. Over {0} minuten kunt u weer inloggen.</value></data>
+  <data name="FM049_Melding" xml:space="preserve"><value>Deze code is niet meer geldig. Vul de laatst ontvangen code in.</value></data>
+  <data name="FM032_Intro" xml:space="preserve"><value>U heeft al een DigiD aangevraagd. Wacht op de brief met activeringscode om uw DigiD te activeren. Deze is verstuurd naar uw adres. Mogelijk is de brief nog onderweg. Dit duurt maximaal {0} werkdagen.</value></data>
+  <data name="FM032_Titel" xml:space="preserve"><value>DigiD al aangevraagd</value></data>
+  <data name="FM081_Body" xml:space="preserve"><value>Dit identiteitsbewijs heeft geen inlogfunctie. Gebruik een Nederlandse identiteitskaart (afgegeven vanaf 1 januari 2021) of een Nederlands rijbewijs (afgegeven vanaf 26 mei 2018). 
+
+Meer informatie vindt u op www.digid.nl/identiteitsbewijs.</value></data>
+  <data name="Alg_KeyboardLandscapeLeft" xml:space="preserve"><value>Het toetsenbord staat aan de linkerkant van dit scherm.</value></data>
+  <data name="DG084_Tip1_Header" xml:space="preserve"><value>Tip 1: NFC Lezer</value></data>
+  <data name="FontSize_Normal" xml:space="preserve"><value>Normaal</value></data>
+  <data name="FM011_MijnDigiDLink" xml:space="preserve"><value>Naar mijn DigiD</value></data>
+  <data name="Alg_MaxValue" xml:space="preserve"><value>Maximaal {0} {1}</value></data>
+  <data name="FM009_Melding" xml:space="preserve"><value>Uw DigiD is niet actief. Neem contact op met de DigiD helpdesk.</value></data>
+  <data name="x_FM_LoginHelpDesk" xml:space="preserve"><value>Het is niet gelukt om in te loggen. Neem contact op met de DigiD helpdesk.</value></data>
+  <data name="x_WIDChangePINHeader" xml:space="preserve"><value>Pincode {0} wijzigen</value></data>
+  <data name="FM068_Titel" xml:space="preserve"><value>App opnieuw activeren</value></data>
+  <data name="Alg_LoginCancelledMessage" xml:space="preserve"><value>U heeft het inloggen afgebroken.</value></data>
+  <data name="x_WrongPinMessageTriesLeft" xml:space="preserve"><value>De pincode is onjuist. U heeft nog {0} pogingen.</value></data>
+  <data name="Alg_ActivationDisabledMessage" xml:space="preserve"><value>Het activeren van uw DigiD app is tijdelijk niet mogelijk.</value></data>
+  <data name="x_WIDReenterPINHeader" xml:space="preserve"><value>Pincode {0} bevestigen</value></data>
+  <data name="SSLWarningMessage" xml:space="preserve"><value>Er is een fout opgetreden. Hierdoor kan geen verbinding worden gemaakt met DigiD.</value></data>
+  <data name="x_WIDReactivateConfirmHeader" xml:space="preserve"><value>Deblokkeren inlogfunctie {0}</value></data>
+  <data name="x_WIDCancelledMessage" xml:space="preserve"><value>Het inloggen met het {0} is geannuleerd.</value></data>
+  <data name="FM032_LinkAanvraag" xml:space="preserve"><value>DigiD opnieuw aanvragen</value></data>
+  <data name="x_ActivationConfirmPendingMessage" xml:space="preserve"><value>U heeft al een brief met activeringscode aangevraagd. U kunt maar 1 brief tegelijk aanvragen.&lt;br/&gt;&lt;br/&gt;Wacht op de aangevraagde brief. Mogelijk is deze nog onderweg, dit duurt maximaal {0} werkdagen.&lt;br/&gt;Wilt u toch een nieuwe brief met activeringscode aanvragen? Selecteer dan 'Brief aanvragen'. De activeringscode uit de brief die u al eerder heeft aangevraagd, kunt u dan &lt;b&gt;niet meer gebruiken&lt;/b&gt;.</value></data>
+  <data name="x_WrongPinHeader" xml:space="preserve"><value>Pincode onjuist</value></data>
+  <data name="FM017_Body" xml:space="preserve"><value>U heeft te vaak een verkeerde code ingevuld. Vraag opnieuw een brief met activeringscode aan om de app te activeren.</value></data>
+  <data name="Alg_ReleasePasswordImage" xml:space="preserve"><value>Wachtwoord weer verbergen</value></data>
+  <data name="x_LetterNotificationTitle" xml:space="preserve"><value>Brief ontvangen?</value></data>
+  <data name="Alg_CameraStarted" xml:space="preserve"><value>Camera gestart. U kunt nu de QR-code scannen.</value></data>
+  <data name="FM039_Titel" xml:space="preserve"><value>Activatie niet mogelijk</value></data>
+  <data name="DG078_Title" xml:space="preserve"><value>Welk Nederlands identiteitsbewijs gaat u gebruiken?</value></data>
+  <data name="Alg_PressPasswordImage" xml:space="preserve"><value>Wachtwoord laten zien</value></data>
+  <data name="FM002A_Body_Android" xml:space="preserve"><value>In de Google Play Store kunt u deze app bijwerken.</value></data>
+  <data name="IDCheck_Cancelled_Message" xml:space="preserve"><value>U heeft de ID-check geannuleerd.</value></data>
+  <data name="Alg_ScanSucceeded" xml:space="preserve"><value>Scan is gelukt</value></data>
+  <data name="FM018_Body" xml:space="preserve"><value>Uw activeringscode is niet meer geldig. U moet opnieuw een brief met activeringscode aanvragen om de app te activeren. De activeringscode is 21 dagen geldig.</value></data>
+  <data name="FM100_Titel" xml:space="preserve"><value>Helaas kunt u niet inloggen</value></data>
+  <data name="FM011_Intro" xml:space="preserve"><value>U heeft de DigiD app al geactiveerd op {0} apparaten. Dit is het maximum.</value></data>
+  <data name="FM051_Subtitle" xml:space="preserve"><value>Nieuwe brief aanvragen</value></data>
+  <data name="FM013_Body" xml:space="preserve"><value>U heeft te vaak een verkeerde sms-code ingevuld. U moet de app opnieuw activeren.</value></data>
+  <data name="FM011_Titel" xml:space="preserve"><value>Teveel apps actief</value></data>
+  <data name="eID" xml:space="preserve"><value>Identiteitsbewijs</value></data>
+  <data name="FM073_Titel" xml:space="preserve"><value>Preferred language</value></data>
+  <data name="FM078" xml:space="preserve"><value>U bent hier klaar. Ga verder in uw nieuwe DigiD app om de activatie af te ronden.</value></data>
+  <data name="x_LoginSuccessMessage" xml:space="preserve"><value>U bent ingelogd.</value></data>
+  <data name="FM035_Melding" xml:space="preserve"><value>De ingevulde pincodes zijn niet hetzelfde. Probeer het opnieuw.</value></data>
+  <data name="FM107_Titel" xml:space="preserve"><value>Tevreden over de DigiD app?</value></data>
+  <data name="AccessibilityAnimationIsPausedHint" xml:space="preserve"><value>Tap voor afspelen</value></data>
+  <data name="x_AuthenticationHeader" xml:space="preserve"><value>Pincode invoeren</value></data>
+  <data name="FM074_Titel" xml:space="preserve"><value>Nieuwe controlecode?</value></data>
+  <data name="FM099_Titel" xml:space="preserve"><value>U moet wachten op een brief</value></data>
+  <data name="FM018_Titel" xml:space="preserve"><value>Code verlopen</value></data>
+  <data name="DG083_Complete_Text" xml:space="preserve"><value>De ID-check is gelukt en is een jaar geldig.
+U kunt nu doorgaan.</value></data>
+  <data name="FM105_CannotContinue" xml:space="preserve"><value>U kunt niet verder met ID-check. Neem contact op met de organisatie waar u probeert in te loggen. Zij kunnen u een andere manier bieden om uw zaken te regelen.</value></data>
+  <data name="DG078_BottomSheet_Message" xml:space="preserve"><value>Als u geen Nederlands identiteitsbewijs heeft kan u op dit moment geen gebruik maken van ID-check. 
+
+Voorbeelden van documenten die niet ondersteund worden:
+• Buitenlandse identiteitsbewijzen
+• Verblijfsdocumenten
+• Vreemdelingen identiteitsbewijzen
+
+Als uw document niet ondersteund wordt kunt u doorgaan zonder ID-check.</value></data>
+  <data name="Alg_Executed" xml:space="preserve"><value>Uitgevoerd</value></data>
+  <data name="Alg_Cancel" xml:space="preserve"><value>Annuleer</value></data>
+  <data name="DG084_Tip3_Header" xml:space="preserve"><value>Tip 3: In uw hand houden</value></data>
+  <data name="Alg_Choose" xml:space="preserve"><value>Kies </value></data>
+  <data name="DG083_CompleteHeader" xml:space="preserve"><value>U bent klaar</value></data>
+  <data name="FM063_Titel" xml:space="preserve"><value>QR-code niet meer geldig</value></data>
+  <data name="FM069_Titel" xml:space="preserve"><value>ID-check niet gelukt </value></data>
+  <data name="FM101_ButtonClose" xml:space="preserve"><value>Sluiten</value></data>
+  <data name="FM011_Knop" xml:space="preserve"><value>Ok</value></data>
+  <data name="FM010_Body" xml:space="preserve"><value>U kunt de app niet activeren voor deze persoon. Deze persoon staat geregistreerd als overleden.</value></data>
+  <data name="FM056_Titel" xml:space="preserve"><value>Weet u het zeker?</value></data>
+  <data name="FM012_Melding" xml:space="preserve"><value>Verkeerde sms-code. Probeer het opnieuw. De sms-code bestaat uit 6 cijfers.</value></data>
+  <data name="Dyslexia_Explanation" xml:space="preserve"><value>Het dyslexie-lettertype is speciaal ontwikkeld voor mensen met dyslexie om gemakkelijker te lezen.</value></data>
+  <data name="FontSize_Largest" xml:space="preserve"><value>Grootste</value></data>
+  <data name="x_UpgradeAccountWithIDCheckerSuccessHeader" xml:space="preserve"><value>ID-check gelukt</value></data>
+  <data name="Alg_PercentageRead" xml:space="preserve"><value>{0} procent</value></data>
+  <data name="AccessibilityAnimationIsPlayingState" xml:space="preserve"><value>Wordt afgespeeld</value></data>
+  <data name="Alg_Failed" xml:space="preserve"><value>Mislukt</value></data>
+  <data name="FontSize_Large" xml:space="preserve"><value>Groter</value></data>
+  <data name="FM026_Titel" xml:space="preserve"><value>Persoonlijke gegevens niet juist</value></data>
+  <data name="Alg_Error" xml:space="preserve"><value>Fout</value></data>
+  <data name="x_SingleDeviceNoBSNOnAccount" xml:space="preserve"><value>Het activeren van de DigiD app is niet mogelijk met een account zonder bsn.</value></data>
+  <data name="Alg_Email" xml:space="preserve"><value>E-mail code</value></data>
+  <data name="Alg_Close" xml:space="preserve"><value>Sluiten</value></data>
+  <data name="x_WIDRetractSuccessMessage" xml:space="preserve"><value>De inlogfuctie van uw {0} is ingetrokken. U kunt niet meer met uw {0} inloggen.</value></data>
+  <data name="FontSize_Title" xml:space="preserve"><value>Lettergrootte</value></data>
+  <data name="FontSize_Small" xml:space="preserve"><value>Klein</value></data>
+  <data name="DG084_Tip1_Text_Unknown" xml:space="preserve"><value>Het scannen gebeurt met gebruik van de NFC-lezer. (Dus niet de camera). De NFC-lezer kan boven, midden, of onderaan de achterkant van de telefoon zitten. Houd uw pas daar tegenaan.</value></data>
+  <data name="x_FM_RequestAccount_HelpDesk" xml:space="preserve"><value>U kunt geen DigiD aanvragen. Neem contact op met de DigiD helpdesk.</value></data>
+  <data name="Alg_Letter" xml:space="preserve"><value>Brief code</value></data>
+  <data name="Alg_CloseToast" xml:space="preserve"><value>Sluit deze melding</value></data>
+  <data name="x_WIDExistingPINHeader" xml:space="preserve"><value>Pincode {0} invoeren</value></data>
+  <data name="Alg_SMS" xml:space="preserve"><value>SMS code</value></data>
+  <data name="Alg_Yes" xml:space="preserve"><value>Ja</value></data>
+  <data name="Alg_Off" xml:space="preserve"><value>Uit</value></data>
+  <data name="WIDSuspendedMessage" xml:space="preserve"><value>De pincode van uw {0} is tijdelijk geblokkeerd.</value></data>
+  <data name="Alg_Numbers" xml:space="preserve"><value>cijfers</value></data>
+  <data name="FM059_Titel" xml:space="preserve"><value>Inloggen in 2 stappen uitzetten</value></data>
+  <data name="DarkMode_Title" xml:space="preserve"><value>Donkere modus</value></data>
+  <data name="FM002B_Knop" xml:space="preserve"><value>Bijwerken</value></data>
+  <data name="FM046_Body" xml:space="preserve"><value>Uw e-mailadres is bevestigd. U kunt nu doorgaan.</value></data>
+  <data name="FM002A_Knop1" xml:space="preserve"><value>Ik werk de app later bij</value></data>
+  <data name="FM002A_Knop2" xml:space="preserve"><value>Bijwerken</value></data>
+  <data name="Alg_FaqAnswerHidden" xml:space="preserve"><value>Antwoord wordt niet getoond</value></data>
+  <data name="NfcLocation_Unknown" xml:space="preserve"><value>Onbekend</value></data>
+  <data name="Alg_Continue" xml:space="preserve"><value>Doorgaan</value></data>
+  <data name="FM006_Melding" xml:space="preserve"><value>Uw gebruikersnaam of wachtwoord klopt niet. Controleer of u de juiste gegevens heeft ingevuld.</value></data>
+  <data name="FM002A_Titel" xml:space="preserve"><value>Nieuwe versie DigiD app beschikbaar</value></data>
+  <data name="FM043_Body" xml:space="preserve"><value>U heeft te vaak een verkeerde pincode ingevuld. U moet de app opnieuw activeren.</value></data>
+  <data name="FM077_Titel" xml:space="preserve"><value>U heeft te lang gewacht</value></data>
+  <data name="FM017_Titel" xml:space="preserve"><value>Te vaak verkeerde code</value></data>
+  <data name="AccessibilityPincodeIntro" xml:space="preserve"><value>Pincode toetsenbord</value></data>
+  <data name="Alg_FaqAnswerShown" xml:space="preserve"><value>Antwoord wordt getoond</value></data>
+  <data name="x_PluralSuffix" xml:space="preserve"><value>en</value></data>
+  <data name="DG082_Text_Part5" xml:space="preserve"><value>van uw toestel, ter hoogte van </value></data>
+  <data name="DG082_Text_Part2" xml:space="preserve"><value> achterkant </value></data>
+  <data name="DG082_Text_Part1" xml:space="preserve"><value>Probeer het opnieuw. Houd uw {0} tegen de</value></data>
+  <data name="FM073_EN" xml:space="preserve"><value>English</value></data>
+  <data name="FM073_NL" xml:space="preserve"><value>Dutch</value></data>
+  <data name="Alg_KeyboardPortrait" xml:space="preserve"><value>Het toetsenbord staat onderaan dit scherm.</value></data>
+  <data name="FM045_Body" xml:space="preserve"><value>Uw e-mailadres wordt al gebruikt voor 5 DigiD-accounts. U kunt dit e-mailadres niet nog een keer gebruiken. Vul een ander e-mailadres in of voeg later via Mijn DigiD een ander e-mailadres toe.</value></data>
+  <data name="x_ActivationConfirmPendingHeader" xml:space="preserve"><value>Al een brief aangevraagd</value></data>
+  <data name="x_PincodeMatchErrorMessage" xml:space="preserve"><value>Pincodes zijn niet hetzelfde.</value></data>
+  <data name="Alg_A11yLinkMoreInfo" xml:space="preserve"><value>Meer over toegankelijkheid</value></data>
+  <data name="x_FirstLetterNotificationMessage" xml:space="preserve"><value>Brief ontvangen? Vergeet uw activatie niet af te ronden.</value></data>
+  <data name="x_RDAStartScanning_iOS" xml:space="preserve"><value>Houd het midden van het {0} tegen de bovenkant van de {1}.</value></data>
+  <data name="Alg_External" xml:space="preserve"><value>Opent externe website</value></data>
+  <data name="FM002C_Body" xml:space="preserve"><value>De DigiD app kunt u tijdelijk niet gebruiken. Probeer het later nog eens.</value></data>
+  <data name="FM047_Body" xml:space="preserve"><value>U heeft vandaag al te vaak e-mails met een code ontvangen van DigiD. Controleer uw ongewenste e-mail als u niets heeft ontvangen. U kunt morgen proberen uw e-mailadres opnieuw te bevestigen via Mijn DigiD.</value></data>
+  <data name="x_AuthenticationAbortedMessage" xml:space="preserve"><value>Uw actie is afgebroken.</value></data>
+  <data name="DG062_ContactTeletolk_Titel" xml:space="preserve"><value>Contact voor doven en slechthorenden</value></data>
+  <data name="DG081_Title" xml:space="preserve"><value>Houd uw {0} stil</value></data>
+  <data name="x_AppChangePinReenterMessage" xml:space="preserve"><value>Herhaal de nieuwe pincode.</value></data>
+  <data name="Alg_Language_PAP" xml:space="preserve"><value>Papiamentu (Papiamentu)</value></data>
+  <data name="x_WIDActivationFailedMessage" xml:space="preserve"><value>Het activeren van de inlogfunctie van uw {0} is niet gelukt. Probeer het later opnieuw.</value></data>
+  <data name="FM079_Body" xml:space="preserve"><value>U kunt de DigiD app niet op deze manier activeren.
+
+U heeft in uw DigiD ingesteld dat u altijd wil inloggen in minimaal 2 stappen. Daarom moet u de DigiD app activeren met een ID-check of met een andere DigiD app.</value></data>
+  <data name="x_ActivationConfirmPendingCancel" xml:space="preserve"><value>Brief aanvragen</value></data>
+  <data name="x_ActivationConfirmPendingMessageButton" xml:space="preserve"><value>Wachten</value></data>
+  <data name="Alg_ShowingPassword" xml:space="preserve"><value>Wachtwoord wordt getoond</value></data>
+  <data name="x_WIDPUKBlockedMessage" xml:space="preserve"><value>Uw kaart is permanent geblokkeerd. U kunt deze niet meer gebruiken om mee in te loggen.</value></data>
+  <data name="FM032_InfoAanvraag" xml:space="preserve"><value>Wilt u toch een nieuwe DigiD aanvragen? Klik dan op “Opnieuw een DigiD aanvragen”. De activeringscode uit de brief die u al eerder heeft aangevraagd, kunt u dan niet meer gebruiken.</value></data>
+  <data name="SupportView_Title" xml:space="preserve"><value>Ondersteuning</value></data>
+  <data name="Alg_ConfirmCancelled" xml:space="preserve"><value>U heeft de wijziging niet bevestigd.</value></data>
+  <data name="SupportView_Model" xml:space="preserve"><value>Model:</value></data>
+  <data name="FM002B_Body_Android" xml:space="preserve"><value>U moet de DigiD app eerst bijwerken naar de nieuwste versie. Ga naar de Google Play Store en zoek op DigiD.</value></data>
+  <data name="AccessibilityAnimationIsPlayingHint" xml:space="preserve"><value>Tap voor pauzeren</value></data>
+  <data name="Alg_TryAgain" xml:space="preserve"><value>Probeer opnieuw</value></data>
+  <data name="Alg_PageOfNumberOfPages" xml:space="preserve"><value>Pagina {0} van {1}</value></data>
+  <data name="FM022_Titel" xml:space="preserve"><value>Verkeerde gegevens</value></data>
+  <data name="x_LoginAndUpgradeHeader" xml:space="preserve"><value>Inloggen en ID-check</value></data>
+  <data name="DrivingLicense" xml:space="preserve"><value>Rijbewijs</value></data>
+  <data name="Alg_ChoosePincode" xml:space="preserve"><value>Pincode kiezen</value></data>
+  <data name="Alg_A11y_MoreInfo_Link" xml:space="preserve"><value>https://www.digid.nl/over-digid/toegankelijkheid-van-digid/</value></data>
+  <data name="x_ActivationFailedMessage" xml:space="preserve"><value>Er is een fout opgetreden. Begin opnieuw met het activeren van de DigiD app.</value></data>
+  <data name="x_RDAReStartScanning" xml:space="preserve"><value>Het contact met het {0} is verbroken. Houd het {0} tegen de achterkant van de {1}.</value></data>
+  <data name="NfcLocation_Middle" xml:space="preserve"><value>Midden</value></data>
+  <data name="FM073_Body" xml:space="preserve"><value>You can set your preferred language for emails, (spoken) text messages and letters you receive from DigiD.
+
+What is your preferred language for communications about your DigiD?</value></data>
+  <data name="x_WIDActivationNeededMessage" xml:space="preserve"><value>Activeer 'inloggen met identiteitsbewijs' in Mijn DigiD.</value></data>
+  <data name="DG081_Text" xml:space="preserve"><value>De telefoon heeft verbinding gemaakt met uw {0}. Wacht tot de balk gevuld is.</value></data>
+  <data name="FM101_ButtonSettings" xml:space="preserve"><value>Naar instellingen</value></data>
+  <data name="SupportView_Name" xml:space="preserve"><value>Apparaatnaam:</value></data>
+  <data name="Alg_AlternateTextExplainIDBewijs" xml:space="preserve"><value>De ID-check voert u uit met een van volgende identiteitsbewijzen:Rijbewijs,Paspoort,Identiteitskaart</value></data>
+  <data name="FontSize_Explanation" xml:space="preserve"><value>Bij 'automatisch' volgt de app de lettergrootte-instelling van uw toestel.</value></data>
+  <data name="x_WIDWrongPINMessage" xml:space="preserve"><value>Verkeerde pincode. Probeer het opnieuw. U heeft nog {0} poging{1}. Let op! Het gaat hier niet om de pincode van de DigiD app, maar de pincode van uw {2}.</value></data>
+  <data name="FM072_Body" xml:space="preserve"><value>De ID-check is succesvol aan uw DigiD app toegevoegd.</value></data>
+  <data name="DG078_Text_Part3" xml:space="preserve"><value>dat u wilt gebruiken voor de ID-check uit de onderstaande lijst.</value></data>
+  <data name="DG078_Text_Part2" xml:space="preserve"><value> Nederlands identiteitsbewijs </value></data>
+  <data name="DG078_Text_Part1" xml:space="preserve"><value>Kies het type</value></data>
+  <data name="FM007_Title" xml:space="preserve"><value>Geen of trage internetverbinding</value></data>
+  <data name="x_LoginCancelConfirmMessage" xml:space="preserve"><value>Weet u zeker dat u het inloggen wilt afbreken?</value></data>
+  <data name="FM038_Titel" xml:space="preserve"><value>Scannen tijdelijk niet mogelijk</value></data>
+  <data name="FM071_Body" xml:space="preserve"><value>Uw pincode is succesvol gewijzigd.</value></data>
+  <data name="DG080_Text_iOS_Overlay_Disconnected" xml:space="preserve"><value>Contact met {0} is verloren, begin opnieuw.</value></data>
+  <data name="DG078_BottomSheet_MessageWithoutEscape" xml:space="preserve"><value>Als u geen Nederlands identiteitsbewijs heeft kan u op dit moment geen gebruik maken van ID-check. 
+
+Voorbeelden van documenten die niet ondersteund worden:
+• Buitenlandse identiteitsbewijzen
+• Verblijfsdocumenten
+• Vreemdelingen identiteitsbewijzen</value></data>
+  <data name="FM070_Body" xml:space="preserve"><value>Uw e-mailadres is succesvol toegevoegd aan uw DigiD-account.</value></data>
+  <data name="Alg_InputLengthFromMaxLength" xml:space="preserve"><value> {0} {1} van {2} ingevoerd</value></data>
+  <data name="ContactView_ContactFormUrl" xml:space="preserve"><value>https://www.digid.nl/contactformulier/</value></data>
+  <data name="FM077_Body" xml:space="preserve"><value>U heeft te lang gewacht met bevestigen. Om veiligheidsredenen is de wijziging gestopt. Probeer het opnieuw.</value></data>
+  <data name="FM002A_Body_iOS" xml:space="preserve"><value>In de Apple App Store kunt u deze app bijwerken.</value></data>
+  <data name="x_WIDReenterPINMessage" xml:space="preserve"><value>Herhaal de nieuwe pincode voor uw {0}.</value></data>
+  <data name="FM013_Titel" xml:space="preserve"><value>Verkeerde sms-code</value></data>
+  <data name="FM076_Body" xml:space="preserve"><value>Activeer uw app. Daarna kunt u ermee inloggen.</value></data>
+  <data name="FM076_Knop" xml:space="preserve"><value>Nu activeren</value></data>
+  <data name="FM084_Melding_DriversLicense" xml:space="preserve"><value>U heeft meerdere keren een verkeerde pincode ingevuld. U moet nu eerst uw rijbewijsnummer invullen.</value></data>
+  <data name="AccessibilityOf" xml:space="preserve"><value>van</value></data>
+  <data name="x_SecondLetterNotificationMessage" xml:space="preserve"><value>Vergeet uw activatie niet af te ronden met de code uit de ontvangen brief.</value></data>
+  <data name="DarkMode_Automatic" xml:space="preserve"><value>Automatisch</value></data>
+  <data name="FM010_Titel" xml:space="preserve"><value>Persoon overleden</value></data>
+  <data name="FM075_Body" xml:space="preserve"><value>U heeft vandaag al {0} keer uw pincode gewijzigd. U kunt het morgen opnieuw proberen.</value></data>
+  <data name="FM045_Titel" xml:space="preserve"><value>E-mailadres al in gebruik</value></data>
+  <data name="FM072_Titel" xml:space="preserve"><value>ID-check gelukt</value></data>
+  <data name="FM084_Titel" xml:space="preserve"><value>Tijdelijk geblokkeerd</value></data>
+  <data name="FM020_Melding" xml:space="preserve"><value>Dit is geen geldig burgerservicenummer (BSN). Vul uw BSN goed in. Het BSN is te vinden op uw Nederlands identiteitsbewijs, loonstrook en soms uw zorgpas. Op sommige identiteitsbewijzen wordt het BSN ook wel persoonsnummer genoemd.</value></data>
+  <data name="x_WIDLoginFailedMessage" xml:space="preserve"><value>Er is een onbekende fout opgetreden. Probeer het later een keer.</value></data>
+  <data name="FM074_Body" xml:space="preserve"><value>De controlecode om uw e-mailadres te bevestigen is maar beperkt geldig. Wilt u een nieuwe code ontvangen?</value></data>
+  <data name="x_WIDReactivateConfirmMessage" xml:space="preserve"><value>U gaat nu inlogfunctie {0} deblokkeren.</value></data>
+  <data name="DarkMode_Explanation" xml:space="preserve"><value>Bij 'automatisch' volgt de app de donkere modus-instelling van uw toestel.</value></data>
+  <data name="x_WIDExistingPINMessage" xml:space="preserve"><value>Voer de pincode van uw {0} in.</value></data>
+  <data name="AccessibilityQRCodeDescription" xml:space="preserve"><value>QR code om DigiD app te koppelen</value></data>
+  <data name="FM061_Titel" xml:space="preserve"><value>Verkeerde koppelcode</value></data>
+  <data name="Alg_TabPage" xml:space="preserve"><value>Tabblad {0} van {1}</value></data>
+  <data name="FM064_Titel" xml:space="preserve"><value>App gedeactiveerd</value></data>
+  <data name="DG082_Title" xml:space="preserve"><value>Contact verbroken</value></data>
+  <data name="NfcLocation_Bottom" xml:space="preserve"><value>Onderkant</value></data>
+  <data name="DG078_BottomSheet_Title" xml:space="preserve"><value>Geen geschikt identiteitsbewijs</value></data>
+  <data name="FM032_Subtitel" xml:space="preserve"><value>Opnieuw aanvragen</value></data>
+  <data name="FM003_Body" xml:space="preserve"><value>U heeft te lang gewacht om in te loggen bij {0}. Om veiligheidsredenen is het inloggen gestopt. Probeer opnieuw in te loggen.</value></data>
+  <data name="x_UpgradeRDACancelMessage" xml:space="preserve"><value>Weet u zeker dat u de ID-check wilt annuleren?</value></data>
+  <data name="x_AppChangePinHeader" xml:space="preserve"><value>Pincode wijzigen</value></data>
+  <data name="FM079_Titel" xml:space="preserve"><value>Activatie niet gelukt</value></data>
+  <data name="Alg_AccessibilityMenuItemLinkText" xml:space="preserve"><value>Opent externe website</value></data>
+  <data name="ContactView_Formulier_Titel" xml:space="preserve"><value>Contactformulier</value></data>
+  <data name="Alg_RequiredInputField" xml:space="preserve"><value>Verplicht invoerveld</value></data>
+  <data name="DG084_Tip2_Text" xml:space="preserve"><value>Haal uw telefoon uit het hoesje. Zo kan de NFC-lezer beter contact maken.</value></data>
+  <data name="x_SessionTimeoutMessage" xml:space="preserve"><value>De DigiD sessie is verlopen, en u dient een nieuwe sessie te starten.</value></data>
+  <data name="DG084_Tip3_Text" xml:space="preserve"><value>Het signaal kan verstoord worden door een metalen object (zoals een tafel). Houd het ID-bewijs en uw telefoon in uw hand.</value></data>
+  <data name="x_LetterNotificationHeader" xml:space="preserve"><value>DigiD</value></data>
+  <data name="DG080_WaitForRemoval_Message" xml:space="preserve"><value>Scannen gelukt</value></data>
+  <data name="DG084_Button2_Text" xml:space="preserve"><value>Opnieuw proberen</value></data>
+  <data name="Alg_InputCorrect" xml:space="preserve"><value>{0}, {1} is juist ingevoerd</value></data>
+  <data name="Alg_SecondsToConfirmUpdate" xml:space="preserve"><value>Nog {0} seconden</value></data>
+  <data name="FM003_Titel" xml:space="preserve"><value>U heeft te lang gewacht</value></data>
+  <data name="FM051_Text1" xml:space="preserve"><value>U heeft een brief met activatiecode aangevraagd op een ander apparaat. Mogelijk is deze brief nog onderweg (maximaal {0} werkdagen). De activeringscode uit deze brief is alleen te gebruiken op het andere apparaat.</value></data>
+  <data name="FM051_Text2" xml:space="preserve"><value>Als u een activeringscode wil aanvragen voor het apparaat dat u nu gebruikt, druk dan op ‘Nieuwe brief aanvragen’. De activeringscode uit de brief die u eerder heeft aangevraagd kunt u dan niet meer gebruiken.</value></data>
+  <data name="FM051_Titel" xml:space="preserve"><value>Al een brief onderweg</value></data>
+  <data name="x_NewNotificationsMessage" xml:space="preserve"><value>Er zijn nieuwe berichten        Wilt u die nu ophalen en bekijken?</value></data>
+  <data name="DG084_Button1_Text" xml:space="preserve"><value>Later scannen</value></data>
+  <data name="FM039_Body" xml:space="preserve"><value>Volgens onze gegevens woont u buiten Nederland. Wij hebben een actueel Nederlands adres nodig om een brief naartoe te sturen. 
+
+U kunt de app wel activeren met een ID-check of door in te loggen met een al actieve DigiD app.</value></data>
+  <data name="x_BrowserUnsupportedMessage" xml:space="preserve"><value>De DigiD App ondersteunt alleen Safari, Chrome, Firefox en Microsoft Edge als mobiele browser.</value></data>
+  <data name="FM048_Melding" xml:space="preserve"><value>Verkeerde code. Probeer het opnieuw. U heeft nog {0} pogingen.</value></data>
+  <data name="FM038_Body" xml:space="preserve"><value>We kunnen op dit moment uw identiteitsbewijs niet scannen. Probeer het later opnieuw of activeer de app op een andere manier.</value></data>
+  <data name="FM105_Message" xml:space="preserve"><value>Heeft u een Nederlands paspoort of identiteitskaart afgegeven door een ambassade, consulaat, grensgemeente of de Schipholbalie? Dan kunt u de ID-check alleen doen met:
+• Een paspoort afgegeven vóór 30 augustus 2021 
+• Een identiteitskaart afgegeven vóór 1 augustus 2021.</value></data>
+  <data name="FM037_Body" xml:space="preserve"><value>U heeft deze maand te vaak een app geactiveerd. Vanaf {0} kunt u het opnieuw proberen.</value></data>
+  <data name="FM058_Titel" xml:space="preserve"><value>Weet u het zeker?</value></data>
+  <data name="FM085_Titel" xml:space="preserve"><value>Onjuiste pincode</value></data>
+  <data name="x_ReadDocument" xml:space="preserve"><value>Bezig met scannen van {0}</value></data>
+  <data name="Alg_Characters" xml:space="preserve"><value>karakters</value></data>
+  <data name="DG084_Tip4_Text" xml:space="preserve"><value>De NFC-lezer werkt soms niet als uw telefoon in ‘batterij spaarstand’ staat. Schakel spaarstand uit en start de DigiD app opnieuw op.</value></data>
+  <data name="Alg_VerificationCode" xml:space="preserve"><value>Koppelcode</value></data>
+  <data name="FM002B_Titel" xml:space="preserve"><value>Nieuwe versie DigiD app nodig</value></data>
+  <data name="FM076_Titel" xml:space="preserve"><value>App nog niet geactiveerd</value></data>
+  <data name="x_UpgradeAccountWithNFCFailedMessage" xml:space="preserve"><value>Het is niet gelukt om de ID-check uit te voeren met dit identiteitsbewijs.</value></data>
+  <data name="FM033_Body" xml:space="preserve"><value>Als u doorgaat, dan kunt u uw oude DigiD niet meer gebruiken. Weet u zeker dat u een nieuwe DigiD wilt aanvragen?</value></data>
+  <data name="FM046_Titel" xml:space="preserve"><value>E-mail bevestigd</value></data>
+  <data name="ContactView_Titel" xml:space="preserve"><value>Contact</value></data>
+  <data name="FM104_Body" xml:space="preserve"><value>Door onderhoud aan DigiD kunt u de app tijdelijk niet gebruiken. Probeer het later nog eens.</value></data>
+  <data name="FM065_Titel" xml:space="preserve"><value>NFC staat uit</value></data>
+  <data name="FM032_Knop" xml:space="preserve"><value>Wachten</value></data>
+  <data name="Alg_CloseButton" xml:space="preserve"><value>Huidige actie annuleren</value></data>
+  <data name="Alg_NrOfItemsInList" xml:space="preserve"><value>{0} items</value></data>
+  <data name="FM031_Body" xml:space="preserve"><value>U heeft al {0} keer een DigiD aangevraagd in de afgelopen maand. Probeer het later opnieuw.</value></data>
+  <data name="x_RDADisabledMessage" xml:space="preserve"><value>U kunt binnen de DigiD app tijdelijk geen identiteitsbewijzen scannen.</value></data>
+  <data name="x_UpgradeRDACancelHeader" xml:space="preserve"><value>ID-check annuleren?</value></data>
+  <data name="x_AccountNotYetActivated" xml:space="preserve"><value>Uw DigiD is nog niet geactiveerd. Als u de brief met activeringscode heeft ontvangen, kunt u uw account activeren op &lt;a href='https://mijn.digid.nl'&gt;mijn.digid.nl&lt;/a&gt;. Daarna kunt u de app activeren.</value></data>
+  <data name="FM107_ButtonYes" xml:space="preserve"><value>Laat het ons weten</value></data>
+  </root>

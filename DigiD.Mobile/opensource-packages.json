@@ -1,0 +1,92 @@
+[
+  {
+    "Title": " Microsoft.Maui.Controls (10.0.101)",
+    "Description": ".NET Multi-platform App UI (.NET MAUI) is a cross-platform framework for creating native mobile and desktop apps with C# and XAML. Using .NET MAUI, you can develop apps that can run on Android, iOS, macOS, Tizen, and Windows from a single shared codebase.",
+    "ProjectUrl": "https://github.com/dotnet/maui",
+    "LicenseUrl": "https://licenses.nuget.org/MIT"
+  },
+  {
+    "Title": " Microsoft.Maui.Controls.Compatibility (10.0.101)",
+    "Description": "Compatibility APIs and objects for .NET Multi-platform App UI (.NET MAUI) apps. This package contains a collection of APIs and views that allow for easier migration from Xamarin.Forms.",
+    "ProjectUrl": "https://github.com/dotnet/maui",
+    "LicenseUrl": "https://licenses.nuget.org/MIT"
+  },
+  {
+    "Title": ".NET Community Toolkit - MVVM (8.4.2)",
+    "Description": "This package includes a .NET MVVM library with helpers such as:\r\n      - ObservableObject: a base class for objects implementing the INotifyPropertyChanged interface.\r\n      - ObservableRecipient: a base class for observable objects with support for the IMessenger service.\r\n      - ObservableValidator: a base class for objects implementing the INotifyDataErrorInfo interface.\r\n      - RelayCommand: a simple delegate command implementing the ICommand interface.\r\n      - AsyncRelayCommand: a delegate command supporting asynchronous operations and cancellation.\r\n      - WeakReferenceMessenger: a messaging system to exchange messages through different loosely-coupled objects.\r\n      - StrongReferenceMessenger: a high-performance messaging system that trades weak references for speed.\r\n      - Ioc: a helper class to configure dependency injection service containers.",
+    "ProjectUrl": "https://github.com/CommunityToolkit/dotnet",
+    "LicenseUrl": "https://licenses.nuget.org/MIT"
+  },
+  {
+    "Title": ".NET MAUI BottomSheet (10.0.7)",
+    "Description": "Open native BottomSheets with .NET MAUI\r\n            * Built-in NavigationService\r\n            * Open any ContenPage or View as BottomSheet\r\n            * Create BottomSheets in any layout\r\n            * Configurable header\r\n            * MVVM support",
+    "ProjectUrl": "https://github.com/lucacivale/Maui.BottomSheet",
+    "LicenseUrl": "https://licenses.nuget.org/MIT"
+  },
+  {
+    "Title": "Additional SkiaSharp controls for .NET MAUI (3.0.0)",
+    "Description": "This package adds additional SkiaSharp controls to .NET MAUI.",
+    "ProjectUrl": "https://go.microsoft.com/fwlink/?linkid=2071915",
+    "LicenseUrl": "https://licenses.nuget.org/MIT"
+  },
+  {
+    "Title": "BerTlv.NET (2.0.3)",
+    "Description": "A library for parsing BER TLV data. For documentation, visit https://github.com/kspearrin/BerTlv.NET",
+    "ProjectUrl": "https://github.com/kspearrin/BerTlv.NET",
+    "LicenseUrl": null
+  },
+  {
+    "Title": "BouncyCastle.NET Cryptography (2.7.0)",
+    "Description": "BouncyCastle.NET is a popular cryptography library for .NET",
+    "ProjectUrl": "https://www.bouncycastle.org/stable/nuget/csharp/website",
+    "LicenseUrl": "https://licenses.nuget.org/MIT"
+  },
+  {
+    "Title": "CommunityToolkit.Maui (15.0.1)",
+    "Description": "The .NET MAUI Community Toolkit is a collection of Animations, Behaviors, Converters, and Custom Views for development with .NET MAUI. It simplifies and demonstrates common developer tasks building iOS, Android, macOS and Windows apps with .NET MAUI.",
+    "ProjectUrl": "https://github.com/CommunityToolkit/Maui",
+    "LicenseUrl": "https://licenses.nuget.org/MIT"
+  },
+  {
+    "Title": "CommunityToolkit.Maui.Core (15.0.1)",
+    "Description": "Core library for community toolkits using .NET MAUI",
+    "ProjectUrl": "https://github.com/CommunityToolkit/Maui",
+    "LicenseUrl": "https://licenses.nuget.org/MIT"
+  },
+  {
+    "Title": "CommunityToolkit.Maui.Markup (8.0.0)",
+    "Description": "CommunityToolkit.Maui.Markup is a set of fluent helper methods and classes to simplify building declarative .NET MAUI user interfaces in C#",
+    "ProjectUrl": "https://github.com/communitytoolkit/Maui.Markup",
+    "LicenseUrl": "https://licenses.nuget.org/MIT"
+  },
+  {
+    "Title": "LocalizationResourceManager.Maui (1.2.6)",
+    "Description": "Enhanced .NET MAUI version of the Xamarin Community Toolkit LocalizationResourceManager.",
+    "ProjectUrl": "https://github.com/SirJohnK/LocalizationResourceManager.Maui",
+    "LicenseUrl": null
+  },
+  {
+    "Title": "Polly.Core (8.7.0)",
+    "Description": "Polly.Core is a .NET resilience and transient-fault-handling library that allows developers to express resilience strategies such as Retry, Circuit Breaker, Hedging, Timeout, Chaos and Fallback in a fluent and thread-safe manner.",
+    "ProjectUrl": "https://github.com/App-vNext/Polly",
+    "LicenseUrl": "https://licenses.nuget.org/BSD-3-Clause"
+  },
+  {
+    "Title": "Sentry.Maui (6.10.0)",
+    "Description": "Official MAUI integration for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.",
+    "ProjectUrl": "https://sentry.io/",
+    "LicenseUrl": "https://licenses.nuget.org/MIT"
+  },
+  {
+    "Title": "TlvLib (1.0.0)",
+    "Description": "C# .NET library for reading and writing BER-TLV (Basic Encoding Rules, Tag Length Value) encoded data.",
+    "ProjectUrl": "https://github.com/cgreenza/TlvLib",
+    "LicenseUrl": null
+  },
+  {
+    "Title": "ZXing.Net (0.16.11)",
+    "Description": "ZXing.Net is a port of ZXing, an open-source, multi-format 1D/2D barcode image processing library originally implemented in Java.\r\n      It has been ported by hand with a lot of optimizations and improvements.\r\n\r\n      It is compatible with .Net 2.0/3.5/4.x/5.x/6.x/7.x/8.x/9.x, Windows RT Class Library and Components, UWP, .Net Standard 1.x and 2.0x, .Net Core App 3.x, Silverlight 4, Silverlight 5, Windows Phone 7.x and Windows Phone 8.x and Xamarin.Android",
+    "ProjectUrl": "https://github.com/micjahn/ZXing.Net/",
+    "LicenseUrl": "https://licenses.nuget.org/Apache-2.0"
+  }
+]

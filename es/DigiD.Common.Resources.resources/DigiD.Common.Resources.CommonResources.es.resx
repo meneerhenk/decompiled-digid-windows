@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="FM030_Body" xml:space="preserve"><value>Bo a pidi un DigiD kaba pero no a aktiv’é ainda. A manda un karta ku un kódigo di aktivashon pa bo adrès di kas. Ku esaki bo por aktivá bo DigiD.</value></data>
+  <data name="DG078_OtherDocument" xml:space="preserve"><value>Un otro prueba di identidat</value></data>
+  <data name="FM068_Body" xml:space="preserve"><value>Ora bo ta sigui, bo mester aktivá e app di nobo promé ku bo por log in kuné. Bo ta sigur ku bo ke aktivá e app di nobo?</value></data>
+  <data name="FM014_Melding" xml:space="preserve"><value>Bo a hasi petishon un ratu pasá di diferente kódigo di sms. Bo por hasi petishon di un kódigo di sms nobo despues di {0} sekònde. Esaki ta konsistí di 6 sifra. </value></data>
+  <data name="FM100_Body" xml:space="preserve"><value>Na e momentu aki ta hopi drùk serka DigiD. Tin demasiado hende ku ke log in pareu. Purba di nobo mas lat.</value></data>
+  <data name="DG084_Tip1_Text_Bottom" xml:space="preserve"><value>E skènmentu ta tuma lugá hasiendo uso di e lesadó di NFC. (Pues no e kámara). E lesadó di NFC ta bou di e parti patras di e telefòn. Tene bo pas kontra esei.</value></data>
+  <data name="x_WIDChangePINMessage" xml:space="preserve"><value>Awor bo ta bai kambia e number di pin di bo {0}. Pa esaki bo tin mester di bo number di pin aktual.</value></data>
+  <data name="FM105_Continue" xml:space="preserve"><value>Bo por sigui sin chekeo di ID.</value></data>
+  <data name="FM102_Body" xml:space="preserve"><value>Si bo aktivá e app di nobo, e kódigo di aktivashon den e karta ku a manda pa bo no ta bálido mas. E ora ei bo mester pidi un karta nobo òf aktivá e app di un otro manera. Bo ta sigur ku bo ke aktivá e app di nobo?</value></data>
+  <data name="DG080_Text_Part4" xml:space="preserve"><value>di bo telefòn,</value></data>
+  <data name="DG080_Text_Part5" xml:space="preserve"><value> purba ku diferente lugá.</value></data>
+  <data name="DG080_Text_Part1" xml:space="preserve"><value>Tene bo {0} kontra e</value></data>
+  <data name="DG080_Text_Part2" xml:space="preserve"><value> parti patras </value></data>
+  <data name="DG080_Text_Part3" xml:space="preserve"><value>di bo telefòn, na altura di </value></data>
+  <data name="FM101_Body" xml:space="preserve"><value>Den e settingnan di bo aparato bo a paga e echo ku e app di DigiD por usa e kámara. Bai na e settingnan i duna pèrmit pa por sigui.</value></data>
+  <data name="FM030_Titel" xml:space="preserve"><value>A pidi DigiD kaba awe</value></data>
+  <data name="FM055_Titel" xml:space="preserve"><value>Bo ta sigur?</value></data>
+  <data name="Alg_ResetPincodeInput" xml:space="preserve"><value>Bolbe skohe number di pin</value></data>
+  <data name="DG080_Text_iOS_Overlay_Start" xml:space="preserve"><value>Tene bo {0} kontra e parti patras di bo iPhone, na e parti ariba di e aparato.</value></data>
+  <data name="FM061_Body" xml:space="preserve"><value>Bo a yena un kódigo di konekshon robes. E kódigo di konekshon ta konsistí di kuater lèter. Purba di nobo.</value></data>
+  <data name="DG078_BottomSheet_ButtonText" xml:space="preserve"><value>Sigui sin chekeo di ID</value></data>
+  <data name="DG084_Tip1_Text_Middle" xml:space="preserve"><value>E skènmentu ta tuma lugá hasiendo uso di e lesadó di NFC. (Pues no e kámara). E lesadó di NFC ta meimei di e parti patras di e telefòn. Tene bo pas kontra esei.</value></data>
+  <data name="FM062_Body" xml:space="preserve"><value>Skèn e kódigo di QR riba e wèpsait unda bo ke log in.</value></data>
+  <data name="SupportView_OS" xml:space="preserve"><value>Sistema di operashon:</value></data>
+  <data name="x_WIDNotSupportedMessage" xml:space="preserve"><value>Bo {0} no ta adekuá pa log in serka DigiD.</value></data>
+  <data name="FM005_007_Body" xml:space="preserve"><value>Kontrolá bo konekshon di internet. Paga i sende bo konekshon por yuda. Òf kambia di wifi pa ret di selular òf visevèrsa.</value></data>
+  <data name="FM027_Titel" xml:space="preserve"><value>Kontrol di adrès no ta logra</value></data>
+  <data name="FM081_Titel" xml:space="preserve"><value>No ta un prueba di identidat adekuá</value></data>
+  <data name="Alg_On" xml:space="preserve"><value>Pa</value></data>
+  <data name="Alg_Ok" xml:space="preserve"><value>Oké</value></data>
+  <data name="Alg_Of" xml:space="preserve"><value>di</value></data>
+  <data name="Alg_No" xml:space="preserve"><value>Nò</value></data>
+  <data name="Alg_Language_NL" xml:space="preserve"><value>Nederlands (Hulandes)</value></data>
+  <data name="Alg_Language_EN" xml:space="preserve"><value>English (Ingles)</value></data>
+  <data name="Alg_KeyboardLandscapeRight" xml:space="preserve"><value>E teklado ta na e banda drechi di e pantaya aki.</value></data>
+  <data name="FM065_Body" xml:space="preserve"><value>Bai na e settingnan di bo aparato pa sende bo lesadó di NFC. Esaki ta nesesario pa por skèn bo prueba di identidat.</value></data>
+  <data name="FM065_Knop" xml:space="preserve"><value>Sende e NFC</value></data>
+  <data name="FM028_Titel" xml:space="preserve"><value>E petishon no ta posibel</value></data>
+  <data name="DG082_Text_Part4_Top" xml:space="preserve"><value>e parti ariba.</value></data>
+  <data name="FM066_Body" xml:space="preserve"><value>Ora bo a log in riba un wèpsait ku e app, bo log in ta sigui. Bo ke sigui?</value></data>
+  <data name="FM086_Titel" xml:space="preserve"><value>Number di pin kambiá </value></data>
+  <data name="NfcLocation_Top" xml:space="preserve"><value>Parti ariba</value></data>
+  <data name="AccessibilityShowNfcLocationAnimation" xml:space="preserve"><value>Animashon ku ta mustra kon por skèn ID òf pasport</value></data>
+  <data name="Alg_Percentage" xml:space="preserve"><value> {0}%</value></data>
+  <data name="FM063_Body" xml:space="preserve"><value>E kódigo di QR di skèn no ta bálido mas. Bo mester bolbe log in.</value></data>
+  <data name="FM096_Body" xml:space="preserve"><value>A inkluí e chekeo di ID den bo app di DigiD.</value></data>
+  <data name="FM064_Body" xml:space="preserve"><value>Bo a desaktivá e app aki via Mijn DigiD. Bo mester aktivá e app di nobo promé.</value></data>
+  <data name="FM034_Melding" xml:space="preserve"><value>Bo number di pin ta muchu fásil. Skohe un otro number di pin.</value></data>
+  <data name="FM062_Titel" xml:space="preserve"><value>No a rekonosé e kódigo di QR</value></data>
+  <data name="DG084_Title" xml:space="preserve"><value>Tep pa skènmentu</value></data>
+  <data name="FM102_Titel" xml:space="preserve"><value>Aktivá app di nobo</value></data>
+  <data name="Alg_ValidInput" xml:space="preserve"><value>Introdukshon bálido.</value></data>
+  <data name="x_WIDReActivationSuccessMessage" xml:space="preserve"><value>E desblòkiamentu di log in ku {0} a logra.</value></data>
+  <data name="DG080_Title_Again" xml:space="preserve"><value>Skèn bo {0} un biaha mas</value></data>
+  <data name="SupportView_NFCLocation" xml:space="preserve"><value>Posishon NFC:</value></data>
+  <data name="FM011_Message" xml:space="preserve"><value>Na e momentu aki, bo a aktivá e app di DigiD kaba riba {0} aparato. Bo no por aktivá un aparato mas. Sigun nos datonan, bo tin mas tantu tempu sin usa e app riba e siguiente aparato. Bo ke desaktivá e app di DigiD riba e aparato aki?</value></data>
+  <data name="SupportView_AppCode" xml:space="preserve"><value>Kódigo di app:</value></data>
+  <data name="DG079_ButtonText" xml:space="preserve"><value>Kuminsá skèn</value></data>
+  <data name="DG082_Text_Part4_Middle" xml:space="preserve"><value>e parti meimei.</value></data>
+  <data name="Alg_Previous" xml:space="preserve"><value>Anterior</value></data>
+  <data name="Alg_MinMaxValue" xml:space="preserve"><value>Minimalmente {0} i {1} {2}</value></data>
+  <data name="FM084_Melding_IDCard" xml:space="preserve"><value>Bo a yena un number di pin robes vários biaha. Awor bo mester yena e kódigo CAN di 6 sifra di bo karchi di identidat promé.</value></data>
+  <data name="FM095_Body" xml:space="preserve"><value>Bo a log in serka: {0}.</value></data>
+  <data name="x_NoNFCMessage" xml:space="preserve"><value>Bo aparato no ta adekuá pa usa NFC.</value></data>
+  <data name="Alg_A11y_Title" xml:space="preserve"><value>Aksesibilidat</value></data>
+  <data name="IDCard" xml:space="preserve"><value>Karchi di identidat</value></data>
+  <data name="DG080_WaitForRemoval_Title" xml:space="preserve"><value>Awor kita bo {0} for di bo aparato</value></data>
+  <data name="FM033_Titel" xml:space="preserve"><value>Bo tin un DigiD kaba</value></data>
+  <data name="x_ChangePinFailedMessage" xml:space="preserve"><value>Algu a bai robes. Bo number di pin no ta kambiá.</value></data>
+  <data name="Alg_HidingPassword" xml:space="preserve"><value>A bolbe skonde e kontraseña</value></data>
+  <data name="DG062_ContactTeletolk_Info" xml:space="preserve"><value>Bo por yama nos via Teletolk riba dianan di trabou di mitar di 9 di mainta pa 5 or di atardi. 
+Un intérprete grátis ta tradusí e kòmbersashon den lenga manual òf teksto. Solamente disponibel na hulandes.</value></data>
+  <data name="Alg_Skipped" xml:space="preserve"><value>Bo a salta esaki.</value></data>
+  <data name="AccessibilityRemove" xml:space="preserve"><value>Mester eliminá</value></data>
+  <data name="x_WIDRandomizeFailedMessage" xml:space="preserve"><value>E log in no a logra.</value></data>
+  <data name="FM002B_Body_iOS" xml:space="preserve"><value>Promé bo mester aktualisá e app di DigiD sigun e vershon di mas nobo. Bai riba e App Store i buska riba DigiD.</value></data>
+  <data name="FM005_Titel" xml:space="preserve"><value>No tin konekshon di internet</value></data>
+  <data name="x_WIDWrongCANMessage" xml:space="preserve"><value>E kódigo di 6 sifra introdusí ta inkorekto. Purba un biaha mas.</value></data>
+  <data name="FM029_Body" xml:space="preserve"><value>Bo a yena datonan robes muchu hopi biaha. Aki {0} minüt bo por purba atrobe.</value></data>
+  <data name="x_WIDRetractConfirmMessage" xml:space="preserve"><value>Awor bo ta bai anulá e funshon di log in {0} pa log in ku DigiD.</value></data>
+  <data name="FM011_LangstNietGebruikt" xml:space="preserve"><value>Ora bo aktivá e app riba e aparato aki, bo no por usa e app mas riba e siguiente aparato {0}</value></data>
+  <data name="Alg_LoginAbortedMessage" xml:space="preserve"><value>A para e proseso di log in pa motibunan tékniko.</value></data>
+  <data name="FM023_Titel" xml:space="preserve"><value>No ta posibel pa hasi petishon</value></data>
+  <data name="FM050_Titel" xml:space="preserve"><value>Kódigo robes</value></data>
+  <data name="FM028_Body" xml:space="preserve"><value>Sigun nos datonan bo ta biba pafó di Hulanda. Bo por pidi un DigiD solamente via e wèpsait.</value></data>
+  <data name="FM025_Body" xml:space="preserve"><value>Bo no por pidi un DigiD pa e persona aki. E persona aki ta registrá komo un hende ku a fayesé.</value></data>
+  <data name="FM024_Titel" xml:space="preserve"><value>DigiD ta blòkiá</value></data>
+  <data name="FM011_Deactiveren" xml:space="preserve"><value>Òf bai riba Mijn DigiD pa bo mes skohe riba kua aparato bo ke eliminá un app (desaktivá). Despues start aktivashon di e app aki di nobo.</value></data>
+  <data name="FM026_Body" xml:space="preserve"><value>E datonan personal yená no ta korekto. Kontrolá bo datonan.
+
+Bo ta biba na un otro adrès? E ora ei kambia bo adrès serka e munisipio promé. I despues pidi un DigiD.</value></data>
+  <data name="FM082_Titel" xml:space="preserve"><value>Funshon di log in di dokumento di identidat blòkiá</value></data>
+  <data name="DG079_Text2" xml:space="preserve"><value>• Tuma bo reibeweis.</value></data>
+  <data name="DG079_Text3" xml:space="preserve"><value>• Tuma bo {0} tambe.</value></data>
+  <data name="DG079_Text1" xml:space="preserve"><value>Bo telefòn ta bai skèn bo {0}.</value></data>
+  <data name="DG079_Text6" xml:space="preserve"><value>Lo no warda dato personal riba bo telefòn.</value></data>
+  <data name="DG079_Text4" xml:space="preserve"><value>• E pasport bo por laga será.</value></data>
+  <data name="DG079_Text5" xml:space="preserve"><value>• Saka e telefòn for di e estuche.</value></data>
+  <data name="x_ActivationCancelledMessage" xml:space="preserve"><value>E aktivashon ta anulá. Pa aktivá e app di DigiD di nobo, bo ta bai riba mijn.digid.nl.</value></data>
+  <data name="x_AuthenticationMessage" xml:space="preserve"><value>Introdusí number di pin pa log in.</value></data>
+  <data name="Statistics_Title" xml:space="preserve"><value>Statistiknan</value></data>
+  <data name="ContactView_Formulier_Body" xml:space="preserve"><value>Bo ta risibí un reakshon denter di 2 dia di trabou.</value></data>
+  <data name="FM024_Body" xml:space="preserve"><value>Bo no por pidi un DigiD. Tuma kontakto ku e helpdesk di DigiD.</value></data>
+  <data name="FM042_Melding2" xml:space="preserve"><value>Number di pin inkorekto. Purba di nobo. Bo por purba 1 biaha mas.</value></data>
+  <data name="FM099_Body" xml:space="preserve"><value>Si bo salta e chekeo di ID, bo mester warda maksimalmente {0} dia di trabou riba un karta pa aktivá bo app. Bo ke aktivá e app ku un karta?</value></data>
+  <data name="FM022_Body" xml:space="preserve"><value>E datonan ku a yena no ta meskos ku e adrès unda bo ta inskribí serka bo munisipio. Kontrolá bo datonan.
+
+Bo ta biba riba un otro adrès? E ora ei promé kambia bo adrès serka e munisipio. I despues pidi un DigiD.</value></data>
+  <data name="FM066_Titel" xml:space="preserve"><value>Log out for di e app</value></data>
+  <data name="DG080_Title" xml:space="preserve"><value>Awor skèn bo {0}</value></data>
+  <data name="x_LoginCancelConfirmHeader" xml:space="preserve"><value>Para log in</value></data>
+  <data name="FM027_Body" xml:space="preserve"><value>No ta posibel pa kontrolá bo adrès. Tuma kontakto ku bo munisipio pa kontrolá òf adaptá bo adrès.</value></data>
+  <data name="FM021_Melding" xml:space="preserve"><value>Esaki no ta un fecha di nasementu bálido. Yena bo fecha di nasementu bon.</value></data>
+  <data name="FM075_Titel" xml:space="preserve"><value>Kambia number di pin no ta posibel</value></data>
+  <data name="FM105_Title" xml:space="preserve"><value>Chekeo di ID no ta posibel</value></data>
+  <data name="AccessibilitySelected" xml:space="preserve"><value>Selektá</value></data>
+  <data name="x_WIDNewPINMessage" xml:space="preserve"><value>Skohe un number di pin nobo pa bo {0}.</value></data>
+  <data name="Alg_Spinner" xml:space="preserve"><value>Por fabor.</value></data>
+  <data name="FM043_Titel" xml:space="preserve"><value>Number di pin robes</value></data>
+  <data name="x_WIDNewPINHeader" xml:space="preserve"><value>Kambia number di pin {0}</value></data>
+  <data name="DG082_Text_Part4_Bottom" xml:space="preserve"><value>e parti abou.</value></data>
+  <data name="DG079_Title_RDA" xml:space="preserve"><value>Chekeo di ID {0}</value></data>
+  <data name="DG079_Title_PCA" xml:space="preserve"><value>Skèn {0}</value></data>
+  <data name="x_NewNotificationsHeader" xml:space="preserve"><value>Avisonan nobo.</value></data>
+  <data name="x_ReactivationNeededMessage" xml:space="preserve"><value>Dor di un eror tékniko bo mester aktivá e app di DigiD di nobo.</value></data>
+  <data name="DG084_Tip2_Header" xml:space="preserve"><value>Tep 2: Telefòn pafó di e estuche</value></data>
+  <data name="x_WIDWrongPIN_CANMessage" xml:space="preserve"><value>E kódigo {0} ta inkorekto. Bo tin {1} intento mas {2}.</value></data>
+  <data name="FM023_Body" xml:space="preserve"><value>Na e momentu aki bo no por pidi un DigiD. Purba di nobo mas lat.</value></data>
+  <data name="Statistics_Explanation" xml:space="preserve"><value>E app aki ta kompilá statistiknan tokante di uso di e app, por ehèmpel kon largu bo ta usa e app òf ki ora. Nos ta usa e datonan aki pa mehorá e app.
+
+E datonan aki no ta referí bèk na abo komo persona.</value></data>
+  <data name="Alg_LoginUnknownMessage" xml:space="preserve"><value>Bo no a log in ainda (Timeout).</value></data>
+  <data name="x_ActivationAnnulerenAlertMessage" xml:space="preserve"><value>Bo ta sigur ku bo ke para aktivashon di bo app di DigiD?</value></data>
+  <data name="FM059_Body" xml:space="preserve"><value>Si bo paga e proseso di log den 2 paso, bo datonan ta ménos bon protehá. Bo ta sigur ku bo ke paga esaki?</value></data>
+  <data name="FM057_Titel" xml:space="preserve"><value>E kódigo nobo ta mandá</value></data>
+  <data name="AccessibilityPassword" xml:space="preserve"><value>Kontraseña</value></data>
+  <data name="Dyslexia_Title" xml:space="preserve"><value>Tipo di lèter di dislessia</value></data>
+  <data name="FM058_Body" xml:space="preserve"><value>DigiD ta usa bo e-mail solamente ora a konfirmá esaki.</value></data>
+  <data name="DG083_Complete_Button" xml:space="preserve"><value>Sigui</value></data>
+  <data name="FM054_Titel" xml:space="preserve"><value>Bo ta sigur?</value></data>
+  <data name="FM025_Titel" xml:space="preserve"><value>Petishon persona ku a fayesé</value></data>
+  <data name="AccessibilityAnimationIsPausedState" xml:space="preserve"><value>Pousá</value></data>
+  <data name="x_ActivationAnnulerenAlertHeader" xml:space="preserve"><value>Para e aktivashon</value></data>
+  <data name="FM051_Button" xml:space="preserve"><value>Pidi un karta nobo</value></data>
+  <data name="Alg_ChooseFromList" xml:space="preserve"><value>Skohe for di e lista</value></data>
+  <data name="ContactView_Telefoon_Nummer" xml:space="preserve"><value>088 123 65 55</value></data>
+  <data name="Alg_Fingerprint" xml:space="preserve"><value>marka di dede</value></data>
+  <data name="SupportView_Version" xml:space="preserve"><value>Vershon di app:</value></data>
+  <data name="Alg_SecondsToConfirmStart" xml:space="preserve"><value>Falta {0} sekònde pa konfirmá</value></data>
+  <data name="Alg_UnknownErrorOccurred" xml:space="preserve"><value>A surgi un eror deskonosí. Bolbe purba despues.</value></data>
+  <data name="Passport" xml:space="preserve"><value>Pasport</value></data>
+  <data name="Alg_AccessibilityWebPageMenuItem" xml:space="preserve"><value>Aksesibilidat</value></data>
+  <data name="FM015_Melding" xml:space="preserve"><value>Kódigo di aktivashon robes. Usa e kódigo di e karta ku fecha {0} ku bo a risibí via pòst. E kódigo aki semper ta kuminsá ku un A.</value></data>
+  <data name="ContactView_Telefoon_Titel" xml:space="preserve"><value>Telefòn:</value></data>
+  <data name="FM105_Button" xml:space="preserve"><value>Sigui sin chekeo di ID</value></data>
+  <data name="FM057_Body" xml:space="preserve"><value>Por dura algun minüt promé ku bo risibí e e-mail.</value></data>
+  <data name="x_WIDResumePINSuccessMessage" xml:space="preserve"><value>Restorashon di bo number di pin tabata eksitoso.</value></data>
+  <data name="DG080_Button_Retry" xml:space="preserve"><value>Purba un biaha mas</value></data>
+  <data name="FM056_Body" xml:space="preserve"><value>Sin e-mail nos no por manda aviso pa bo, por ehèmpel den kaso di kambio den bo DigiD. Bo ta sigur ku bo no ke inkluí un e-mail na bo DigiD?</value></data>
+  <data name="Alg_Step" xml:space="preserve"><value>Paso </value></data>
+  <data name="Alg_Back" xml:space="preserve"><value>Bai bèk</value></data>
+  <data name="Alg_Face" xml:space="preserve"><value>kara</value></data>
+  <data name="Alg_Menu" xml:space="preserve"><value>Menú</value></data>
+  <data name="Alg_List" xml:space="preserve"><value>Lista</value></data>
+  <data name="Alg_Next" xml:space="preserve"><value>Siguiente</value></data>
+  <data name="FM044_Melding" xml:space="preserve"><value>Esaki no ta un e-mail bálido. Kontrolá bo datonan.</value></data>
+  <data name="Alg_Language" xml:space="preserve"><value>Idioma</value></data>
+  <data name="FM011_Subtitel" xml:space="preserve"><value>Desaktivá e app riba un otro aparato</value></data>
+  <data name="Alg_CheckConnection" xml:space="preserve"><value>Kontrolá bo konekshon ku internet</value></data>
+  <data name="Alg_SecurityNotification" xml:space="preserve"><value>Notifikashon di seguridat</value></data>
+  <data name="FM086_Body" xml:space="preserve"><value>E kambio di number di pin di bo {0} tabata eksitoso.</value></data>
+  <data name="FM050_Body" xml:space="preserve"><value>Bo a yena un kódigo robes muchu hopi biaha. No por konfirmá bo e-mail. Hasi esaki despues via Mijn DigiD.</value></data>
+  <data name="FM104_Titel" xml:space="preserve"><value>DigiD temporalmente no disponibel</value></data>
+  <data name="x_WIDCheckStatus" xml:space="preserve"><value>Kontrolá status di karchi.</value></data>
+  <data name="DG084_Tip4_Header" xml:space="preserve"><value>Tep 4: Paga e posishon di spar</value></data>
+  <data name="DG084_Tip1_Text_Top" xml:space="preserve"><value>E skènmentu ta tuma lugá hasiendo uso di e lesadó di NFC. (Pues no e kámara). E lesadó di NFC ta na e parti ariba di e parti patras di e telefòn. Tene bo pas kontra esei.</value></data>
+  <data name="ContactView_Telefoon_Body" xml:space="preserve"><value>Tarifa lokal, alkansabel riba dianan di trabou di 8 or di mainta pa 10 or di anochi. Riba djasabra
+di 9 or di mainta pa 5 or di atardi.</value></data>
+  <data name="FM002C_Titel" xml:space="preserve"><value>E app di DigiD temporalmente no ta disponibel</value></data>
+  <data name="x_RDAStartScanning" xml:space="preserve"><value>Tene e {0} kontra e parti patras di e {1}.</value></data>
+  <data name="x_RDAReStartScanning_iOS" xml:space="preserve"><value>Kontakto ku e {0} a kibra. Tene e meimei di e {0} kontra e parti ariba di e {1}.</value></data>
+  <data name="FontSize_Automatic" xml:space="preserve"><value>Outomátiko</value></data>
+  <data name="FM101_Titel" xml:space="preserve"><value>No tin pèrmit pa kámara</value></data>
+  <data name="FM085_Body" xml:space="preserve"><value>Bo a yena un number di pin robes muchu biaha. Lástimamente bo no por usa bo {0} mas pa log in.</value></data>
+  <data name="x_WIDFailedMessage" xml:space="preserve"><value>Log in ku bo {0} no a bai bon. Purba di nobo despues.</value></data>
+  <data name="Alg_Scanning" xml:space="preserve"><value>E skèn ta tumando lugá</value></data>
+  <data name="FM055_Body" xml:space="preserve"><value>Si bo pidi un karta nobo, bo no por usa e kódigo for di e karta anterior mas. Tampoko si bo risibí e karta aki ainda despues.</value></data>
+  <data name="FM047_Titel" xml:space="preserve"><value>Kódigo temporalmente no optenibel</value></data>
+  <data name="FM070_Titel" xml:space="preserve"><value>A inkluí e-mail</value></data>
+  <data name="FM082_Body" xml:space="preserve"><value>Bo no por log in mas ku e dokumento aki. Na e momentu aki no ta posibel pa desblòkiá e dokumento.</value></data>
+  <data name="FM054_Body" xml:space="preserve"><value>Si bo sigui bo mester aktivá e app di nobo. </value></data>
+  <data name="WIDActivationSuccessMessage" xml:space="preserve"><value>Bo {0} ta aktivá.</value></data>
+  <data name="Alg_Selected" xml:space="preserve"><value>, selektá</value></data>
+  <data name="DG080_Button_Escape" xml:space="preserve"><value>Tep pa e skènmentu</value></data>
+  <data name="x_SingleDeviceAccountBlocked" xml:space="preserve"><value>Temporalmente bo no por log in pasobra a introdusí un kontraseña robes muchu hopi biaha. Aki {0} minüt bo por log in atrobe.</value></data>
+  <data name="FM049_Melding" xml:space="preserve"><value>E kódigo aki no ta bálido mas. Yena e último kódigo ku bo a risibí.</value></data>
+  <data name="FM032_Intro" xml:space="preserve"><value>Bo a pidi un DigiD kaba. Warda e karta ku kódigo di aktivashon pa aktivá bo DigiD. A manda esaki pa bo adrès. Posiblemente e karta ainda ta na kaminda. Esaki ta dura maksimalmente {0} dia di trabou.</value></data>
+  <data name="FM032_Titel" xml:space="preserve"><value>A pidi DigiD kaba</value></data>
+  <data name="FM081_Body" xml:space="preserve"><value>E prueba di identidat no tin un funshon di log in. Usa e karchi di identidat (entregá for di promé di yanüari 2021) òf un reibeweis hulandes (entregá for di 26 di mei 2018).
+
+Bo por haña mas informashon riba www.digid.nl/identiteitsbewijs.</value></data>
+  <data name="Alg_KeyboardLandscapeLeft" xml:space="preserve"><value>E teklado ta na e banda robes di e pantaya aki.</value></data>
+  <data name="DG084_Tip1_Header" xml:space="preserve"><value>Tep 1: Lesadó di NFC</value></data>
+  <data name="FontSize_Normal" xml:space="preserve"><value>Normal</value></data>
+  <data name="FM011_MijnDigiDLink" xml:space="preserve"><value>Bai riba Mijn DigiD</value></data>
+  <data name="Alg_MaxValue" xml:space="preserve"><value>Maksimalmente {0} {1}</value></data>
+  <data name="FM009_Melding" xml:space="preserve"><value>Bo DigiD no ta aktivo. Tuma kontakto ku e helpdesk di DigiD.</value></data>
+  <data name="x_FM_LoginHelpDesk" xml:space="preserve"><value>No a logra log in. Tuma kontakto ku e helpdesk di DigiD.</value></data>
+  <data name="x_WIDChangePINHeader" xml:space="preserve"><value>Kambia number di pin {0}</value></data>
+  <data name="FM068_Titel" xml:space="preserve"><value>Aktivá app di nobo</value></data>
+  <data name="Alg_LoginCancelledMessage" xml:space="preserve"><value>Bo a para e proseso di log in.</value></data>
+  <data name="x_WrongPinMessageTriesLeft" xml:space="preserve"><value>E number di pin ta inkorekto. Bo tin {0} intento mas.</value></data>
+  <data name="Alg_ActivationDisabledMessage" xml:space="preserve"><value>Aktivashon di bo app di DigiD temporalmente no ta posibel.</value></data>
+  <data name="x_WIDReenterPINHeader" xml:space="preserve"><value>Konfirmá number di pin {0}</value></data>
+  <data name="SSLWarningMessage" xml:space="preserve"><value>A surgi un eror. Dor di esei no por konektá ku DigiD.</value></data>
+  <data name="x_WIDReactivateConfirmHeader" xml:space="preserve"><value>Desblòkia funshon di log in {0})</value></data>
+  <data name="x_WIDCancelledMessage" xml:space="preserve"><value>E log in ku e {0} ta kanselá.</value></data>
+  <data name="FM032_LinkAanvraag" xml:space="preserve"><value>Pidi DigiD di nobo</value></data>
+  <data name="x_ActivationConfirmPendingMessage" xml:space="preserve"><value>Bo a pidi un karta ku e kódigo di aktivashon. Bo por pidi solamente 1 karta pareu.&lt;br/&gt;&lt;br/&gt; Warda e karta pidí. Posiblemente esaki ta na kaminda ainda, esaki ta dura maksimalmente {0} dia di trabou.&lt;br/&gt; Tòg bo ke pidi un karta nobo ku kódigo di aktivashon? E ora ei selektá 'Pidi karta'. E kódigo di aktivashon for di e karta ku bo a pidi promé kaba, e ora ei bo no por &lt;b&gt; usa mas &lt;/b&gt;.</value></data>
+  <data name="x_WrongPinHeader" xml:space="preserve"><value>E number di pin ta inkorekto</value></data>
+  <data name="FM017_Body" xml:space="preserve"><value>Bo a yena un kódigo di sms robes muchu hopi biaha. Pidi ku karta di nobo ku un kódigo di aktivashon pa aktivá e app.</value></data>
+  <data name="Alg_ReleasePasswordImage" xml:space="preserve"><value>Bolbe skonde kontraseña</value></data>
+  <data name="x_LetterNotificationTitle" xml:space="preserve"><value>Bo a risibí e karta?</value></data>
+  <data name="Alg_CameraStarted" xml:space="preserve"><value>E kámara a start. Awor bo por skèn e Kódigo QR.</value></data>
+  <data name="FM039_Titel" xml:space="preserve"><value>Aktivashon no ta posibel</value></data>
+  <data name="DG078_Title" xml:space="preserve"><value>Kua prueba di identidat hulandes bo ta bai usa?</value></data>
+  <data name="Alg_PressPasswordImage" xml:space="preserve"><value>Mustra kontraseña</value></data>
+  <data name="FM002A_Body_Android" xml:space="preserve"><value>Den Google Play Store bo por adaptá e app aki.</value></data>
+  <data name="IDCheck_Cancelled_Message" xml:space="preserve"><value>Bo a anulá e chekeo di ID.</value></data>
+  <data name="Alg_ScanSucceeded" xml:space="preserve"><value>E skèn a bai bon</value></data>
+  <data name="FM018_Body" xml:space="preserve"><value>Bo kódigo di aktivashon no ta bálido mas. Bo mester bolbe pidi un karta ku kódigo di aktivashon pa aktivá e app. E kódigo di aktivashon ta bálido durante 21 dia.</value></data>
+  <data name="FM100_Titel" xml:space="preserve"><value>Lástimamente bo no por log in</value></data>
+  <data name="FM011_Intro" xml:space="preserve"><value>Bo a aktivá e app di DigiD kaba riba {0}. Esaki ta e máksimo.</value></data>
+  <data name="FM051_Subtitle" xml:space="preserve"><value>Pidi un karta nobo</value></data>
+  <data name="FM013_Body" xml:space="preserve"><value>Bo a yena un kódigo di sms robes muchu hopi biaha. Bo mester aktivá e app di nobo.</value></data>
+  <data name="FM011_Titel" xml:space="preserve"><value>Muchu hopi app aktivo</value></data>
+  <data name="eID" xml:space="preserve"><value>Prueba di identidat</value></data>
+  <data name="FM073_Titel" xml:space="preserve"><value>Idioma preferí</value></data>
+  <data name="FM078" xml:space="preserve"><value>Bo ta kla aki. Sigui den bo app di DigiD nobo pa kompletá e aktivashon.</value></data>
+  <data name="x_LoginSuccessMessage" xml:space="preserve"><value>Bo ta di log in.</value></data>
+  <data name="FM035_Melding" xml:space="preserve"><value>E numbernan di pin no ta meskos. Purba di nobo.</value></data>
+  <data name="FM107_Titel" xml:space="preserve"><value>Bo ta satisfecho ku e app di DigiD?</value></data>
+  <data name="AccessibilityAnimationIsPausedHint" xml:space="preserve"><value>Tep pa toka</value></data>
+  <data name="x_AuthenticationHeader" xml:space="preserve"><value>Introdusí number di pin</value></data>
+  <data name="FM074_Titel" xml:space="preserve"><value>Kódigo di kontrol nobo?</value></data>
+  <data name="FM099_Titel" xml:space="preserve"><value>Bo mester warda riba un karta</value></data>
+  <data name="FM018_Titel" xml:space="preserve"><value>E kódigo a kaduká</value></data>
+  <data name="DG083_Complete_Text" xml:space="preserve"><value>E ID check a logra i ta bálido pa un aña.
+Awor bo por kontinuá.</value></data>
+  <data name="FM105_CannotContinue" xml:space="preserve"><value>Bo no por sigui ku e chekeo di ID. Tuma kontakto ku e organisashon unda bo ta purba log in. Nan por ofresé bo un otro manera pa regla bo asuntunan.</value></data>
+  <data name="DG078_BottomSheet_Message" xml:space="preserve"><value>Si bo no tin un prueba di identidat hulandes, na e momentu aki bo no por hasi uso di e chekeo di ID.
+
+Ehèmpelnan di dokumentonan ku no ta sostené:
+• Prueba di identidat di eksterior
+• Prueba di estadia
+• Prueba di identidat di estranhero
+
+Si no ta sostené bo dokumento, bo por sigui sin chekeo di ID.</value></data>
+  <data name="Alg_Executed" xml:space="preserve"><value>Ehekutá</value></data>
+  <data name="Alg_Cancel" xml:space="preserve"><value>Anulá</value></data>
+  <data name="DG084_Tip3_Header" xml:space="preserve"><value>Tep 3: Tene den bo man</value></data>
+  <data name="Alg_Choose" xml:space="preserve"><value>Skohe </value></data>
+  <data name="DG083_CompleteHeader" xml:space="preserve"><value>Bo ta kla</value></data>
+  <data name="FM063_Titel" xml:space="preserve"><value>E kódigo di QR no ta bálido mas</value></data>
+  <data name="FM069_Titel" xml:space="preserve"><value>Chekeo di ID no a bai bon </value></data>
+  <data name="FM101_ButtonClose" xml:space="preserve"><value>Sera</value></data>
+  <data name="FM011_Knop" xml:space="preserve"><value>Oké</value></data>
+  <data name="FM010_Body" xml:space="preserve"><value>Bo no por aktivá e app pa e persona aki. E persona aki ta registrá komo un hende ku a fayesé.</value></data>
+  <data name="FM056_Titel" xml:space="preserve"><value>Bo ta sigur?</value></data>
+  <data name="FM012_Melding" xml:space="preserve"><value>Kódigo di sms robes. Purba di nobo. E kódigo di sms ta konsistí di 6 sifra.</value></data>
+  <data name="Dyslexia_Explanation" xml:space="preserve"><value>E tipo di lèter di disleksia ta desaryoá espesialmenente pa hende ku disleksia por lesa mas fácilmente.</value></data>
+  <data name="FontSize_Largest" xml:space="preserve"><value>Di mas grandi</value></data>
+  <data name="x_UpgradeAccountWithIDCheckerSuccessHeader" xml:space="preserve"><value>Chekeo di ID a bai bon</value></data>
+  <data name="Alg_PercentageRead" xml:space="preserve"><value>{0} porshento</value></data>
+  <data name="AccessibilityAnimationIsPlayingState" xml:space="preserve"><value>Tokando</value></data>
+  <data name="Alg_Failed" xml:space="preserve"><value>A bai malu</value></data>
+  <data name="FontSize_Large" xml:space="preserve"><value>Mas grandi</value></data>
+  <data name="FM026_Titel" xml:space="preserve"><value>Datonan personal no ta korekto</value></data>
+  <data name="Alg_Error" xml:space="preserve"><value>Robes</value></data>
+  <data name="x_SingleDeviceNoBSNOnAccount" xml:space="preserve"><value>Aktivashon di e app di DigiD no ta posibel ku un kuenta sin bsn.</value></data>
+  <data name="Alg_Email" xml:space="preserve"><value>Kódigo di e-mail</value></data>
+  <data name="Alg_Close" xml:space="preserve"><value>Sera</value></data>
+  <data name="x_WIDRetractSuccessMessage" xml:space="preserve"><value>E funshon di log in di bo {0} ta anulá. Bo no por log in mas ku bo {0}.</value></data>
+  <data name="FontSize_Title" xml:space="preserve"><value>Tamaño di lèter</value></data>
+  <data name="FontSize_Small" xml:space="preserve"><value>Chikitu</value></data>
+  <data name="DG084_Tip1_Text_Unknown" xml:space="preserve"><value>E skènmentu ta tuma lugá hasiendo uso di e lesadó di NFC. (Pues no e kámara). E lesadó di NFC por ta na e parti ariba, meimei, òf abou di e parti patras di e telefòn. Tene bo pas kontra esei.</value></data>
+  <data name="x_FM_RequestAccount_HelpDesk" xml:space="preserve"><value>Bo no por pidi un DigiD. Tuma kontakto ku e helpdesk di DigiD.</value></data>
+  <data name="Alg_Letter" xml:space="preserve"><value>Kódigo di karta</value></data>
+  <data name="Alg_CloseToast" xml:space="preserve"><value>Sera e notifikashon aki</value></data>
+  <data name="x_WIDExistingPINHeader" xml:space="preserve"><value>Introdusí Number di pin {0}</value></data>
+  <data name="Alg_SMS" xml:space="preserve"><value>Kódigo di SMS</value></data>
+  <data name="Alg_Yes" xml:space="preserve"><value>Sí</value></data>
+  <data name="Alg_Off" xml:space="preserve"><value>For di</value></data>
+  <data name="WIDSuspendedMessage" xml:space="preserve"><value>A desaktivá e number di pin di bo {0} temporalmente.</value></data>
+  <data name="Alg_Numbers" xml:space="preserve"><value>sifranan</value></data>
+  <data name="FM059_Titel" xml:space="preserve"><value>Paga log in den 2 paso</value></data>
+  <data name="DarkMode_Title" xml:space="preserve"><value>Dark mode</value></data>
+  <data name="FM002B_Knop" xml:space="preserve"><value>Aktualisá</value></data>
+  <data name="FM046_Body" xml:space="preserve"><value>Bo e-mail ta konfirmá. Bo por sigui awor.</value></data>
+  <data name="FM002A_Knop1" xml:space="preserve"><value>Mi ta aktualisá e app despues</value></data>
+  <data name="FM002A_Knop2" xml:space="preserve"><value>Aktualisá</value></data>
+  <data name="Alg_FaqAnswerHidden" xml:space="preserve"><value>No ta mustra e kontesta</value></data>
+  <data name="NfcLocation_Unknown" xml:space="preserve"><value>Deskonosí</value></data>
+  <data name="Alg_Continue" xml:space="preserve"><value>Kontinuá</value></data>
+  <data name="FM006_Melding" xml:space="preserve"><value>Bo nòmber di usuario òf bo kontraseña no ta klòp. Kontrolá si bo a yena e datonan korekto.</value></data>
+  <data name="FM002A_Titel" xml:space="preserve"><value>Un vershon nobo di e app di DigiD ta optenibel</value></data>
+  <data name="FM043_Body" xml:space="preserve"><value>Bo a yena un number di pin robes muchu hopi biaha. Bo mester aktivá e app di nobo.</value></data>
+  <data name="FM077_Titel" xml:space="preserve"><value>Bo a warda muchu largu</value></data>
+  <data name="FM017_Titel" xml:space="preserve"><value>Kódigo robes muchu hopi biaha</value></data>
+  <data name="AccessibilityPincodeIntro" xml:space="preserve"><value>Number di pin di teklado</value></data>
+  <data name="Alg_FaqAnswerShown" xml:space="preserve"><value>Lo mustra e kontesta</value></data>
+  <data name="x_PluralSuffix" xml:space="preserve"><value>i</value></data>
+  <data name="DG082_Text_Part5" xml:space="preserve"><value>di bo aparato, na altura di </value></data>
+  <data name="DG082_Text_Part2" xml:space="preserve"><value> parti patras </value></data>
+  <data name="DG082_Text_Part1" xml:space="preserve"><value>Purba di nobo. Tene bo {0} kontra e</value></data>
+  <data name="FM073_EN" xml:space="preserve"><value>Ingles</value></data>
+  <data name="FM073_NL" xml:space="preserve"><value>Hulandes</value></data>
+  <data name="Alg_KeyboardPortrait" xml:space="preserve"><value>E teklado ta abou riba e pantaya aki.</value></data>
+  <data name="FM045_Body" xml:space="preserve"><value>Ya tin 5 kuenta di DigiD ku ta hasi uso di bo e-mail. Bo no por bolbe usa e e-mail aki. Yena un otro e-mail òf despues inkluí un otro e-mail via Mijn DigiD.</value></data>
+  <data name="x_ActivationConfirmPendingHeader" xml:space="preserve"><value>Karta pidí kaba</value></data>
+  <data name="x_PincodeMatchErrorMessage" xml:space="preserve"><value>E numbernan di pin no ta meskos.</value></data>
+  <data name="Alg_A11yLinkMoreInfo" xml:space="preserve"><value>Mas tokante aksesibilidat</value></data>
+  <data name="x_FirstLetterNotificationMessage" xml:space="preserve"><value>Bo a risibí e karta? No lubidá di kompletá bo aktivashon.</value></data>
+  <data name="x_RDAStartScanning_iOS" xml:space="preserve"><value>Tene e parti meimei di e {0} kontra a parti dilanti di e {1}.</value></data>
+  <data name="Alg_External" xml:space="preserve"><value>Ta habri wèpsait eksterno</value></data>
+  <data name="FM002C_Body" xml:space="preserve"><value>Temporalmente e app no ta optenibel. Purba start e app di nobo despues.</value></data>
+  <data name="FM047_Body" xml:space="preserve"><value>Awe ya bo a risibí muchu e-mail ku un kódigo di DigiD. Kontrolá bo e-mail indeseá si bo no a risibí nada. Mañan bo por purba konfirmá bo e-mail di nobo via Mijn DigiD.</value></data>
+  <data name="x_AuthenticationAbortedMessage" xml:space="preserve"><value>Bo akshon ta kanselá.</value></data>
+  <data name="DG062_ContactTeletolk_Titel" xml:space="preserve"><value>Kontakto pa hende surdu i problema ku oido</value></data>
+  <data name="DG081_Title" xml:space="preserve"><value>Tene bo {0} ketu</value></data>
+  <data name="x_AppChangePinReenterMessage" xml:space="preserve"><value>Ripití e number di pin nobo.</value></data>
+  <data name="Alg_Language_PAP" xml:space="preserve"><value>Papiamentu</value></data>
+  <data name="x_WIDActivationFailedMessage" xml:space="preserve"><value>Aktivashon di e funshon di log in di bo {0} no a bai bon. Purba di nobo despues.</value></data>
+  <data name="FM079_Body" xml:space="preserve"><value>Bo no por aktivá e app di DigiD di e manera aki.
+
+Bo a konfigurá den bo DigiD ku semper bo ke log in den un mínimo di 2 paso. P’esei bo mester aktivá e app di DigiD ku un chekeo di ID òf ku un otro app di DigiD.</value></data>
+  <data name="x_ActivationConfirmPendingCancel" xml:space="preserve"><value>Pidi un karta</value></data>
+  <data name="x_ActivationConfirmPendingMessageButton" xml:space="preserve"><value>Warda</value></data>
+  <data name="Alg_ShowingPassword" xml:space="preserve"><value>Ta mustra e kontraseña</value></data>
+  <data name="x_WIDPUKBlockedMessage" xml:space="preserve"><value>E karchi aki ta blòkiá permanentemente. Bo no por usa esaki mas pa log in.</value></data>
+  <data name="FM032_InfoAanvraag" xml:space="preserve"><value>Tòg bo ke pidi un DigiD nobo? Klek e ora ei riba “Pidi un DigiD di nobo”. E kódigo di aktivashon for di e karta ku bo a pidi promé kaba, bo no por usa mas e ora ei.</value></data>
+  <data name="SupportView_Title" xml:space="preserve"><value>Sosten</value></data>
+  <data name="Alg_ConfirmCancelled" xml:space="preserve"><value>Bo no a konfirmá e kambio.</value></data>
+  <data name="SupportView_Model" xml:space="preserve"><value>Modèl</value></data>
+  <data name="FM002B_Body_Android" xml:space="preserve"><value>Promé bo mester aktualisá e app di DigiD sigun e vershon di mas nobo. Bai riba Google Play Store i buska riba DigiD.</value></data>
+  <data name="AccessibilityAnimationIsPlayingHint" xml:space="preserve"><value>Tep pa pousa</value></data>
+  <data name="Alg_TryAgain" xml:space="preserve"><value>Bolbe purba</value></data>
+  <data name="Alg_PageOfNumberOfPages" xml:space="preserve"><value>Página {0} di {1}</value></data>
+  <data name="FM022_Titel" xml:space="preserve"><value>Datonan robes</value></data>
+  <data name="x_LoginAndUpgradeHeader" xml:space="preserve"><value>Log in i chekeo di ID</value></data>
+  <data name="DrivingLicense" xml:space="preserve"><value>Reibeweis</value></data>
+  <data name="Alg_ChoosePincode" xml:space="preserve"><value>Skohe number di pin personal</value></data>
+  <data name="Alg_A11y_MoreInfo_Link" xml:space="preserve"><value>https://www.digid.nl/pap/tokante-digid/aksesibilidat-di-digid</value></data>
+  <data name="x_ActivationFailedMessage" xml:space="preserve"><value>A surgi un eror. Kuminsá di nobo ku aktivashon di e app di DigiD.</value></data>
+  <data name="x_RDAReStartScanning" xml:space="preserve"><value>Kontakto ku e {0} a kibra. Tene e {0} kontra e parti patras di e {1}.</value></data>
+  <data name="NfcLocation_Middle" xml:space="preserve"><value>Meimei</value></data>
+  <data name="FM073_Body" xml:space="preserve"><value>Bo por pone bo idioma preferí pa e-mail, mensahe di teksto (papiá) i kartanan ku bo ta risibí di DigiD.
+
+Kiko ta bo idioma preferí pa komunikashon tokante bo DigiD?</value></data>
+  <data name="x_WIDActivationNeededMessage" xml:space="preserve"><value>Aktivá ‘log in ku prueba di identidat’ den Mijn DigiD.</value></data>
+  <data name="DG081_Text" xml:space="preserve"><value>E telefòn a konektá ku bo {0}. Warda te ora e balki ta yen.</value></data>
+  <data name="FM101_ButtonSettings" xml:space="preserve"><value>Bai settingnan</value></data>
+  <data name="SupportView_Name" xml:space="preserve"><value>Nòmber di aparato:</value></data>
+  <data name="Alg_AlternateTextExplainIDBewijs" xml:space="preserve"><value>E chekeo di ID bo ta ehekutá ku un di e siguiente pruebanan di identidat: Reibeweis, Pasport, Karnèt di Identidat</value></data>
+  <data name="FontSize_Explanation" xml:space="preserve"><value>Serka 'outomátiko' e app ta sigui e setting di tamaño di lèter di bo aparato.</value></data>
+  <data name="x_WIDWrongPINMessage" xml:space="preserve"><value>Number di pin robes. Purba di nobo. Bo tin {0} intento {1} mas. Paga tinu! No ta trata aki di e number di pin di e app di DigiD, sino e number di pin di bo {2}.</value></data>
+  <data name="FM072_Body" xml:space="preserve"><value>A añadí e chekeo di ID ku éksito na bo app di DigiD.</value></data>
+  <data name="DG078_Text_Part3" xml:space="preserve"><value>ku bo ke usa pa e chekeo di identidat for di e lista akibou.</value></data>
+  <data name="DG078_Text_Part2" xml:space="preserve"><value> Prueba di identidat hulandes </value></data>
+  <data name="DG078_Text_Part1" xml:space="preserve"><value>Skohe e tipo</value></data>
+  <data name="FM007_Title" xml:space="preserve"><value>No tin konekshon òf e konekshon di internèt ta slo </value></data>
+  <data name="x_LoginCancelConfirmMessage" xml:space="preserve"><value>Bo ta sigur ku bo ke para e log in?</value></data>
+  <data name="FM038_Titel" xml:space="preserve"><value>Temporalmente no ta posibel pa skèn</value></data>
+  <data name="FM071_Body" xml:space="preserve"><value>Kambio di bo number di pin eksitoso.</value></data>
+  <data name="DG080_Text_iOS_Overlay_Disconnected" xml:space="preserve"><value>Pèrdida di kontakto ku {0}, kuminsá di nobo.</value></data>
+  <data name="DG078_BottomSheet_MessageWithoutEscape" xml:space="preserve"><value>Si bo no tin un prueba di identidat hulandes, na e momentu aki bo no por hasi uso di e chekeo di ID.
+
+Ehèmpelnan di dokumentonan ku no ta sostené:
+• Prueba di identidat di eksterior
+• Prueba di estadia
+• Prueba di identidat di estranhero</value></data>
+  <data name="FM070_Body" xml:space="preserve"><value>A inkluí bo e-mail ku éksito na bo kuenta di DigiD.</value></data>
+  <data name="Alg_InputLengthFromMaxLength" xml:space="preserve"><value> a introdusí {0} {1} di {2}</value></data>
+  <data name="ContactView_ContactFormUrl" xml:space="preserve"><value>https://www.digid.nl/contactformulier/</value></data>
+  <data name="FM077_Body" xml:space="preserve"><value>Bo a warda muchu largu pa konfirmá. Pa motibunan di seguridat a para e kambio. Purba di nobo.</value></data>
+  <data name="FM002A_Body_iOS" xml:space="preserve"><value>Den Apple App Store bo por aktualisá e app aki.</value></data>
+  <data name="x_WIDReenterPINMessage" xml:space="preserve"><value>Ripití e number di pin nobo pa bo {0}.</value></data>
+  <data name="FM013_Titel" xml:space="preserve"><value>Kódigo di sms robes</value></data>
+  <data name="FM076_Body" xml:space="preserve"><value>Aktivá bo app. Despues bo por log in kuné.</value></data>
+  <data name="FM076_Knop" xml:space="preserve"><value>Aktivá awor</value></data>
+  <data name="FM084_Melding_DriversLicense" xml:space="preserve"><value>Bo a yena un number di pin robes vários biaha. Awor bo mester yena bo number di reibeweis promé.</value></data>
+  <data name="AccessibilityOf" xml:space="preserve"><value>di</value></data>
+  <data name="x_SecondLetterNotificationMessage" xml:space="preserve"><value>No lubidá di kompletá bo aktivashon ku e kódigo for di e karta risibí.</value></data>
+  <data name="DarkMode_Automatic" xml:space="preserve"><value>Outomátiko</value></data>
+  <data name="FM010_Titel" xml:space="preserve"><value>E persona a fayesé</value></data>
+  <data name="FM075_Body" xml:space="preserve"><value>Ya bo a kambia bo number di pin {0} biaha awe. Bo por purba di nobo mañan.</value></data>
+  <data name="FM045_Titel" xml:space="preserve"><value>E-mail ta den uso kaba</value></data>
+  <data name="FM072_Titel" xml:space="preserve"><value>Chekeo di ID a bai bon</value></data>
+  <data name="FM084_Titel" xml:space="preserve"><value>Blòkiá temporalmente</value></data>
+  <data name="FM020_Melding" xml:space="preserve"><value>Esaki no ta un number di servisio pa siudadano (BSN) bálido.Yena bo BSN korektamente. Por haña e BSN riba bo prueba di identidat hulandes, slep di salario i tin biaha riba bo karchi di kuido. Riba algun prueba di identidat tambe ta yama e BSN un number personal.</value></data>
+  <data name="x_WIDLoginFailedMessage" xml:space="preserve"><value>A surgi un eror deskonosí. Bolbe purba despues.</value></data>
+  <data name="FM074_Body" xml:space="preserve"><value>E kódigo di kontrol pa konfirmá bo e-mail tin un durashon limitá. Bo ke risibí un kódigo nobo?</value></data>
+  <data name="x_WIDReactivateConfirmMessage" xml:space="preserve"><value>Awor bo ta bai desblòkia e funshon di log in {0}.</value></data>
+  <data name="DarkMode_Explanation" xml:space="preserve"><value>Serka 'outomátiko' e app ta siqui e setting di dark mode di bo aparato.</value></data>
+  <data name="x_WIDExistingPINMessage" xml:space="preserve"><value>Introdusí e number di pin di bo {0}.</value></data>
+  <data name="AccessibilityQRCodeDescription" xml:space="preserve"><value>Kódigo QR pa konektá app di DigiD</value></data>
+  <data name="FM061_Titel" xml:space="preserve"><value>Kódigo di konekshon robes</value></data>
+  <data name="Alg_TabPage" xml:space="preserve"><value>Tab {0} di {1}</value></data>
+  <data name="FM064_Titel" xml:space="preserve"><value>App desaktivá</value></data>
+  <data name="DG082_Title" xml:space="preserve"><value>Kontakto a kibra</value></data>
+  <data name="NfcLocation_Bottom" xml:space="preserve"><value>Parti abou</value></data>
+  <data name="DG078_BottomSheet_Title" xml:space="preserve"><value>No tin prueba di identidat adekuá</value></data>
+  <data name="FM032_Subtitel" xml:space="preserve"><value>Pidi di nobo</value></data>
+  <data name="FM003_Body" xml:space="preserve"><value>Bo a warda muchu largu pa log in na {0}. A para e proseso di log in pa motibunan di seguridat. Purba log in di nobo.</value></data>
+  <data name="x_UpgradeRDACancelMessage" xml:space="preserve"><value>Bo ta sigur ku bo ke anulá e chekeo di ID?</value></data>
+  <data name="x_AppChangePinHeader" xml:space="preserve"><value>Kambia number di pin</value></data>
+  <data name="FM079_Titel" xml:space="preserve"><value>Aktivashon no a bai bon</value></data>
+  <data name="Alg_AccessibilityMenuItemLinkText" xml:space="preserve"><value>Ta habri wèpsait eksterno</value></data>
+  <data name="ContactView_Formulier_Titel" xml:space="preserve"><value>Formulario di kontakto</value></data>
+  <data name="Alg_RequiredInputField" xml:space="preserve"><value>Fèlt di introdukshon obligatorio</value></data>
+  <data name="DG084_Tip2_Text" xml:space="preserve"><value>Saka bo telefòn for di e estuche. Asina e lesadó di NFC por hasi kontakto mas mihó.</value></data>
+  <data name="x_SessionTimeoutMessage" xml:space="preserve"><value>E seshon di DigiD a pasa, i bo mester start un seshon nobo.</value></data>
+  <data name="DG084_Tip3_Text" xml:space="preserve"><value>Un opheto di metal (manera un mesa) por stroba e señal. Tene e prueba di identidat i bo telefòn den bo man.</value></data>
+  <data name="x_LetterNotificationHeader" xml:space="preserve"><value>DigiD</value></data>
+  <data name="DG080_WaitForRemoval_Message" xml:space="preserve"><value>E skènmentu a bai bon</value></data>
+  <data name="DG084_Button2_Text" xml:space="preserve"><value>Purba di nobo</value></data>
+  <data name="Alg_InputCorrect" xml:space="preserve"><value>A introdusí {0}, {1} korektamente</value></data>
+  <data name="Alg_SecondsToConfirmUpdate" xml:space="preserve"><value>{0} sekònde mas</value></data>
+  <data name="FM003_Titel" xml:space="preserve"><value>Bo a warda muchu largu</value></data>
+  <data name="FM051_Text1" xml:space="preserve"><value>Bo a pidi un karta ku un kódigo di aktivashon riba un otro aparato. E karta aki por ta den tránsito ainda (máksimo {0} dia di trabou). E kódigo di aktivashon for di e karta aki por wòrdu usá solamente riba e otro aparato.</value></data>
+  <data name="FM051_Text2" xml:space="preserve"><value>Si bo ke pidi un kódigo di aktivashon pa e aparato ku bo ta usa awor, klek riba ‘Pidi karta nobo’ e ora ei. E ora ei bo no por usa e kódigo di aktivashon for di e karta ku bo a pidi anteriormente mas.</value></data>
+  <data name="FM051_Titel" xml:space="preserve"><value>Tin un karta na kaminda kaba</value></data>
+  <data name="x_NewNotificationsMessage" xml:space="preserve"><value>Tin avisonan nobo        Bo ke buska nan awor i wak nan?</value></data>
+  <data name="DG084_Button1_Text" xml:space="preserve"><value>Skèn despues</value></data>
+  <data name="FM039_Body" xml:space="preserve"><value>Sigun nos datonan bo ta biba pafó di Hulanda. Nos tin mester di un adrès hulandes aktual pa manda e karta p’e.
+
+Bo por aktivá e app sí ku un chekeo di ID òf dor di log in ku un app di DigiD aktivo kaba.</value></data>
+  <data name="x_BrowserUnsupportedMessage" xml:space="preserve"><value>E App di DigiD ta sostené solamente Safari, Chrome, Firefox en Microsoft Edge komo browser mobil.</value></data>
+  <data name="FM048_Melding" xml:space="preserve"><value>Kódigo robes. Purba di nobo. Ainda bo por purba {0} biaha.</value></data>
+  <data name="FM038_Body" xml:space="preserve"><value>Na e momentu aki nos no por skèn bo prueba di identidat. Purba di nobo despues òf aktivá e app di un otro manera.</value></data>
+  <data name="FM105_Message" xml:space="preserve"><value>Bo tin un pasport hulandes òf un karchi di identidat entregá pa un embahada, konsulado, munisipio di frontera òf e bali na Schiphol? E ora ei bo por hasi e chekeo di ID solamente ku:
+• Un pasport entregá promé ku 30 di ougùstùs 2021 
+• Un karchi di identidat entregá promé ku promé di ougùstùs 2021.</value></data>
+  <data name="FM037_Body" xml:space="preserve"><value>E luna aki bo a aktivá un app muchu hopi biaha. Entrante {0} bo por purba di nobo.</value></data>
+  <data name="FM058_Titel" xml:space="preserve"><value>Bo ta sigur?</value></data>
+  <data name="FM085_Titel" xml:space="preserve"><value>Number di pin robes</value></data>
+  <data name="x_ReadDocument" xml:space="preserve"><value>Hasiendo e skèn di {0}</value></data>
+  <data name="Alg_Characters" xml:space="preserve"><value>karakternan</value></data>
+  <data name="DG084_Tip4_Text" xml:space="preserve"><value>Tin biaha, e lesadó di NFC no ta traha ora bo telefòn ta den e ‘posishon di spar bateria’. Paga e posishon di spar i start e app di DigiD di nobo.</value></data>
+  <data name="Alg_VerificationCode" xml:space="preserve"><value>Kódigo di konekshon</value></data>
+  <data name="FM002B_Titel" xml:space="preserve"><value>Un vershon nobo di e app di DigiD ta nesesario</value></data>
+  <data name="FM076_Titel" xml:space="preserve"><value>App no ta aktivá ainda</value></data>
+  <data name="x_UpgradeAccountWithNFCFailedMessage" xml:space="preserve"><value>No a logra ehekutá e chekeo di ID ku e prueba di identidat aki.</value></data>
+  <data name="FM033_Body" xml:space="preserve"><value>Si bo sigui, bo no por usa bo DigiD bieu mas. Bo ta sigur ku bo ke pidi un DigiD nobo?</value></data>
+  <data name="FM046_Titel" xml:space="preserve"><value>E-mail konfirmá</value></data>
+  <data name="ContactView_Titel" xml:space="preserve"><value>Kontakto</value></data>
+  <data name="FM104_Body" xml:space="preserve"><value>Pa motibu di mantenshon e app di DigiD temporalmente no ta disponibel. Purba di nobo despues.</value></data>
+  <data name="FM065_Titel" xml:space="preserve"><value>E NFC ta pagá</value></data>
+  <data name="FM032_Knop" xml:space="preserve"><value>Warda</value></data>
+  <data name="Alg_CloseButton" xml:space="preserve"><value>Anulá e akshon aktual</value></data>
+  <data name="Alg_NrOfItemsInList" xml:space="preserve"><value>{0} item</value></data>
+  <data name="FM031_Body" xml:space="preserve"><value>Bo a pidi un DigiD {0} biaha kaba den e luna ku ta tras di lomba. Purba di nobo despues.</value></data>
+  <data name="x_RDADisabledMessage" xml:space="preserve"><value>Den e app di DigiD temporalmente bo no por skèn prueba di identidat.</value></data>
+  <data name="x_UpgradeRDACancelHeader" xml:space="preserve"><value>Anulá chekeo di ID?</value></data>
+  <data name="x_AccountNotYetActivated" xml:space="preserve"><value>No a aktivá bo DigiD ainda. Si bo a risibí e karta ku e kódigo di aktivashon, bo por aktivá bo kuenta riba &lt;a href='https://mijn.digid.nl'&gt;mijn.digid.nl&lt;/a&gt;. Despues bo por aktivá e app.</value></data>
+  <data name="FM107_ButtonYes" xml:space="preserve"><value>Laga nos sa</value></data>
+  </root>

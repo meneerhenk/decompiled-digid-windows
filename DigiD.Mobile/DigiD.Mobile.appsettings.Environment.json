@@ -1,0 +1,14 @@
+{
+  "RatingLimit": 5,
+  "Matomo": {
+    "SiteId": 18,
+    "SiteIdDemoMode": 41,
+    "BaseUrl": "GhrCvxjtIdil51770+Y5hK8F8Vf2j7gMu2OGQxGquGgZQManGw=="
+  },
+  "Hosts": [
+    "digid.nl"
+  ],
+  "SSLPinning": {
+    "PinningKey": "MIGbMBAGByqGSM49AgEGBSuBBAAjA4GGAAQAmO+e5+JxNmkHtxiUWap8q1LpU4BeTp38ASF/qbAp9czRCHQ+OnI3BuKQnwpMeFCqfGHMSQDAcHzxujrfXNx4/6gB6/c31egThD0HRtvGWPlOOuBchy+6pTb3sb68XI9oAsE6jlmwloaPJKqXOhavWysAOwQQwsXVTfh80K4RKh6CQgw="
+  }
+}

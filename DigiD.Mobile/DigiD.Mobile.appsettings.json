@@ -1,0 +1,13 @@
+{
+  "SyncFusionLicense": "Ngo9BigBOggjGyl/Vkd+XU9FcVRDX3xKf0x/TGpQb19xflBPallYVBYiSV9jS3tTf0VrWX1ccHBdRWVcVk91Vg==", //31.x.x
+  "HostKey": "cm62z2vXDvfWkz+PupVN7cpu3zOf6NFolQ3qbGHDzwE=",
+  "PinKey": "qpJYGhQUfhe64n/4+J9N2FidcIFZZLWKlG2Us35ioro=",
+  "PublicFileiOS": "https://app.digid.nl/.well-known/apple-app-site-association",
+  "PublicFileAndroid": "https://app.digid.nl/.well-known/assetlinks.json",
+  "Sentry": {
+    "iOS": "https://7b8a9bc809154bf7b59723a96c8731eb@o4508046422966272.ingest.de.sentry.io/4508120433295441",
+    "Android": "https://188ff9b29564119519a0430a94fd9130@o4508046422966272.ingest.de.sentry.io/4508280361320528",
+    "MacOS": "https://4b970d0528916663676adc2a60cf5dc0@o4508046422966272.ingest.de.sentry.io/4508120441749584",
+    "Windows": "https://e27cb9b07f2cb42f53bb6ee8e25b1bb6@o4508046422966272.ingest.de.sentry.io/4508280363221072"
+  }
+}

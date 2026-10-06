@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="Support" xml:space="preserve"><value>Ondersteuning</value></data>
+  <data name="DA117_Header" xml:space="preserve"><value>Tijdelijke pincode invoeren</value></data>
+  <data name="AppVersion" xml:space="preserve"><value>App versie</value></data>
+  <data name="ContactForm" xml:space="preserve"><value>Contactformulier</value></data>
+  <data name="Statistics" xml:space="preserve"><value>Statistieken</value></data>
+  <data name="Contact" xml:space="preserve"><value>Contact</value></data>
+  <data name="ChangePincode" xml:space="preserve"><value>Pincode wijzigen</value></data>
+  <data name="Language" xml:space="preserve"><value>Taal</value></data>
+  <data name="Pincode" xml:space="preserve"><value>Pincode</value></data>
+  <data name="DA117_Message" xml:space="preserve"><value>De laatste ingevoerde pincode was onjuist. U heeft nog {0} poging{1}.</value></data>
+  <data name="English" xml:space="preserve"><value>Engels</value></data>
+  <data name="On" xml:space="preserve"><value>Aan</value></data>
+  <data name="DyslexiaFont" xml:space="preserve"><value>Dyslexie-lettertype</value></data>
+  <data name="Off" xml:space="preserve"><value>Uit</value></data>
+  <data name="Dutch" xml:space="preserve"><value>Nederlands</value></data>
+  <data name="Theme" xml:space="preserve"><value>Thema</value></data>
+  <data name="DA037_Header" xml:space="preserve"><value>Identiteitskaart deblokkeren</value></data>
+  <data name="Settings" xml:space="preserve"><value>Instellingen</value></data>
+  <data name="AppCode" xml:space="preserve"><value>App code</value></data>
+  <data name="DA112_Message" xml:space="preserve"><value>De ingevoerde pincodes zijn niet gelijk.</value></data>
+  <data name="DA037_Message" xml:space="preserve"><value>U gaat nu uw {0} deblokkeren.</value></data>
+  <data name="A11y" xml:space="preserve"><value>Toegankelijkheid</value></data>
+  <data name="Back" xml:space="preserve"><value>Terug</value></data>
+  <data name="Help" xml:space="preserve"><value>Help</value></data>
+  <data name="Success" xml:space="preserve"><value>Gelukt</value></data>
+  </root>

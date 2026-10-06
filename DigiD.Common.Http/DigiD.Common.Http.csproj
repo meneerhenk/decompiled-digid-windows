@@ -1,0 +1,63 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>DigiD.Common.Http</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>12.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="Microsoft.Maui.Controls">
+      <HintPath>app/Microsoft.Maui.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Maui.Graphics">
+      <HintPath>app/Microsoft.Maui.Graphics.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Maui">
+      <HintPath>app/Microsoft.Maui.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions">
+      <HintPath>app/Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="DigiD.Common.Interfaces">
+      <HintPath>app/DigiD.Common.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Http">
+      <HintPath>app/Microsoft.Extensions.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+      <HintPath>app/System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json">
+      <HintPath>app/System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="DigiD.Common.Models">
+      <HintPath>app/DigiD.Common.Models.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Requests">
+      <HintPath>app/System.Net.Requests.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Primitives">
+      <HintPath>app/System.Net.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections">
+      <HintPath>app/System.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TraceSource">
+      <HintPath>app/System.Diagnostics.TraceSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Json">
+      <HintPath>app/System.Net.Http.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography">
+      <HintPath>app/System.Security.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="CommunityToolkit.Maui.Core">
+      <HintPath>app/CommunityToolkit.Maui.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
